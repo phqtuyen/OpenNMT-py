@@ -1,426 +1,426 @@
 rename the <ORDINAL>#0 one to <NAME>#0
-<ORDINAL>#0 one should be at <TIME>#0 <DAY>#0
+edit the <ORDINAL>#0 one for <TIME>#0 <DAY>#0
 change the time on only the <ORDINAL>#0 one to <TIME>#0
-i want you to change the <TIME>#0 in the <TIME_SPAN>#0 one to active
-activate that alarm on <DATE>#0 at <TIME>#0
-set my <ORDINAL>#0 one to repeat weekly
-i need to activate the <TIME>#0 one
-turn back on all the <TIME_SPAN>#0 ones
-i want you to turn on the <TIME>#0 <DAY>#0 one
+i need to activate the <TIME_SPAN>#0 <TIME>#0 one
+turn on the one for <TIME>#0 on <DATE>#0
+set the <ORDINAL>#0 one weekly
+activate the <TIME>#0 one
+enable the <TIME_SPAN>#0 ones
+i need to activate the <DAY>#0 <TIME>#0 one
 alter the <ORDINAL>#0 one to <TIME>#0 on <DATE>#0
-switch the <ORDINAL>#0 one to the <TIME_SPAN>#0
-delete my <ORDINAL>#0 one and add <TIME>#0 in the <TIME_SPAN>#0
-deactivate the <TIME>#0 one on <DATE>#0
-can you turn off the first one which is at <TIME>#0 <DAY>#0
-remove the <ORDINAL>#0 one please
-remove the one at <TIME>#0 in the <TIME_SPAN>#0
-move the <ORDINAL>#0 one back by <TIME_SPAN>#0
-change the <ORDINAL>#0 one for <TIME_SPAN>#0 earlier
-i need to deactivate the <DATE>#0 one
-deactive the <TIME>#0 one
-the <TIME_SPAN>#0 ones can be removed
+the <ORDINAL>#0 one should be in the <TIME_SPAN>#0
+make the <ORDINAL>#0 one <TIME>#0 in the <TIME_SPAN>#0
+i need to deactivate the <DATE>#0 <TIME>#0 one
+switch off the one for <TIME>#0 <DAY>#0
+delete the <ORDINAL>#0 one please
+turn off the <TIME_SPAN>#0 one at <TIME>#0
+set the <ORDINAL>#0 one back by <TIME_SPAN>#0
+change the <ORDINAL>#0 one to <TIME_SPAN>#0 earlier
+deactivate the <DATE>#0 one
+disable the <TIME>#0 one
+i need to deactivate the <TIME_SPAN>#0 one
 deactivate the one set for <DAY>#0
-remove the one at <TIME>#0 <DAY>#0
+get rid of the one at <TIME>#0 <DAY>#0
 i need to delete the <TIME_SPAN>#0 one
-i need to delete the <TIME>#0 <TIME_SPAN>#0 one
+i need to delete the <TIME_SPAN>#0 <TIME>#0 one
 i need to delete the <DATE>#0 <TIME>#0 one
-i don't want the <ORDINAL>#0 one deactivate it
+turn off the <ORDINAL>#0
 i need the <ORDINAL>#0 one changed to <DAY>#0
-power on the <ORDINAL>#0 one
+turn on the <ORDINAL>#0
 remove the one at <TIME>#0
 i don't need the <DAY>#0 one delete it
-reactivate the <DATE>#0 one
-i want the <TIME>#0 one to go off at <TIME>#1 instead
-i need the <ORDINAL>#0 one changed to <DATE>#0
-i need to activate the <DAY>#0 one
+i need the <DATE>#0 one to be active please turn it on
+set the <TIME>#0 one to <TIME>#1
+set that <ORDINAL>#0 alarm to <DATE>#0
+please just turn the <DAY>#0 one on
 i need to delete the <DATE>#0 one
-turn off my <DATE>#0 <TIME>#0 alarm
-ring my alarm at <TIME>#0 <DATE>#0 <TIME_SPAN>#0
-what is my alarm for <DATE>#0
-on <DATE>#0 set alarm for <TIME>#0
-ringer for <TIME>#0 <DAY>#0
-in the <TIME_SPAN>#0 at <TIME>#0 wake me up on <DAY>#0
-please deactivate the alarm starting from <DAY>#0
-need alarm at <TIME>#0 on <DAY>#0 except <DAY>#1
-change the alarm to ring every <TIME_SPAN>#0 on <DAY>#0
-i need the <DAY>#0 alarm changed to <DAY>#1
+stop <DATE>#0 <TIME>#0 alert
+on <DATE>#0 in the <TIME_SPAN>#0 ring the alarm for me at <TIME>#0
+what is the name for my alarm in <DATE>#0
+set my alarm for <TIME>#0 on <DATE>#0
+create an <DAY>#0 <TIME>#0 alarm
+make a new alarm on <DAY>#0 for <TIME>#0 in the <TIME_SPAN>#0
+deactivate the alarm starting <DAY>#0
+alarm for <DAY>#0 at <TIME>#0 except <DAY>#1
+<DAY>#0 set my alarm to ring every <TIME_SPAN>#0
+i want my <DAY>#0 alarm switched over to <DAY>#1
 alarm <NAME>#0 on <DAY>#0 and <DAY>#1 at <TIME>#0
-set my alarm named <NAME>#0 on <DAY>#0 and on <DAY>#1
-on <DAY>#0 at <TIME>#0 i have <NAME>#0 and need to be notified
-what alarms did i miss <DAY>#0
-are there any alarms on <DAY>#0
-what is the length of time my repeating alarm for <DAY>#0 will go off
-please tell me the time that <DAY>#0 alarm is set for
-create an alarm from <DAY>#0 to <DAY>#1 that goes off at <TIME>#0
-ring each <DAY>#0 but not on <DAY>#1 and <DAY>#2
-what time are you going to wake me up <DAY>#0
-<NAME>#0 change time to <TIME>#0
-move <NAME>#0 to <TIME>#0 on <DAY>#0
-set an alarm at volume level <VOLUME_LEVEL>#0 to play <SOURCE>#0
-can you make <TIME>#0 alarm active
-must make <TIME>#0 alarm inactive
-wake me up every day at <TIME>#0 except <DAY>#0 and <DAY>#1
-every day i need an alarm set for <TIME>#0
-would you let me change the alarm from <TIME>#0 to <TIME>#1
-set an alarm for <TIME>#0 every day
-when is my alarm for in the <TIME_SPAN>#0
-add <TIME_SPAN>#0 to alarm
-make the alarm snooze for <TIME_SPAN>#0
-activate an <TIME>#0 alarm to <NAME>#0 with a volume level of <VOLUME_LEVEL>#0
-allow the snooze to go longer
-set my alarm to sound at <TIME>#0 every <TIME_SPAN>#0
-activate my alarms except the ones that start on <DATE>#0 at <TIME>#0
-turn off all of my saved alarms
-i need to wake up at <TIME>#0 to an alarm at volume <VOLUME_LEVEL>#0
+ring my alarm called <NAME>#0 on <DAY>#0 and again on <DAY>#1
+add alarm at <TIME>#0 <DAY>#0 called <NAME>#0
+missed wake up calls <DAY>#0 show them
+<DAY>#0 do i have an alarm set
+tell me the duration of my repeating alarm for <DAY>#0
+did i set any alarms <DAY>#0
+please set an alarm from <DAY>#0 to <DAY>#1 for <TIME>#0
+wake me up <DAY>#0 excluding <DAY>#1 and <DAY>#2
+remind me what time is my <DAY>#0 alarm set for
+i want my <NAME>#0 alarm to go off at <TIME>#0
+change <NAME>#0 reminder to <TIME>#0 on <DAY>#0
+i need an alarm that plays <SOURCE>#0 at a volume of <VOLUME_LEVEL>#0
+activate <TIME>#0 alarm
+want to cancel that <TIME>#0 alarm
+wake up call <TIME>#0 every day except both <DAY>#0 and <DAY>#1
+alexa set an alarm for <TIME>#0 that goes off every day
+please change from <TIME>#0 to <TIME>#1
+<TIME>#0 alarm needed on a daily basis
+what time is my <TIME_SPAN>#0 alarm set
+alexa move the next alarm out by <TIME_SPAN>#0
+place alarm on snooze for <TIME_SPAN>#0
+create an alarm for <TIME>#0 and set the volume to <VOLUME_LEVEL>#0 and name it <NAME>#0
+hit snooze
+i need to activate the alarm that goes off at <TIME>#0 seven <TIME_SPAN>#0s a week
+turn on my alarms not starting on <DATE>#0 at <TIME>#0
+i want all of my alarms on
+set up an alarm for <TIME>#0 and set the volume to <VOLUME_LEVEL>#0
 activate an alarm on <DATE>#0 at <TIME>#0
-put it on standard time
-go to military time
-activate the daily <TIME>#0 alarm
-turn on my next alarm
-how about you activate this alarm
-set an alarm named <NAME>#0
-create <TIME_SPAN>#0 wake up called <NAME>#0
-set one alarm for <TIME>#0 and another for <TIME>#1
-add a <TIME>#0 alarm but not on the <DAY>#0
-i need to set my alarm
-want <TIME>#0 alarm
-let me sleep for <TIME_SPAN>#0
-create a recurring ringer
-make new ringer on <TIME>#0 called <NAME>#0
-on <DATE>#0 i need an alarm set
+switch to standard time
+change the display to military time
+turn on the alarm that rings daily at <TIME>#0
+turn on the next scheduled alarm
+want to enable the alarm
+make alarm named <NAME>#0
+wake me up in <TIME_SPAN>#0 and name it <NAME>#0
+set wake up call at <TIME>#0 and an alarm for <TIME>#1
+set alarm for <TIME>#0 excluding the <DAY>#0
+can you set up an alarm
+create alarm at <TIME>#0
+create alarm for <TIME_SPAN>#0 in future
+i'd like a repeating alarm
+new alarm named <NAME>#0 for <TIME>#0
+create an alarm for <DATE>#0
 set alarm for every <DAY>#0 at <TIME>#0 for <NAME>#0
-set the alarm for <DAY>#0 <DATE>#0 at <TIME>#0
-make an alarm at <TIME>#0 on <DAY>#0 <DAY>#1 and <DAY>#2 <TIME_SPAN>#0
-adjust my wake up to be <TIME>#0 instead
-my event on <DAY>#0 at <TIME>#0 shift to be at <TIME>#1 instead
-make this alarm <TIME_SPAN>#0 later
-get me up <TIME_SPAN>#0 early
-shift to <TIME>#0 my meeting on <DAY>#0 at <TIME>#1
+set alarm for <DAY>#0 <DATE>#0 at <TIME>#0
+siri set an alarm at <TIME>#0 on <DAY>#0 <DAY>#1 and <DAY>#2 <TIME_SPAN>#0
+alter my wake up alarm <TIME>#0 instead
+the <TIME>#0 <DAY>#0 appointment shift to go off at <TIME>#1
+set my alarm for <TIME_SPAN>#0 later
+set my alarm for <TIME_SPAN>#0 earlier
+reset to ring at <TIME>#0 my reminder at <TIME>#1 on <DAY>#0
 would you schedule a <TIME>#0 alarm on <DAY>#0 except for <DAY>#1
-wake up alarm except <DAY>#0 every day
-make alarm volume higher
-don't wake me up
-stop the ringer on that alarm please
-turn down alarm volume
-all i want is to set volume level to <VOLUME_LEVEL>#0
-cancel all of my alarms
-disable all my alarms and form a new one at <TIME>#0
+create alarm every day excluding <DAY>#0
+i want to raise the alarm volume
+deactivate alarm for me
+be quiet alarm
+turn the ringer down
+i want to change the alarm volume to <VOLUME_LEVEL>#0
+want to cancel all alarms i have
+deactivate all alarms and set one for <TIME>#0
 create new alarm till <DAY>#0 and turn off after <TIME_SPAN>#0 and ring <SOURCE>#0
-change the alarm on <DATE>#0 to <TIME_SPAN>#0 earlier
-siri is there an alarm on <DAY>#0 for <TIME>#0
-alexa change my alarm for <DAY>#0 to ring at <TIME>#0
-turn off my <DATE>#0 alarms for <TIME>#0
-can you make my <DAY>#0 alarm <TIME_SPAN>#0 later
-alter my <TIME>#0 wake up
-create an alarm that plays <SOURCE>#0 every <TIME_SPAN>#0 for the next <TIME_SPAN>#1 and leave it deactivated
-deactivate any recurring alarms on <DATE>#0
-are any of my alarms for <DATE>#0 inactive
-have i made any daily alarms
-for <DAY>#0 is there a meeting named <NAME>#0
-do i happen to have any inactive <DATE>#0 alarms
-display all my alarms
-each day make an alarm and call it <NAME>#0 for <TIME>#0 and <TIME>#1
-create an alarm with <SOURCE>#0 at <TIME>#0
-show me all my alarms first but then deactivate them
-create <DAY>#0 alarm except <DAY>#1
-create recurring wake up call called <NAME>#0
-forget my alarm called <NAME>#0
-must get rid of alarm set for <TIME>#0
-all alarms on <DAY>#0 delete
-delete all timers and alarms
-delete this alarm please
-delete the reminders for the <TIME_SPAN>#0 on <DAY>#0
-stop the alarm for the <TIME_SPAN>#0
-please forget that alarm in the <TIME_SPAN>#0 at <TIME>#0
-could you forget the <DAY>#0 reminder at <TIME>#0
-the reminder for <DAY>#0 <TIME_SPAN>#0 at <TIME>#0 can be erased
-edit my <DAY>#0 alarm to be <TIME_SPAN>#0 earlier than usual
+edit the <DATE>#0 alarm to make it start <TIME_SPAN>#0 earlier
+do i have an alarm set for <DAY>#0 at <TIME>#0
+hey that alarm i have on <DAY>#0 make it ring at <TIME>#0
+please deactivate my alarms as i do not want them to ring on <DATE>#0 at <TIME>#0
+please push out the <DAY>#0 wake up call by <TIME_SPAN>#0
+i want to edit my alarm at <TIME>#0
+make me a deactivated alarm that rings every <TIME_SPAN>#0 for <TIME_SPAN>#1 while playing <SOURCE>#0
+cancel <DATE>#0
+what alarms do i have for <DATE>#0 are they inactive
+do i have an alarm that goes off every day
+do i have a <NAME>#0 appointment scheduled for <DAY>#0
+do i have any alarms set for <DATE>#0 that are inactive
+list all of my alarms
+for <TIME>#0 and <TIME>#1 set my alarm daily and call it <NAME>#0
+i need an alarm for <TIME>#0 that plays <SOURCE>#0
+tell me my active wake up calls then disable all of them
+set alarm <DAY>#0 with exception <DAY>#1
+build periodic wake up call and title it <NAME>#0
+forget my <NAME>#0 alarm
+how about deleting alarm set at <TIME>#0
+delete all alarms set on <DAY>#0
+get rid of all of the alarms i currently have set
+delete about that alarm
+i need to delete the <DAY>#0 <TIME_SPAN>#0 alarm
+can you delete whatever i have for this <TIME_SPAN>#0
+can you forget whatever alarm i made for this <TIME_SPAN>#0 at <TIME>#0
+could you forget the <TIME>#0 alarm i set for <DAY>#0
+forget whatever i have at <TIME>#0 <DAY>#0 <TIME_SPAN>#0
+move up the <DAY>#0 wake up alarm <TIME_SPAN>#0
 can you play the sound my current alarm makes when it goes off
-i need my <TIME>#0 alarms deactivated but leave the one called <NAME>#0 as is
-would you please create an alarm for me that is set to volume <VOLUME_LEVEL>#0 and is named <NAME>#0 but don't activate it
-i need to know the alarms that i have that won't end on <DATE>#0
+turn off all my alarms for <TIME>#0 tomorrow except the <NAME>#0 one
+make a <NAME>#0 alarm with volume <VOLUME_LEVEL>#0 but don't activate it
+list my alarms not ending on <DATE>#0
 i need <TIME_SPAN>#0 timer so i remember to <NAME>#0
-set the alarm to go off a <TIME_SPAN>#0 earlier <DAY>#0
-timer time
-display alarms i ignored
-will my alarm go off at the specified time
-what is the current time
-what is my next alarm
-more volume please
-ignore this alarm for <TIME_SPAN>#0
-delete all alarms and make one at <TIME>#0
-delete all inactive alarms but keep <NAME>#0
-turn off the next alarm i have set
-turn off alarm at <TIME>#0 on <DATE>#0
-disable the timer
-edit the <TIME>#0 wake up by <TIME_SPAN>#0 later
+set my alarm for a <TIME_SPAN>#0 earlier <DAY>#0
+what was this timer set on
+missed ones show me
+is alarm active
+can you tell me what time is it
+which alarm is next
+increase volume
+i need you to deactivate the alarm for the next <TIME_SPAN>#0
+exterminate all wake up procedures but new one at <TIME>#0
+turn off all alarms except <NAME>#0
+turn off the next alarm set to go off
+i need to have all of my repeating alarms that end on <DATE>#0 at <TIME>#0 deactivated
+cancel this timer
+please push out the alarm for <TIME>#0 by <TIME_SPAN>#0
 modify the alarm called <NAME>#0
-use <TIME_SPAN>#0 time
-change my <TIME>#0 alarm that's called <NAME>#0 to go off every <TIME_SPAN>#0
-turn off the alarms i missed
-modify title for the alarm called <NAME>#0 to <NAME>#1
-change the alarm to recurring every <DAY>#0
-is there a <NAME>#0 alarm
-tell me what alarms are on <DAY>#0 <TIME>#0
+change the display setting to <TIME_SPAN>#0 time
+change the <TIME>#0 <NAME>#0 alarm to go off every <TIME_SPAN>#0
+turn off any alarms i missed
+change the alarm called <NAME>#0 to <NAME>#1
+edit this alarm and make it repeating every <DAY>#0
+tell me if i have an alarm called <NAME>#0
+what are my <DAY>#0 <TIME>#0 alarms
 make <TIME>#0 alarm that repeats every <DAY>#0
-form an inactive <TIME>#0 alarm
-create alarm <DAY>#0 and <DAY>#1
-create new alarm at the same time as <DAY>#0
-i want <DAY>#0 and <DAY>#1 and <DAY>#2 alarm at <TIME>#0 for <NAME>#0
-show me my running alarms
-take my <TIME>#0 alarm and move it up <TIME_SPAN>#0
-could you set the volume to <VOLUME_LEVEL>#0
+create an inactive <TIME>#0 alarm
+give wake up call <DAY>#0 and <DAY>#1
+set the alarm for the time as set on <DAY>#0
+create an alarm called <NAME>#0 for <TIME>#0 on <DAY>#0 and <DAY>#1 and <DAY>#2
+active alarms
+would you make the <TIME>#0 wake up alarm <TIME_SPAN>#0 earlier
+i need the volume at <VOLUME_LEVEL>#0
 i want alarm on <DAY>#0 with <VOLUME_LEVEL>#0 volume level
-make an alarm for every <DATE>#0 that plays <SOURCE>#0
-create alarm on <DAY>#0 each <TIME_SPAN>#0
-set up an alarm for <DAY>#0 on <VOLUME_LEVEL>#0 volume that will play <SOURCE>#0 and name it <NAME>#0
-create an alarm for every <DAY>#0 and <DAY>#1 at <TIME>#0 and <TIME>#1 respectively
-place an alarm that goes off every <TIME_SPAN>#0 for the next <TIME_SPAN>#1 playing <SOURCE>#0 at <VOLUME_LEVEL>#0 volume
-make <TIME>#0 alarm each day excluding <DAY>#0
-current timer time
-turn off my alarms for <DAY>#0 and <DAY>#1
-deactivate all <DAY>#0 alarms
+set alarm for all <DATE>#0 to play <SOURCE>#0
+every <TIME_SPAN>#0 wake me up on <DAY>#0
+make an alarm called <NAME>#0 that plays <SOURCE>#0 at <VOLUME_LEVEL>#0 volume <DAY>#0
+set alarm <TIME>#0 every <DAY>#0 and <TIME>#1 each <DAY>#1
+set an alarm to ring every <TIME_SPAN>#0 for the next <TIME_SPAN>#1 to play <SOURCE>#0 at <VOLUME_LEVEL>#0 volume
+wake me up every day at <TIME>#0 except <DAY>#0
+verify time left on current timer
+turn off <DAY>#0 and <DAY>#1 alarms
+please deactivate my wake up alarms on <DAY>#0
 cancel all alarms for <TIME>#0 except for <NAME>#0 one
-delete alarms that don't end on <DATE>#0
-delete my alarm that starts on <DAY>#0
-erase all my alarms so that they don't ring on <DATE>#0 at <TIME>#0
-delete my missed alarms
+delete all alarms if they don't end on <DATE>#0
+delete any <DAY>#0 alarms
+delete my alarms so that they don't ring on <DATE>#0 at <TIME>#0
+the alarms that i missed delete them
 cancel my alarm for <DATE>#0 at <TIME>#0
-delete the next alarm
-i want you to nuke this alarm and set new alarm at <TIME>#0
-did i create any alarms that recur
+delete next alarm
+i need this deleted and a new one made for <TIME>#0
+do i have any repeating alarms
 did i miss this alarm
-did i set alarms <DAY>#0 or <DAY>#1
-show alarm called <NAME>#0
-show my recurring alarms
-find and show all alarms that are not active
-delete <DAY>#0 alarms only and display active alarms
+what alarms do i have on <DAY>#0 or <DAY>#1
+display the details for the alarm called <NAME>#0
+what alarms are repeating
+show inactive wake up calls
+turn off my <DAY>#0 alarms and display all others
 when is my latest alarm on <DAY>#0
-show me my alarms and cancel any alarms set for <DAY>#0 and <DAY>#1
-how much longer until the <NAME>#0 timer goes off
-do i have an alarm set at <TIME>#0
-do i have any alarms that do not end on <DATE>#0
-set off the bell at <TIME>#0 instead of <TIME>#1
-make alarms for everyday
-with exception <DAY>#0 and <DAY>#1 make alarm each <DAY>#2
-except <DAY>#0 create alarm on <DAY>#1
+show all alarms and turn off <DAY>#0 and <DAY>#1 alerts
+display time remaining on <NAME>#0 timer
+is there an alarm at <TIME>#0
+do i have any alarms that don't end on <DATE>#0
+edit to <TIME>#0 the one i set for <TIME>#1
+set an alarm for every day
+except <DAY>#0 and <DAY>#1 wake up every <DAY>#2
+excluding <DAY>#0 wake me up on <DAY>#1
 except <DAY>#0 i need to wake up at <TIME>#0 each <DAY>#1
-ring my alarm on <DATE>#0 and <DATE>#1 at <TIME>#0
+on <DATE>#0 and <DATE>#1 set my alarm to go off at <TIME>#0
 for the next <TIME_SPAN>#0 make the alarm ring every <TIME_SPAN>#1 with <SOURCE>#0 playing but leave deactivated
 let me know of any recurring ringers that are not active
 how far apart are my alarms to <NAME>#0
 how many more days do i have this alarm
 how loud is this alarm
-set two alarms for <DAY>#0 <TIME_SPAN>#0 one at <TIME>#0 and one at <TIME>#1
-create an alarm called <NAME>#0 everyday at <TIME>#0
-stop the alarm on <DATE>#0
-set alarm for <DAY>#0 at <TIME>#0 and on <DAY>#1 at <TIME>#1
-wake me up on <DAY>#0 instead of <DAY>#1
+wake me up at <TIME>#0 and <TIME>#1 <DAY>#0 <TIME_SPAN>#0
+i need to set up an alarm every night at <TIME>#0 and let's name it <NAME>#0
+deactivate the alarm set for <DATE>#0
+set alarm for <DAY>#0 <TIME>#0 and <DAY>#1 <TIME>#1
+i need to wake up on <DAY>#0 rather than <DAY>#1
 is this alarm active
-show all alarms and turn off <DAY>#0 alarms
-show me what my alarm is gonna play
-tell me the date when my <NAME>#0 will be over as per doctor prescription
+let me see my alarms and turn off the ones on <DAY>#0
+play the sounds my alarms make
+what is the end date of my <NAME>#0
 play <SOURCE>#0 at <VOLUME_LEVEL>#0 volume on an alarm for the next <TIME_SPAN>#0 every <TIME_SPAN>#1
 when did i set my first alarm for my <NAME>#0
 when is the earliest alarm set for
-show me my <TIME_SPAN>#0 alarms
+<TIME_SPAN>#0 alarms let's see them
 display the <TIME>#0 alarms
-<ORDINAL>#0 one anyway
-until what day the alarm is set
+choose the <ORDINAL>#0 one
+what day will this alarm end
 wake me up to the <SOURCE>#0 <DAY>#0
-what are my rings for <DAY>#0 <TIME_SPAN>#0 like
-what date did the <NAME>#0 alarm start on
-what is the end date and time of <NAME>#0
+what alarm do i have set for <DAY>#0 <TIME_SPAN>#0
+what was the first date for the <NAME>#0
+what is the end time and date for the <NAME>#0 alarm
 what is the name of my <DAY>#0 <TIME_SPAN>#0 alarm
 what time is this alarm set for
-what time are you going to wake me up
-what time is my alarm going off <DAY>#0 <TIME_SPAN>#0
-when did this alarm start and when will it end
-when will the alarm stop reminding me about <NAME>#0
-when will this alarm end
-<DATE>#0 is what i meant to say
-i meant to say <DAY>#0
-no <TIME>#0
-sorry i meant <TIME_SPAN>#0
-request_entity begin an alarm for <TIME>#0
-request_entity change it to <DAY>#0
-request_entity <DAY>#0 <DAY>#1 <DAY>#2 for <TIME>#0
+what time does my alarm go off
+when is my alarm going off <DAY>#0 <TIME_SPAN>#0
+when will the alarm start and end
+when will the alarm for the <NAME>#0 stop
+when will this alarm stop ringing
+i meant to say <DATE>#0
+change that to <DAY>#0
+<TIME>#0 is what i meant
+i meant <TIME_SPAN>#0
+request_entity how about <TIME>#0
+request_entity make alarm for <DAY>#0
+request_entity set an alarm for <TIME>#0 on <DAY>#0 <DAY>#1 and <DAY>#2
 set the alarm for <TIME>#0 and <TIME>#1 on <DAY>#0 and <DAY>#1
-set a weekly alarm for <TIME>#0 and <TIME>#1 on <DAY>#0 and <DAY>#1
+set the alarm for every <DAY>#0 and <DAY>#1 at <TIME>#0 at <TIME>#1
 make an alarm for <DAY>#0 at <TIME>#0 <DAY>#1 at <TIME>#1 and <DAY>#2 at <TIME>#2
 i need a weekly alarm at <TIME>#0 on <DAY>#0 <TIME>#1 on <DAY>#1 and <TIME>#2 on <DAY>#2
 ring me <DAY>#0 at <TIME>#0 and <DAY>#1 at <TIME>#1 in the <TIME_SPAN>#0
-wake me every <DAY>#0 at <TIME>#0 and <DAY>#1 at <TIME>#1 in the <TIME_SPAN>#0
-what are my alarms from <DAY>#0 to <DAY>#1
+set the alarm in the <TIME_SPAN>#0 at <TIME>#0 every <DAY>#0 and <TIME>#1 on <DAY>#1
+may i see my <DAY>#0 and <DAY>#1 alarms
 tell me which alarms do not end on <DAY>#0
 create a daily alarm at <TIME>#0 in the <TIME_SPAN>#0
-turn off all active alarms
-have the active <DAY>#0 alarms removed
-i need the active alarms for <DATE>#0 delete
-delete the <TIME>#0 alarms if they are active
-cancel all active <TIME_SPAN>#0 alarms
-no more <DAY>#0 <TIME_SPAN>#0 alarms
-erase all of my active <DAY>#0 <TIME>#0 alarms
-get rid of the active <TIME>#0 <TIME_SPAN>#0 alarms
-turn off all inactive alarms
-delete all my inactive <DAY>#0 alarms
-delete all my inactive alarms for <DATE>#0
-any inactive <TIME>#0 alarms please delete
-remove all my unnecessary <TIME_SPAN>#0 alarms
-delete inactive <DAY>#0 <TIME_SPAN>#0 ringers
-delete all my inactive <DAY>#0 <TIME>#0 alarms
-kill the unused <TIME>#0 <TIME_SPAN>#0 alarms
-make a new active alarm
-set alarm for <DAY>#0
-make an alarm for <DATE>#0
-it's important that you wake me up at <TIME>#0 tomorrow morning
-make an alarm for the <TIME_SPAN>#0
-start an alarm for <DAY>#0 <TIME_SPAN>#0 and make it active
-make an active alarm for <DAY>#0 <TIME>#0
-make a <TIME>#0 <TIME_SPAN>#0 alarm active
-set up an alarm that is inactive
-make an alarm on <DAY>#0 but don't activate it
-set <DATE>#0 inactive alarm
-set up an inactive <TIME_SPAN>#0 alarm
-form an inactive <DAY>#0 <TIME_SPAN>#0 alarm
-make an alarm on <DAY>#0 <TIME>#0 but don't activate it
-create an inactive alarm for <TIME>#0 in the <TIME_SPAN>#0
+delete all active alarms
+delete any active alarms set for <DAY>#0
+deactivate all active alarms on <DATE>#0
+get rid of the active alarms at <TIME>#0
+delete my <TIME_SPAN>#0 alarms that are active
+delete active <DAY>#0 <TIME_SPAN>#0 rings
+get rid of active <DAY>#0 <TIME>#0 alarms
+all my active <TIME>#0 <TIME_SPAN>#0 alarms are to be deleted
+all of my inactive alarms should be deleted
+please remove all of the <DAY>#0 alarms that i haven't used
+remove all my inactive <DATE>#0 alarms
+delete all my inactive <TIME>#0 alarms
+erase all my inactive <TIME_SPAN>#0 alarms
+please remove all my inactive alarms for <DAY>#0 <TIME_SPAN>#0
+remove all inactive alarms for <DAY>#0 <TIME>#0
+delete all my unused <TIME>#0 <TIME_SPAN>#0 alarms
+create an alarm an active one
+make <DAY>#0 alarm and make it active
+make an alarm for <DATE>#0 that is active
+create an alarm for <TIME>#0 and make it active
+create a <TIME_SPAN>#0 alarm and activate
+create an active alarm for <DAY>#0 <TIME_SPAN>#0
+set an ongoing alarm for <DAY>#0 at <TIME>#0
+set an active <TIME>#0 <TIME_SPAN>#0 alarm
+set inactive alarm
+on <DAY>#0 create an inactive alarm
+set up an inactive <DATE>#0 alarm
+form an inactive <TIME_SPAN>#0 alarm
+set an inactive alarm <DAY>#0 <TIME_SPAN>#0
+let's make a <DAY>#0 <TIME>#0 alarm but make it not active
+set up an inactive <TIME>#0 <TIME_SPAN>#0 alarm please
 i need to change all my active alarms to inactive
 please change all my inactive alarms to active alarms
-what are my <DAY>#0 y alarms that are active
-what alarms are active for <DATE>#0
+show all my active <DAY>#0 alarms
+what alarms are set for <DATE>#0
 only display active <TIME>#0 alarms
-display all of my <TIME_SPAN>#0 alarms which are active
-what <DAY>#0 <TIME_SPAN>#0 alarms are currently active
-please show me my <DAY>#0 <TIME>#0 active alarms
-show all my active <TIME>#0 <TIME_SPAN>#0 alarms
-what are the inactive <DAY>#0 alarms
-display inactive alarms for <TIME>#0
-what are my inactive <TIME_SPAN>#0 alarms
-display all inactive alarms for <DAY>#0 <TIME_SPAN>#0
+show all <TIME_SPAN>#0 alarms
+display all of my <DAY>#0 <TIME_SPAN>#0 alarms currently active
+show all active alarms which are set to go off <DAY>#0 <TIME>#0
+i wake up at <TIME>#0 every <TIME_SPAN>#0
+let me see all inactive <DAY>#0 alarms
+i need to see my alarms that are inactive for <TIME>#0
+display my inactive <TIME_SPAN>#0 alarms
+show all my inactive <DAY>#0 <TIME_SPAN>#0 alarms
 show the inactive <DAY>#0 <TIME>#0 alarms
-show me my <TIME>#0 <TIME_SPAN>#0 alarms i'm not using
-erase all the <DATE>#0 alarms
-form an <DAY>#0 alarm
-set an alarm for the <TIME_SPAN>#0
-set an alarm for <DAY>#0 <TIME_SPAN>#0
-activate the <TIME_SPAN>#0 <TIME>#0 alarm
-i need to see my alarms set for <DATE>#0
-what alarms do i have for <TIME>#0 <TIME_SPAN>#0
-switch on all alarms and set up a new one at <TIME>#0
-show me all of my alarms before each of them are activated
-show all my alarms and activate the ones on <DAY>#0
-show me my alarms and also activate the <DAY>#0 and <DAY>#1 ones
+tell me the inactive <TIME>#0 <TIME_SPAN>#0 alarms
+please delete all my alarms set for <DATE>#0
+create an alarm for <DAY>#0
+create an <TIME_SPAN>#0 alarm
+create a <DAY>#0 <TIME_SPAN>#0 alarm
+<TIME>#0 <TIME_SPAN>#0 alarm for tomorrow
+show me all alarms set on <DATE>#0
+show my <TIME>#0 <TIME_SPAN>#0 alarms
+create a new alarm at <TIME>#0 and activate all the other alarms
+please show me alarms before activating them
+may i see all of my alarms and will you activate the alarms for <DAY>#0
+display my alarms and activate those that occur on <DAY>#0 and <DAY>#1
 show me all my alarms for <DAY>#0 that are active or inactive
-set alarm for <DATE>#0 at <TIME>#0 on
-activate the alarm on <DATE>#0
-set all <TIME>#0 alarms apart from those names <NAME>#0
-activate alarm start from <DAY>#0
-i need to activate my missed alarms
-turn on alarm for <DATE>#0
-all of my alarms that are not set to ring on <DATE>#0 at <TIME>#0 need to be activated
-turn on all alarms on <DAY>#0
-all alarms for <DAY>#0 or <DAY>#1 need turning on
-ring me in <TIME_SPAN>#0
-deactivate my <TIME>#0 alarm recurring everyday
-an alarm that rings every <TIME_SPAN>#0 and is set at <TIME>#0 should be deactivated
-turn off all alarms but the <TIME>#0 am on <DATE>#0
-every single <DAY>#0
-<ORDINAL>#0 one and <ORDINAL>#1 one anyway
-request_entity make it everyday at <TIME>#0
-i want it to be every <TIME_SPAN>#0
-make it every year on the <DATE>#0
-no and no again
-yup
-request_entity create for <DATE>#0 <TIME_SPAN>#0
-request_entity how about <TIME>#0 on <DATE>#0
+activate the alarm at <TIME>#0 on <DATE>#0
+activate the alarm on the date of <DATE>#0
+activate all alarms set for <TIME>#0 except do not activate any named <NAME>#0
+switch on the <DAY>#0 alarm
+activate all missed alarms
+i need to activate that alarm on <DATE>#0
+activate all of my alarms that are not set to ring on <DATE>#0 at <TIME>#0
+i need the <DAY>#0 alarms activated
+switch on alarms set on <DAY>#0 or <DAY>#1
+for the next <TIME_SPAN>#0 can you activate the alarm
+turn off the daily <TIME>#0 alarm
+delete <TIME>#0 alarm that rings every <TIME_SPAN>#0
+deactivate all alarms except the <TIME>#0 alarm on <DATE>#0
+make it for every <DAY>#0
+<ORDINAL>#0 one and <ORDINAL>#1 one work for me
+request_entity make it for <TIME>#0 everyday
+set the alarm for every <TIME_SPAN>#0
+repeat the alarm every <DATE>#0
+never mind
+absolutely
+request_entity it needs to be the <DATE>#0 <TIME_SPAN>#0
+request_entity make it <DATE>#0 at <TIME>#0
 request_entity let's go with the <DATE>#0 please
-request_entity i'd like it to go off <DAY>#0 in addition to <DAY>#1 and <DAY>#2
+request_entity set the alarm for <DAY>#0 <DAY>#1 and <DAY>#2 please
 request_entity begin an alarm for <TIME>#0 on <DAY>#0 <TIME_SPAN>#0
 request_entity <TIME>#0 and <TIME>#1 <DAY>#0 <TIME_SPAN>#0
-request_entity this is for <DAY>#0 and <DAY>#1 <TIME_SPAN>#0
-request_entity put it on <DAY>#0 <TIME_SPAN>#0
+request_entity that would be <DAY>#0 and <DAY>#1 <TIME_SPAN>#0
+request_entity make it <DAY>#0 <TIME_SPAN>#0
 request_entity set it for <TIME>#0 <DAY>#0
-request_entity add <TIME>#0 and <TIME>#1 <DAY>#0
-request_entity set it for <TIME>#0 <DATE>#0 and <DAY>#0
-request_entity i need the alarm for <TIME>#0 <DAY>#0 and also on <DAY>#1
-request_entity please alert me at <TIME>#0 and <TIME>#1
-request_entity <TIME>#0 and <TIME>#1 in the <TIME_SPAN>#0
-request_entity set alarms for <TIME>#0 on <DAY>#0 and <DAY>#1 <TIME_SPAN>#0s
+request_entity change it to <TIME>#0 and <TIME>#1 <DAY>#0
+request_entity edit it so it's at <TIME>#0 for <DATE>#0 and also on the <DAY>#0
+request_entity at <TIME>#0 <DAY>#0 and on <DAY>#1
+request_entity i need it on <TIME>#0 and also on <TIME>#1
+request_entity make it go off tomorrow <TIME_SPAN>#0 at <TIME>#0 and <TIME>#1
+request_entity do <DAY>#0 and <DAY>#1 <TIME_SPAN>#0 both at <TIME>#0
 request_entity i need it in the <TIME_SPAN>#0 at <TIME>#0
-request_entity set it to <DATE>#0 at <TIME>#0 in the <TIME_SPAN>#0
-request_entity it needs to be <TIME_SPAN>#0
-request_entity set it for <TIME>#0 and <TIME>#1 on the <DATE>#0
-request_entity it will be for <DAY>#0 and <DAY>#1
-request_entity change it to both <TIME_SPAN>#0 plus <TIME_SPAN>#1
-request_entity set an alarm for <DATE>#0 and <DAY>#0
-create an alarm at <TIME>#0 and show my alarms at <TIME>#1
-tell me all <TIME>#0 alarms and set alarm for <TIME>#1
-set alarm for <TIME>#0 and <TIME>#1 on <DATE>#0 and <DATE>#1
-set alarm at <TIME>#0 on <DATE>#0 and <TIME>#1 <DATE>#1
-i want an alarm at <TIME>#0 on <DATE>#0 <TIME>#1 on <DATE>#1 and <TIME>#2 on <DATE>#2
+request_entity set it to <TIME>#0 on <DATE>#0 <TIME_SPAN>#0
+request_entity <TIME_SPAN>#0 in home
+request_entity set for <TIME>#0 and <TIME>#1 on <DATE>#0
+request_entity both <DAY>#0 and <DAY>#1
+request_entity please set the alarm for both the <TIME_SPAN>#0 and <TIME_SPAN>#1
+request_entity switch the alarm to <DATE>#0 and also to <DAY>#0
+create an alarm for <TIME>#0 and display my alarms for <TIME>#1
+display my <TIME>#0 alarms and make a <TIME>#1 alarm too
+set the alarm for <TIME>#0 and <TIME>#1 on <DATE>#0 and <DATE>#1
+create an alarm at <TIME>#0 and <TIME>#1 on <DATE>#0 and <DATE>#1 respectively
+make an alarm for <DATE>#0 at <TIME>#0 <DATE>#1 at <TIME>#1 and <DATE>#2 at <TIME>#2
 make an alarm for <TIME>#0 on <DATE>#0 and <TIME>#1 <DATE>#1 in the <TIME_SPAN>#0
-remove my active alarms but keep the one called <NAME>#0
-please set the alarm '<NAME>#0' to and delete all alarms
-display alarms that ring on all <DAY>#0 but <DAY>#1
-delete all alarms except <TIME>#0
-activate all my <DAY>#0 alarms and show me all alarms
-i want to get to know your owner
-how are you doing
-hi what's your name
-bye bye bot
-this is leading to nothing
-heya
-let me speak with a real person please
-cheers
-hihi
-bad
+keep my alarm named <NAME>#0 and delete all the other active ones
+keep my alarm named <NAME>#0 delete all the others
+show alarms that ring on <DAY>#0 but <DAY>#1
+delete all alarms except one at <TIME>#0
+activate all <DAY>#0 alarms and show all alarms
+may i ask who in vented you
+are you having a good day
+who are you and what do you want from me
+good bye
+nothing else
+helloooo
+can you put me in touch with a human
+cheers bro
+gamayzing
+stupid bot
 i need to deactivate the <TIME_SPAN>#0 alarm
-edit the <ORDINAL>#0
-i need to change the <ORDINAL>#0 one and the <ORDINAL>#1 one please
-change my <TIME_SPAN>#0 alarm to recurring every month
-change my <TIME_SPAN>#0 alarm to recurring every <TIME_SPAN>#1
-change my <TIME_SPAN>#0 one to recurring every day at <TIME>#0
+edit the <ORDINAL>#0 one anyway
+edit the <ORDINAL>#0 and the <ORDINAL>#1 ones
+change my <TIME_SPAN>#0 one to recurring every month
+change my <TIME_SPAN>#0 one to recurring every <TIME_SPAN>#1
+change my <TIME_SPAN>#0 alarm to recurring every day at <TIME>#0
 change my <DAY>#0 one to recurring
-change my <DAY>#0 alarm to recurring everyday
-change my <DAY>#0 alarm to recurring every week
+change my <DAY>#0 one to recurring everyday
+change my <DAY>#0 one to recurring every week
 change my <DAY>#0 alarm to recurring every month
 change my <DAY>#0 alarm to recurring every day at <TIME>#0
-change my <DATE>#0 alarm to recurring
-change my <DATE>#0 one to recurring everyday
+change my <DATE>#0 one to recurring
+change my <DATE>#0 alarm to recurring everyday
 change my <DATE>#0 alarm to recurring every week
-change my <DATE>#0 alarm to recurring every month
-change my <DATE>#0 alarm to recurring every <TIME_SPAN>#0
-change my <DATE>#0 alarm to recurring every day at <TIME>#0
-i want to rest more on <DAY>#0
-make the <DATE>#0 alarm later
-<TIME_SPAN>#0 alarm ring later
+change my <DATE>#0 one to recurring every month
+change my <DATE>#0 one to recurring every <TIME_SPAN>#0
+change my <DATE>#0 one to recurring every day at <TIME>#0
+<DAY>#0 alarm ring later
+i want to wake up later on <DATE>#0
+wake me up later in the <TIME_SPAN>#0
 <TIME>#0 alarm reminds me a bit later
-<ORDINAL>#0 alarm rings later
-make the <ORDINAL>#0 and <ORDINAL>#1 alarms ring later
-<DAY>#0 <TIME_SPAN>#0 alarm ring later
-ring me a bit later in the <TIME_SPAN>#0 on <DATE>#0
-<DAY>#0 <TIME>#0 alarm ring later
-make the <DATE>#0 <TIME>#0 alarm ring later
+make the <ORDINAL>#0 alarm ring later
+<ORDINAL>#0 and <ORDINAL>#1 alarms remind me later
+i want to sleep more on <DAY>#0 <TIME_SPAN>#0
+make the <DATE>#0 <TIME_SPAN>#0 alarm later
+<DAY>#0 <TIME>#0 alarm reminds me a bit later
+<DATE>#0 <TIME>#0 alarm reminds me a bit later
 <ORDINAL>#0 <DAY>#0 alarm reminds me later
-<ORDINAL>#0 <DATE>#0 alarm reminds me later
-make the <ORDINAL>#0 <TIME>#0 alarm ring later
-i want to rest less on <DAY>#0
-i want to rest a bit less on <DATE>#0
-wake me up earlier in the <TIME_SPAN>#0
-<TIME>#0 alarm reminds me a bit earlier
-<ORDINAL>#0 alarm reminds me earlier
+<ORDINAL>#0 <DATE>#0 alarm rings later
+<ORDINAL>#0 <TIME>#0 alarm rings later
+<DAY>#0 ring earlier
+i want to wake up earlier on <DATE>#0
+i want to rest less in the <TIME_SPAN>#0
+make the <TIME>#0 alarm ring earlier
+<ORDINAL>#0 alarm rings earlier
 make the <ORDINAL>#0 and <ORDINAL>#1 alarms ring earlier
-make the <DAY>#0 <TIME_SPAN>#0 alarm earlier
-i want to wake up earlier in the <TIME_SPAN>#0 on <DATE>#0
-make the <DAY>#0 <TIME>#0 alarm ring earlier
-make the <DATE>#0 <TIME>#0 alarm ring earlier
-<ORDINAL>#0 <DAY>#0 alarm reminds me earlier
-make the <ORDINAL>#0 <DATE>#0 alarm ring earlier
-<ORDINAL>#0 <TIME>#0 alarm rings earlier
-delete the <ORDINAL>#0 one and the <ORDINAL>#1 one anyway
+wake me up earlier on <DAY>#0 <TIME_SPAN>#0
+i want to rest less in the <TIME_SPAN>#0 on <DATE>#0
+<DAY>#0 <TIME>#0 alarm reminds me a bit earlier
+<DATE>#0 <TIME>#0 alarm reminds me a bit earlier
+make the <ORDINAL>#0 <DAY>#0 alarm ring earlier
+<ORDINAL>#0 <DATE>#0 alarm rings earlier
+<ORDINAL>#0 <TIME>#0 alarm reminds me earlier
+delete the <ORDINAL>#0 one and the <ORDINAL>#1 one
 delete my <ORDINAL>#0 <TIME>#0 one
-delete my <ORDINAL>#0 <TIME>#0 alarm
+i need to delete the <ORDINAL>#0 <TIME>#0 alarm
 delete my <ORDINAL>#0 <TIME_SPAN>#0 one
 i need to delete the <ORDINAL>#0 <TIME_SPAN>#0 alarm
 i need to delete the <ORDINAL>#0 <DAY>#0 one
@@ -428,50 +428,50 @@ i need to delete the <ORDINAL>#0 <DAY>#0 alarm
 delete my <ORDINAL>#0 <DATE>#0 one
 i need to delete the <ORDINAL>#0 <DATE>#0 alarm
 i need to delete the <ORDINAL>#0 <TIME>#0 <TIME_SPAN>#0 one
-i need to delete the <ORDINAL>#0 <TIME>#0 <TIME_SPAN>#0 alarm
+i need to delete the <ORDINAL>#0 <TIME_SPAN>#0 <TIME>#0 alarm
 i need to deactivate the <ORDINAL>#0 one and the <ORDINAL>#1 one anyway
 i need to deactivate the <ORDINAL>#0 <TIME>#0 one
 deactivate my <ORDINAL>#0 <TIME>#0 alarm
 i need to deactivate the <ORDINAL>#0 <TIME_SPAN>#0 one
-i need to deactivate the <ORDINAL>#0 <TIME_SPAN>#0 alarm
-deactivate my <ORDINAL>#0 <DAY>#0 one
-deactivate my <ORDINAL>#0 <DAY>#0 alarm
+deactivate my <ORDINAL>#0 <TIME_SPAN>#0 alarm
+i need to deactivate the <ORDINAL>#0 <DAY>#0 one
+i need to deactivate the <ORDINAL>#0 <DAY>#0 alarm
 i need to deactivate the <ORDINAL>#0 <DATE>#0 one
-deactivate my <ORDINAL>#0 <DATE>#0 alarm
+i need to deactivate the <ORDINAL>#0 <DATE>#0 alarm
 i need to deactivate the <TIME_SPAN>#0 <TIME>#0 alarm
-i need to deactivate the <ORDINAL>#0 <TIME_SPAN>#0 <TIME>#0 one
-i need to deactivate the <ORDINAL>#0 <TIME_SPAN>#0 <TIME>#0 alarm
-activate the <ORDINAL>#0 one and the <ORDINAL>#1 one
+i need to deactivate the <ORDINAL>#0 <TIME>#0 <TIME_SPAN>#0 one
+i need to deactivate the <ORDINAL>#0 <TIME>#0 <TIME_SPAN>#0 alarm
+i need to activate the <ORDINAL>#0 one and the <ORDINAL>#1 one please
 activate my <ORDINAL>#0 <TIME>#0 one
-activate my <ORDINAL>#0 <TIME>#0 alarm
+i need to activate the <ORDINAL>#0 <TIME>#0 alarm
 i need to activate the <ORDINAL>#0 <TIME_SPAN>#0 one
 activate my <ORDINAL>#0 <TIME_SPAN>#0 alarm
 activate my <ORDINAL>#0 <DAY>#0 one
-activate my <ORDINAL>#0 <DAY>#0 alarm
-i need to activate the <ORDINAL>#0 <DATE>#0 one
-activate my <ORDINAL>#0 <DATE>#0 alarm
+i need to activate the <ORDINAL>#0 <DAY>#0 alarm
+activate my <ORDINAL>#0 <DATE>#0 one
+i need to activate the <ORDINAL>#0 <DATE>#0 alarm
 i need to activate the <TIME>#0 <TIME_SPAN>#0 alarm
 i need to activate the <ORDINAL>#0 <TIME_SPAN>#0 <TIME>#0 one
 i need to activate the <ORDINAL>#0 <TIME_SPAN>#0 <TIME>#0 alarm
-create an alarm every week
-request_entity set it every week at <DAY>#0 <TIME>#0
-show me my active recurring alarms
-need an alarm called <NAME>#0 for every <DAY>#0 except <DAY>#1
-every <DAY>#0 create an alarm called <NAME>#0
-i need an alarm called <NAME>#0 for everyday except <DAY>#0
+make an alarm ringing every week
+request_entity make it for <DAY>#0 <TIME>#0 every week
+give me all my active and recurring alarms
+every <DAY>#0 except <DAY>#1 create an alarm called <NAME>#0
+create an alarm named <NAME>#0 every <DAY>#0
+alarm me everyday except <DAY>#0 named <NAME>#0
 create an alarm called <NAME>#0 everyday
-activate <DAY>#0 <TIME_SPAN>#0 if snow
-i should get up earlier by <TIME_SPAN>#0 if the freeway is bad <DAY>#0 <TIME_SPAN>#1
-if the traffic is bad <DAY>#0 wake me up <TIME_SPAN>#0 earlier
-if it's snowing set alarm <TIME_SPAN>#0 ahead <DAY>#0 <TIME_SPAN>#1
-i need to wake up <TIME_SPAN>#0 earlier <DAY>#0 if it's snowing
-get me up earlier by <TIME_SPAN>#0 <DAY>#0 <TIME_SPAN>#1 if it's sunny out
+for <DAY>#0 <TIME_SPAN>#0 activate my alarm if it is a snowy day
+i should be up earlier by <TIME_SPAN>#0 if the freeway is busy <DAY>#0 <TIME_SPAN>#1
+if traffic is bad wake me up <TIME_SPAN>#0 earlier <DAY>#0
+i need to wake up <TIME_SPAN>#0 earlier <DAY>#0 <TIME_SPAN>#1 if it's snowing
+if it's snowy set alarm <TIME_SPAN>#0 ahead <DAY>#0
+i should be up earlier by <TIME_SPAN>#0 <DAY>#0 <TIME_SPAN>#1 if it's a sunny day
 if we get any sun wake me up <TIME_SPAN>#0 earlier <DAY>#0
-i should wake up <DAY>#0 <TIME_SPAN>#0 earlier by <TIME_SPAN>#1 if the road is slow
-if we get snow <DAY>#0 <TIME_SPAN>#0 wake me up <TIME_SPAN>#1 earlier
-<DAY>#0 <TIME_SPAN>#0 i should be up if it's sunny <TIME_SPAN>#1 earlier
-i need to be awake later by <TIME_SPAN>#0 <DAY>#0 <TIME_SPAN>#1 if the roads are fast
-let me wake up <TIME_SPAN>#0 later <DAY>#0 if the traffic is good
-<DAY>#0 <TIME_SPAN>#0 if traffic is good set off my alarm later by <TIME_SPAN>#1
-if the weather is snowy don't wake me up in the <TIME_SPAN>#0 <DAY>#0
+if traffic is heavy i need to be awake <DAY>#0 <TIME_SPAN>#0 <TIME_SPAN>#1 earlier
+wake me up <TIME_SPAN>#0 earlier <DAY>#0 <TIME_SPAN>#1 if we get snow
+<DAY>#0 <TIME_SPAN>#0 if it's a sunny day wake me up <TIME_SPAN>#1 earlier
+i should be up later by <TIME_SPAN>#0 <DAY>#0 <TIME_SPAN>#1 if the freeway is open
+if traffic is light <DAY>#0 wake me up <TIME_SPAN>#0 later
+set off my alarm <DAY>#0 <TIME_SPAN>#0 if the road is clear later by <TIME_SPAN>#1
+in the <TIME_SPAN>#0 <DAY>#0 if it's snowing don't wake me up
 show my latest alarms
