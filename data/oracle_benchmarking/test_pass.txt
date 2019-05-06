@@ -1,0 +1,20 @@
+delete alarm at <TIME>#0	{"action":{"delete":"*"},"constraints":{"when_time":"<TIME>#0"}}
+
+can you erase alarm named <NAME>#0	{"action":{"delete":"*"},"constraints":{"name":"<NAME>#0"}}
+
+delete my inactive alarms except the one called <NAME>#0	{"action":{"delete":"*"},"constraints":{"name":"~<NAME>#0","state":"inactive"}}
+
+forget the alarms on <DAY>#0	{"action":{"delete":"*"},"constraints":{"when_day":"<DAY>#0"}}
+
+forget the alarm at <TIME>#0 in the <TIME_SPAN>#0	{"action":{"delete":"*"},"constraints":{"when_time":["<TIME>#0","<TIME_SPAN>#0"]}}
+
+forget that alarm that's set for <TIME>#0	{"action":{"delete":"*"},"constraints":{"when_time":"<TIME>#0"}}
+
+forget my alarm for <DAY>#0 at <TIME>#0	{"action":{"delete":"*"},"constraints":{"when_day":"<DAY>#0","when_time":"<TIME>#0"}}
+
+forget any alarms for <DAY>#0 <TIME_SPAN>#0	{"action":{"delete":"*"},"constraints":{"when_day":"<DAY>#0","when_time":"<TIME_SPAN>#0"}}
+
+forget my alarm on <DAY>#0 at <TIME>#0 in the <TIME_SPAN>#0	{"action":{"delete":"*"},"constraints":{"when_day":"<DAY>#0","when_time":["<TIME>#0","<TIME_SPAN>#0"]}}
+forget the reminder for <DAY>#0 <TIME_SPAN>#0 at <TIME>#0	{"action":{"delete":"*"},"constraints":{"when_day":"<DAY>#0","when_time":["<TIME>#0","<TIME_SPAN>#0"]}}
+
+forget the reminder for <DAY>#0 <TIME_SPAN>#0 at <TIME>#0	{"action":{"delete":"*"},"constraints":{"when_day":"<DAY>#0","when_time":["<TIME>#0","<TIME_SPAN>#0"]}}
