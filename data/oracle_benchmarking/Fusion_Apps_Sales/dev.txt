@@ -1,46 +1,46 @@
-save meeting minutes
-follow up call report
-create followup appointment for last meeting
-create callreport
-Add a task to my to-do list
-create a follow-up to-do
-enter meeting minutes
-create call report for today
-file call minutes for last Tuesday's meetings
-Create a call report from the meeting just ended
-i want to follow up on the meeting "Green Server Demo"
-I have some meeting minutes to enter
-Follow up on last meeting
-create a call report for the last meeting
-add follow-up to do
-I need to follow up and meet them again
-follow up on previous appt
+schedule next appointment
+Schedule a follow-up meeting for me
+follow up on meeting that ended yesterday
+Please create a follow-up appointment
+schedule followup for last meeting
+create call report for last appointment
+log call outcome for yesterday's meetings
+log call outcome for today's meetings
+log appointment outcome
+add follow-up task
+add meeting minutes
 add meeting minutes for last appointment
-get open tasks
-can i know more about account pyramid systems
-get my to-dos for today
+I have some meeting minutes to enter
+create a call report for the last appt
+create next appointment
+follow up on meeting with John
+log call outcome for yesterday
+book a follow-up for meeting just ended
+What tasks are due?
+overdue to-dos
+A brief summary of opportunity
+show me my pipeline
 Show my biggest opportunity
-give me information about my next meeting
-show my pipeline
-please show my next appt
-give me details about my next appt
-Get my biggest opportunities
-Tell me more about opportunity
-next meeting
-what do i need to know for my next meeting
-Get my next meeting
-get pipeline for next fiscal quarter
-pipeline please
+get my tasks for tomorrow
+get tasks
+What items are due
+show me details of account abc corporations
+Get the opportunities for the next fiscal quarter
+get my open to-do for today
+next sales meeting
+get overdue to dos
+get my account
+Opptys
 next appointment briefing
-get my open to dos for today
-Get my biggest opportunity
-Opty details
-get the opptys in my pipeline
-What do I have to do today
-What do I have to do tomorrow
-get open opportunities
-get me my tasks for yesterday
-how is my day today?
-daily sales briefing
-sales brieifng
-send sales briefing
+My biggest opportunities
+Show me my to-do list?
+My opportunities
+Get me my open tasks
+get account 360
+what is my next meeting
+Please show my opptys
+Can I know more about opportunity opty
+sales breifing
+let me know what is my sales briefing
+sales brifing
+sales briefing please
