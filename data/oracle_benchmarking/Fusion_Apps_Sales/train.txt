@@ -1,329 +1,375 @@
-Please create a follow-up call report
-create a task for the appointment with david
-file meeting minutes for last Tuesday's meetings
-add meeting outcome
-log a meeting outcome
-sch follow up meeting
-please create a follow-up task for last appointment
-add a follow up task
-followup on my last appointment
-follow-up on previous meeting
-make a report of the last meeting
-add meeting minutes for yesterday's meetings
-add call report
-log call outcome
-book a follow-up for appt just ended
-follow up call report
-follow up
-please follow up on last meeting
-i want to follow up on yesterday's meeting
-create followup for last Friday's meeting
-schedule followup
-enter a call report
-previous appointment follow up
-Schedule a follow-up call report for the previous meeting at 10:30 AM
-I need to have a follow-up call report
-Create follow-up appointment for the appointment at August 2, 2017
-follow up please
-followup on previous appointment
-create next meeting
-enter call report
-add call report for last wed's appointment
-i want to follow up on the meeting "Green Server Demo"
-schedule follow up meeting
-book a follow-up for yesterday's appointment
-create call report for last monday's meeting
-create call report for last monday's appointment
-add followup for last Friday's meeting
-add followup meeting
-enter meeting minutes for the previous meeting
-please create followup task
-create a task for the appointment
-Create a call report from the meeting just ended
-create followup appointment for last meeting
-create a follow-up to-do
-book a follow-up
-Add a follow up meeting to my calendar
-Prepare a call report
-schedule next meeting
-create call report for today
-followup
-add followup for last appointment
-log call report
-Schedule a follow-up appointment for the previous meeting
-create appointment
-please follow up on last appointment
-schedule followup for last Friday's meeting
-log appt outcome
-Let's follow up on last days meeting
-create followup appointment
-create a follow-up todo
+add meeting minutes
 follow up on past appt
-file call minutes
-Create a follow-up call
-create call report for last appt
-Follow up on last meeting
-followup on the meeting "Meeting with John"
-Followup on the meeting that just got over
-i want to followup on the meeting "Meeting with Susan"
-Log a call for appointment at 10am
-log appointment
-book a follow-up for last meeting
-follow up on past meeting
-create a call report for the last meeting
-create callreport
-follow up on previous appointment
-Create follow-up appointment for the meeting just ended
-book follow up appointment
-schedule follow-up appointment
-add follow-up to do
-Create a follow-up task
-schedule follow-up meeting
-follow up appointment
-sch follow up appointment
-last appointment follow ups
 Create a report based on the appointment just ended
-add meeting minutes for yesterday
-create a follow-up to do
-add meeting minutes for last monday
+book follow up appointment
 followup appointment
-I need to meet again
-schedule followup meeting
-create a followup to-do
-sch next meeting
-make a report of the today's meeting
-log a call outcome
-add appt outcome
-create call report for last Friday's meeting
-schedule followup appointment
-schedule follow up appointment
-log a call
-i want to follow up on the meeting that just ended
-Create a report of the appointment
-followup on last appointment
-Add a follow up appointment to my calendar
-Record my meeting
-I need to have a follow-up appointment
-create call report for last meeting
-i want to follow up on my last meeting
-let me create a task
-followup on past appointment
-book follow-up
-follow-up
-please add a follow-up task for last appointment
-Create follow-up call report for the meeting just ended
-follow up on previous meeting
-follow up on the meeting that just completed
-create a follow up to-do
-I want to follow up
-I need another call report
-previous appointment follow ups
-last appointment follow up
-followup on previous meeting
-please create a follow-up task
-schedule a follow-up task for me
-book a follow-up for appointment just ended
-add follow up for last appt
-I want to follow up on the last meeting
-save a call report
-add call report for last appointment
+followup on the meeting "Meeting with John"
+create follow up appointment for last meeting
+Create a follow-up task
+follow up on meeting with John
+log meeting
 create a call report for the last appointment
-followup on last meeting
-please show my next appt
-get account
-get me the details for account pyramid systems
-get overdue to do
-Any tasks for the day?
-Show my opportunities
-get my open tasks for today
-get me tasks for tomorrow
-get me my open tasks from tomorrow till thursday
-Get me the details of opportunity
-get me account pyramid
-Get me the list of opportunities with contact
-what is the next mtg?
-acct details please
-Show my biggest opportunites
-Display the opportunities in next 180 days
-list pipeline
-get my opportunities
-Get the opportunity for the next fiscal quarter
-Get pipeline
-What are my open tasks
-Get me the opportunities with contact
-please give me my next meeting briefing
-next appt
-my sales pipeline
-please show me acct details for pinnacle
-Get my next appointment
-show three opportunities in my pipeline
-My biggest opportunity
-Get pipeline for next quarter
-please give me my next appt briefing
-Get opptys
-show details for account
-get all overdue tasks
-tell me about my next appt
-What's my pipeline
-give me information about my next appointment
-get account pyramid
-open tasks
-overdue todos
-get my open opportunities
-What must be completed today
-tasks
-show overdue tasks
-overdue to do
-open account huawei systems
-get me my tasks for today
-Get my biggest opportunity
-what are my tasks due today
-list opportunities
-give me details about my next meeting
-What are my tasks for today?
-next appointment
-Do I have any open tasks for tomorrow?
-show pipeline
-what do i need to know for my next meeting
-view pipelines
-I want to see my pipeline
-Get me the opportunities
-get the opptys in my pipeline
-show tasks
-get open tasks for next week
-Get the pipeline for the next fiscal quarter
-Open tasks for the day
-Open opportunities
-what are my open tasks
-get tasks for next week
-To-dos for the day?
-what is my next app
-get open tasks
-view pipeline
-get open tasks for tomorrow
-Pipeline
-view opportunities
-get tasks for monday to friday
-tell me about my next appointment
-nxt appt
-Anything due?
-get overdue todos
-get pipeline in the next fiscal quarter
-what do I need to know for my next appointment
-get me the opties for next fiscal year
-give me my next meeting
-What do I have to do today
-More information on opty
-what appointment is next
-please give me my pipelines
-next meeting
-View to-dos
-More information on opportunity
-what's in my pipeline
-What tasks are due yesterday
-Get the details of opty
-My top opportunities
-give me my next appointment
-details of opportunity
-tell me about my next meeting
-I would like to see my pipeline
-opportunity pipeline
-List the opportunities in the current fiscal quarter
-give me details about my next mtg
-get me the opties closing next fiscal quarter
-Open my opportunities
-get my to-dos for today
-get me my tasks for tomorrow
-get my open to do for today
-give me information about my next meeting
-what are my open opps
-what are my opptys
-please show my next appointment
+follow up call report
+create a task for the appointment with david
+follow up on previous appt
+follow up
+create follow-up appointment
+follow up on meeting that ended yesterday
+I need to have a follow-up call report
+add call report for last appointment
+add call report for yesterday's appointment
+log a meeting outcome
+enter call report
+Please create a follow-up call report
+create call report for last appt
+I need to follow up and meet them again
+log appt
+create callreport
+Create follow-up appointment for the appointment at August 2, 2017
+enter a call report
+add follow-up to do
+create call report for last Friday's meeting
+follow up on previous meeting
+Add a follow up meeting to my calendar
+followup on past meeting
+follow up please
+log call outcome
+follow up appointment
+sch next meeting
+i want to follow up on my previous meeting
+book follow-up
+Schedule a follow-up appointment for the previous meeting
+Schedule a follow-up call report for the previous meeting at 10:30 AM
+log appointment outcome
+enter meeting minutes for the past meeting
+please create followup task
+followup
+i want to follow up on the meeting that just finished
+book a follow-up for yesterday's appointment
+previous appointment follow ups
+follow-up on past meeting
+create a task for the appointment
+Please create a follow-up appointment
+create call report for last monday's appointment
+add follow-up task
+follow up on past appointment
+Prepare a call report
+enter meeting minutes
+follow-up
+create followup for last Friday's meeting
+create appointment
+last appointment follow ups
+add followup for last appointment
+i want to follow up on the meeting "Green Server Demo"
+log call outcome for yesterday
+schedule followup for last Friday's meeting
+file meeting minutes
+let me create a task
+log call outcome for today's meetings
+i want to follow up on yesterday's meeting
+save meeting minutes
+file call minutes for last Tuesday's meetings
+make a report of the today's meeting
+schedule followup meeting
+add followup meeting
+schedule follow up appointment
+create a call report for the last appt
+followup on my last appointment
+please add a follow-up task for last appointment
+create a call report
+i want to follow up on the meeting that was on June 1
+book a follow-up for last meeting
+schedule follow up meeting
+Prepare a follow-up meeting with Tim
+I have some meeting minutes to enter
+create call report for last appointment
+create next appointment
+add followup to-do
+schedule follow-up meeting
+Record my meeting
+add followup todo
+Followup on the meeting that just got over
+Create a follow-up call
+create next meeting
+add follow up meeting
+I need another call report
+please follow up on last meeting
+add appt outcome
+create a call report for the last meeting
+Create follow-up call report for the meeting just ended
+schedule next meeting
+please follow up on last appointment
+sch follow up meeting
+book a follow-up
+please create a follow-up task for last appointment
+follow up on appointment
+Create follow-up appointment for the meeting just ended
+please create a follow-up task
+schedule followup for last meeting
+sch follow up appointment
+create followup appointment for last meeting
+Follow up on last meeting
+log appointment
+follow up on the meeting that just completed
+enter meeting minutes for the previous meeting
+create call report for today
+file meeting minutes for last Tuesday's meetings
+book a follow-up for appointment just ended
+i want to follow up on my last meeting
+previous appointment follow up
+schedule follow-up appointment
+followup on last appointment
+add meeting minutes for last appointment
+schedule followup appointment
+schedule next appointment
+i want to follow up on the meeting that just ended
+follow up on past meeting
+schedule followup
+Create a call report for the appointment "Meeting with John"
+Add a follow up appointment to my calendar
+book a follow-up for meeting just ended
+Create a report of the appointment
+Let's follow up on last days meeting
+I want to follow up on the last meeting
+make a report of the last meeting
+followup on past appointment
+create followup appointment
+book follow-up meeting
+log a meeting
+Create a call report for the appointment with id 5352323
+last appointment follow up
+followup on previous appointment
+follow up
+Create a call report from the meeting just ended
+file call minutes
+add call report for last wed's appointment
+I need to meet again
+create call report for last meeting
+follow-up on previous meeting
+add meeting minutes for last monday
+get my open to-do for today
+get my tasks for tomorrow
 list open opportunities
-Show my opptys
-view opportunities in my pipeline
-get open opportunities
-get my to dos for today
-next appt briefing
-please send account details
-more information on account abc corporations
-send my opptys
-get my to-do for today
-what are my open tasks due today
-give me details about my next appointment
-what's next
-pipeline please
-get tasks for tomorrow
-get my open to-dos for today
-get acct pinnacle
-Show me the details of opty
-please give me my next appointment briefing
-overdue to dos
-get me tasks for yesterday
-Can you give me a briefing of opportunity
-what meeting is next
-What tasks are past due
-next sales appointment
-Get my next meeting
-tasks due today
-account360 for pinnacle
-nxt meeting
+What tasks are due?
+what is my next apppointment
+What items are due
+get my next appt
+get me my tasks for tomorrow
+Get me the opportunities
 show my pipeline
-Opty details
-What are my pending tasks?
-Get opportunity
-sales pipeline
-Tell me more about opportunity
-what are my open opptys
-next meeting briefing
-what are my open opportunities
-brief summary of account pyramid systems
-What do I need to get done today
-get me task for today
+pipelines
+What all are open in my pipeline
+get tasks for tomorrow
+Can I know more about opportunity opty
+Get me the details of opportunity
+next meeting
+overdue to-dos
+what is my next meeting
+view pipeline
+Get my next meeting
+get overdue to do
+nxt appt
+What must be completed today
+get open tasks for next week
+give me information about my next meeting
+next mtg
+get all overdue tasks
+tell me about my next appointment
+please give me my next appt briefing
+get my to do for today
+show three opportunities in my pipeline
+which appts next
 get my account pinnacle
-get me my tasks for yesterday
-Get my pipeline
-Do I have any pending tasks?
-account details please
+get acct pinnacle
+Tasks
+get open tasks for tomorrow
+What do I have to do today
+Pipeline
+next meeting briefing
+what are my opps
+What's my pipeline
+get me my open tasks for tomorrow
+get tasks
+what are my opptys
+Any tasks for the day?
 do I have a next appointment?
-nxt appointment
-show me my pipelines
+show pipeline
+give me my next appointment
+who am I meeting next
+overdue tasks
 Opportunity details
+give me details about my next meeting
+get me tasks for yesterday
+show details for account pyramid
+open tasks
+what appointment is next
+next appointment briefing
+please show my next appointment
 please show my next meeting
-my pipeline please
+Open my opportunities
+give me my next meeting
+What do I have to do tomorrow
+show me my overdue tasks
+next sales meeting
+get my open tasks for nov 15
+Show my opportunities
+get overdue to dos
+Open tasks for the day
+Show my opptys
+Show my biggest opportunity
+give me details about my next appt
+Show me the details of opty
+what is the next mtg?
+get me tasks for tomorrow
+get tasks for today
+summary of account
+A brief summary of opportunity
+Show me my to-do list?
+next sales appointment
+More information on opportunity
+View to-dos
+get my task for yesterday
+get my opportunities
+Get me the opportunities with contact
+get acct
+get open tasks
+Can you give me a briefing of opportunity
+show open tasks
+get my open to-dos for today
+get the opptys in my pipeline
+Show me the details of opportunity
+get pipeline in the next fiscal quarter
+Do I have any pending tasks?
+next appt
+My top opportunities
+get open opportunities
+tasks due tomorrow
+please give me my pipeline
+get me account pyramid
+tasks
+Display the opportunities in next 180 days
+overdue todos
+please show me acct details for pinnacle
+Get me my open tasks
+Show my biggest opportunites
+Opty details
+tell me about my next appt
+More information on opty
+get pipeline for next fiscal quarter
+show details for account
+get overdue tasks
+list pipeline
+Get opptys
+get me task for today
+what are my open tasks due today
+I would like to see my pipeline
+give me details about my next appointment
+sales pipeline
+nxt appointment
+overdue to dos
+What are my tasks for today?
+Anything that I have to complete today
+what is next for me?
+get my account
+What do I need to get done today
+get account 360
+get my tasks for nov 15
+show tasks
+Get the opportunity for the next fiscal quarter
+what are my open opptys
+my sales pipeline
+get overdue to-dos
+what meeting is next
+what do i need to know for my next meeting
+Get the details of opty
+view opportunities in my pipeline
+My opportunities
+please show me acct details for pinnacle
+send my opptys
+more information on account abc corporations
+brief summary of account pyramid systems
+show me details of account abc corporations
+acct details please
+What tasks are due yesterday
+give me details about my next mtg
+what do I need to know for my next appointment
+get my to-dos for today
+what are my tasks due today
+open account huawei systems
+Get my biggest opportunities
+get task
+What tasks are past due
+get me my open tasks from tomorrow till thursday
+get me my tasks for yesterday
+Get opportunity
+tasks overdue
+what are my open opps
+overdue to do
+details of opty
 get my task for today
-morning sales briefing
-Today's update
-show me my sales briefing
-sale breifng
-My briefing
-sale briefing
-brief me
-Get me my sales briefing
-How am I doing
-pls send sales briefing
-My sales briefing, please
-sales brieifng
-daily brifiengs
-please send sales briefing
-Sales Briefing
-Tell me how Im doing
-send my sales briefing
-let me know my sales briefing
-what is my sales briefing
-sales briefing
-sales brfing
-sale briefin
-Get me the summary of information I should know today
+Get my next appointment
+I want to see my pipeline
+get my open opportunities
+Get the opportunities in my pipeline
+next appointment
+list my open opportunities
+show me my pipelines
+account details please
+get my open tasks for today
+what are my opportunities
+view pipelines
+To-dos for the day?
+Get me the list of opportunities with contact
+What are my pending tasks?
+list opportunities
+show overdue tasks
+Opptys
+My opptys
+get overdue todos
+get tasks for next week
+Get my pipeline
+details of opportunity
+pipeline please
+Do I have any open tasks for tomorrow?
+my pipeline please
+Get the opportunities for the next fiscal quarter
+Open opportunities
 daily breefings
-Sales briefing
-brief me about my sales
-daily sales briefing
-What do I need to know about
-morning briefing
+sales breifing
+daily brefings
+pls send sales briefing
 Update for today
-sales breefing
-send sales briefing
-how is my day today?
-get my sales briefing
+My sales briefing, please
+let me know what is my sales briefing
+Today's briefing
+sales briefing
+briefing sales
+daily briefings
+Get me my sales briefing
+sales brfing
+Sales Briefing
+please send sales briefing
 daily briefing
+sale briefin
+how is my day?
+Today's update
+sales breefing
+Get me the summary of information I should know today
+briefing for sales
+Briefing
+sales brieifng
+brief me
+show me my sales briefing
+Sales briefing
+daily brifiengs
+My briefing
+send sales briefing
+let me know my sales briefing
+morning briefing
+sales briefing please
+How am I doing
+daily sales briefing
+sales brifing
+Tell me how Im doing
+how is my day today?
+brief me about my sales

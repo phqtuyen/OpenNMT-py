@@ -1,92 +1,46 @@
-enter meeting minutes
-follow up on past appointment
-Prepare a follow-up meeting with Tim
-log a meeting
-add followup to-do
-create follow up appointment for last meeting
-book follow-up meeting
-create a task for the meeting
-i want to follow up on the meeting that just finished
-I need to follow up and meet them again
-add followup todo
-Add a task to my to-do list
-file meeting minutes
-follow up on appointment
-i want to follow up on the meeting that was on June 1
-add follow up meeting
-follow-up on past meeting
-book follow-up appointment
-create a call report
-Create a call report for the appointment "Meeting with John"
-file appointment minutes
-log appt
-add call report for yesterday's appointment
-create call report
-save meeting minutes
-create follow-up appointment
-follow up
-follow up on previous appt
-log meeting
-i want to follow up on my previous meeting
-file call minutes for last Tuesday's meetings
-book follow up meeting
-enter meeting minutes for the past meeting
-Create a call report for the appointment with id 5352323
+schedule a follow-up task for me
+follow up on previous appointment
+add meeting minutes for yesterday
 can you create a follow up task?
-followup on past meeting
-who am I meeting next
-What do I have to do tomorrow
-next mtg
-get task
-get acct
-list my open opportunities
-get me my open tasks for tomorrow
-what is my next apppointment
-display opty
-Tasks
-account 360 for pinnacle
-My opptys
-Show me the details of opportunity
-get pipeline for next fiscal quarter
-get tasks for today
-please give me my pipeline
-what are my opportunities
-pipelines
-show open tasks
-get my tasks for nov 15
-details of opty
-overdue tasks
-get my to do for today
-what are my opps
-show details for account pyramid
+Schedule a follow-up meeting for me
+followup on last meeting
+Log a call for appointment at 10am
+add follow up for last appt
+create a follow-up to do
+create a task for the meeting
+book follow-up appointment
+create a follow up to-do
+create a follow-up todo
+i want to followup on the meeting "Meeting with Susan"
+add a follow up task
+add call report
+create a follow-up to-do
+log call outcome for yesterday's meetings
+List the opportunities in the current fiscal quarter
+Get pipeline
+what's in my pipeline
+please give me my next appointment briefing
+what are my open tasks
+get account
+Please show my opptys
+next appt briefing
+please give me my pipelines
+Get my biggest opportunity
+view opportunities
+Get the pipeline for the next fiscal quarter
+show me my pipeline
+please show my next appt
+My biggest opportunity
+get me the opties closing next fiscal quarter
+please send account details
 get my open to dos for today
-get overdue tasks
-get my next appt
-tasks due yesterday
-give me details about my next appt
-what are my tasks due
-what is next for me?
-get overdue to-dos
-Anything that I have to complete today
 can i know more about account pyramid systems
-tasks due tomorrow
-summary of account
-get my open tasks for nov 15
-tasks overdue
-show me my overdue tasks
-What all are open in my pipeline
-which appts next
-pipeline
-get my task for yesterday
-Get the opportunities in my pipeline
-Get my biggest opportunities
-What tasks are due today?
-please show me acct details for pinnacle
+tell me about my next meeting
+Anything due?
+get me my tasks for today
+please give me my next meeting briefing
+account 360 for pinnacle
 send me my sales briefing
-Today's briefing
-briefing for sales
-daily briefings
-briefing sales
-how is my day?
-Briefing
-daily brefings
+get my sales briefing
+morning sales briefing
+sale breifng
