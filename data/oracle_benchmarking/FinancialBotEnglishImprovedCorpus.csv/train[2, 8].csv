@@ -1,0 +1,15 @@
+guid,text_a,label
+0,How much money did I save last year?,balances_
+1,What’s the value of my e-trade account?,balances_
+2,Whats my balance,balances_
+3,What’s the current balance on my cc?,balances_
+4,Show me my last 10 Saving account transactions,transactions_
+5,How many days until I get paid?,transactions_
+6,Show my transactions for last weekend.,transactions_
+7,How much did I deposit last week?,transactions_
+8,How much did I spend on June 2nd?,track_spending_
+9,What was my largest hotel transaction in 2015?,track_spending_
+10,How much did I spend on travel in March?,track_spending_
+11,How much have I spent on restaurants in 2016?,track_spending_
+12,"What should I do if my card is lost or stolen, or if I notice unauthorized card transactions?",faq_
+13,I’d like to send Sasha $20 for lunch,send_money_

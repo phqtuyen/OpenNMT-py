@@ -1,0 +1,12 @@
+guid,text_a,label
+0,How much money do I have in checking?,balances_
+1,How much money do I have in all of my accounts?,balances_
+2,Show my largest transaction in May,transactions_
+3,Show me my last 10 Saving account transactions,transactions_
+4,How much did I spend eating out last week?,track_spending_
+5,How much did I spend at Apple last year?,track_spending_
+6,How much did I spend on Uber? Last month?,track_spending_
+7,What was my largest hotel transaction in 2015?,track_spending_
+45,Can I add or update beneficiaries for my accounts online?,faq_
+51,Pay Lauren $15 for photos,send_money_
+51,Pay Lauren $200,send_money_

@@ -1,0 +1,9 @@
+guid,text_a,label
+0,What’s the value of my e-trade account?,balances_
+1,How much do I owe on all my credit cards?,balances_
+2,Show my transactions for last weekend.,transactions_
+3,Show me all the checks I sent out last month,transactions_
+4,What was my most expensive restaurant expense?,track_spending_
+5,How much did I spend on clothes in June?,track_spending_
+6,What is a designated beneficiary?,faq_
+7,Pay Chase the minimum balance on the 15th of the month,send_money_

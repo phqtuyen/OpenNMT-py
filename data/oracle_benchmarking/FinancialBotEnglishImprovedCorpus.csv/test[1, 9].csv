@@ -1,0 +1,55 @@
+guid,text_a,label
+0,What’s my balance?,balances_
+1,How much money do I have in checking?,balances_
+2,How much money did I save last month?,balances_
+3,How much money do I have in all of my accounts?,balances_
+4,What’s the value of my savings account?,balances_
+5,Whats my balance,balances_
+6,What do I owe?,balances_
+7,What’s the current value of my savings account?,balances_
+8,What’s my available credit on my Visa?,balances_
+9,How much do I have available?,balances_
+10,How much money did I save last year?,balances_
+11,What’s the current balance on my cc?,balances_
+12,How much did I deposit last week?,transactions_
+13,Show my last 5 checks,transactions_
+14,How much did I transfer from checking to savings last year?,transactions_
+15,How much did I pay Andy last week?,transactions_
+16,Show me my last 10 Saving account transactions,transactions_
+17,Show me my Checking account transactions from January to May,transactions_
+18,When did I last get paid?,transactions_
+19,How much did I deposit in April?,transactions_
+20,Show my largest transaction in May,transactions_
+21,Show my most expensive transaction in July,transactions_
+22,How many days until I get paid?,transactions_
+23,What did I deposit last weekend?,transactions_
+24,How much did I pay Sasha in July?,transactions_
+25,How much did I spend on gas using my Visa cc last week?,track_spending_
+26,What did I spend on food in London last month?,track_spending_
+27,What was my largest Best Buy transaction?,track_spending_
+28,How much have I spent on restaurants in 2016?,track_spending_
+29,What was my largest concert ticket?,track_spending_
+30,What was my largest hotel transaction in 2015?,track_spending_
+31,How much did I spend on groceries last week?,track_spending_
+32,How much did I spend at Apple last year?,track_spending_
+33,How much did I spend on travel in March?,track_spending_
+34,What was my most expensive gas bill last weekend?,track_spending_
+35,How much did I spend on June 2nd?,track_spending_
+36,How much did I spend last weekend?,track_spending_
+37,How much did I spend eating out last week?,track_spending_
+38,How much have I spent in 2016?,track_spending_
+39,How much have I spent at Philz Coffee?,track_spending_
+40,How much did I spend on Uber? Last month?,track_spending_
+41,How much did I spend on gas in October?,track_spending_
+42,How much did I spend on gas last month?,track_spending_
+7,How do I name a beneficiary?,faq_
+7,I noticed an unauthorized card transaction,faq_
+7,"What should I do if my card is lost or stolen, or if I notice unauthorized card transactions?",faq_
+7,Can I add or update beneficiaries for my accounts online?,faq_
+8,Pay my credit card,send_money_
+8,Pay Lauren $200,send_money_
+8,Pay the minimum balance on my credit card on the 15th of the month,send_money_
+8,Pay Lauren $15 for photos,send_money_
+8,Pay Cleo for rent on the 1st of every month using Paypal,send_money_
+8,I’d like to send Sasha $20 for lunch,send_money_
+8,Send $500 to Mom from Savings every month,send_money_

@@ -1,0 +1,34 @@
+guid,text_a,label
+0,What do I owe?,balances_
+1,What’s my balance?,balances_
+2,What’s the current balance on my cc?,balances_
+3,How much money do I have in checking?,balances_
+4,What’s my available credit on my Visa?,balances_
+5,Whats my balance,balances_
+6,How much did I pay Andy last week?,transactions_
+7,Show me my last 10 Saving account transactions,transactions_
+8,When did I last get paid?,transactions_
+9,Show me my Checking account transactions from January to May,transactions_
+10,Show my last 5 checks,transactions_
+11,Show my transactions for last weekend.,transactions_
+12,How much did I pay Sasha in July?,transactions_
+13,How much did I spend on groceries last week?,track_spending_
+14,What did I spend on food in London last month?,track_spending_
+15,How much did I spend eating out last week?,track_spending_
+16,How much have I spent in 2016?,track_spending_
+17,How much did I spend on gas using my Visa cc last week?,track_spending_
+18,What was my largest Best Buy transaction?,track_spending_
+19,How much did I spend on June 2nd?,track_spending_
+20,How much did I spend last weekend?,track_spending_
+21,What was my most expensive restaurant expense?,track_spending_
+22,How much did I spend on gas in October?,track_spending_
+23,What was my largest hotel transaction in 2015?,track_spending_
+24,How much did I spend on travel in March?,track_spending_
+26,"What should I do if my card is lost or stolen, or if I notice unauthorized card transactions?",faq_
+26,Can I add or update beneficiaries for my accounts online?,faq_
+26,What is a designated beneficiary?,faq_
+29,Pay Chase the minimum balance on the 15th of the month,send_money_
+29,Pay the minimum balance on my credit card on the 15th of the month,send_money_
+29,Pay Lauren $15 for photos,send_money_
+29,Pay my credit card,send_money_
+29,Pay Lauren $200,send_money_
