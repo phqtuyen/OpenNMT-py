@@ -1,0 +1,45 @@
+guid,text_a,label
+0,abscd,unresolvedintent
+1,merchant is apple,create_expense
+2,Food and beverages $30,create_expense
+3,create my expense,create_expense
+4,called cab on sep 3,create_expense
+5,Parking 20,create_expense
+6,taxi on Aug 5,create_expense
+7,Taxi $20 on 5/1/2018,create_expense
+8,Expense my train to city,create_expense
+9,Parking lot near Moscone for 20,create_expense
+10,process this,create_expense
+11,expense it,create_expense
+12,taxi  for sunday,create_expense
+13,"Food expense on 1st Januvary 2010 , $100",create_expense
+14,Parking $45,create_expense
+15,File a claim for taxi 20 dollars,create_expense
+16,Dining out $30,create_expense
+17,Airport parking fee $60 last sunday,create_expense
+18,upload expense,create_expense
+19,Please add expense item for taxi fare $30,create_expense
+20,file this,create_expense
+21,Coffee outside $10,create_expense
+22,airfare expense for 123$,create_expense
+23,"Parking fee at railway station, $10 last sunday",create_expense
+24,Parked at 5th and Mission for 20 dollars,create_expense
+25,I paid 20 dollars for meal,create_expense
+26,I paid 20 for parking,create_expense
+27,Add my food expense $30,create_expense
+28,File a claim for meal for 20 dollars,create_expense
+29,"Parking $20, last sunday",create_expense
+30,$10 spend on lunch,create_expense
+31,Taxi $20 on 5th May,create_expense
+32,find the receipt,create_expense
+33,expense,create_expense
+34,Sandwich $30,create_expense
+35,Add Taxi fare $20,create_expense
+36,What happened to my expense,other_operations_on_expense
+37,list my expenses,other_operations_on_expense
+38,Edit my expense,other_operations_on_expense
+39,Can i correct my expense,other_operations_on_expense
+40,revert my expense,other_operations_on_expense
+41,What is the status of my expense report,other_operations_on_expense
+42,I want to change my expense details,other_operations_on_expense
+43,Update amount,other_operations_on_expense

@@ -1,23 +1,22 @@
-uyshg
-called cab on sep 3
-Taxi 20
-expense my receipt
-Taxi to city $20
-Fee for parking space at hotel, today
-merchant is abcd
-i had a breakfast
-BART parking $20
-Expense my train to city
-submit this receipt
-create taxi expense
-meals for 54$
-I paid 20 for parking
-Paid parking at mall, $30
-Taxi $20 yesterday
-$ expense for eating
-taxi on feb 2nd
-I would like to edit my expense
+create
+8.36$ sep4 meals
+Parking $20
+taxi  for sunday 29$
+Create parking expense for 20 on 5/2
+Taxi $20 today
+Petrol for my vehicle today
+Restaurant bill $20
+Meal $20 today
+Took taxi for $20 to city on 5/6
+New Expense
+Taxi expense for $10.72 on Sept 21
+paypark $20, today
+uploaded a receipt
+Lunch with team, $200
+Create expense for $56
+Parking fee at carnival movies $50
+Expense Metro pass $30 for other transportation (cab)
 Can i submit my expense
-Is my expense paid?
-I want to change my expense details
+what can i do next
+submit my expense
 Change amount

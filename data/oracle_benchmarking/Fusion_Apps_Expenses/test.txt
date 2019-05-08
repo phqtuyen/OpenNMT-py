@@ -1,22 +1,44 @@
-meal with john for friday
-8.36$ sep4 meals
-create my expense $23 yesterday
+abscd
+merchant is apple
+Food and beverages $30
+create my expense
+called cab on sep 3
+Parking 20
+taxi on Aug 5
+Taxi $20 on 5/1/2018
+Expense my train to city
+Parking lot near Moscone for 20
+process this
+expense it
+taxi  for sunday
+Food expense on 1st Januvary 2010 , $100
 Parking $45
-Paid valet $20
-Took taxi for $20 to city on 5/6
-parking charges at hospital, $10
-Starbucks 20 today
-Claim parking for 20 dollar
-Pay and park $10
-find the receipt
-Taxi $20
+File a claim for taxi 20 dollars
+Dining out $30
+Airport parking fee $60 last sunday
+upload expense
+Please add expense item for taxi fare $30
+file this
 Coffee outside $10
-Petrol for my vehicle for 4$
-Create meal expense for 20 on 5/2
-I paid 20 dollars for taxi on 2nd May
-expense  this
-i had a dinner
-update location
+airfare expense for 123$
+Parking fee at railway station, $10 last sunday
+Parked at 5th and Mission for 20 dollars
+I paid 20 dollars for meal
+I paid 20 for parking
+Add my food expense $30
+File a claim for meal for 20 dollars
+Parking $20, last sunday
+$10 spend on lunch
+Taxi $20 on 5th May
+find the receipt
+expense
+Sandwich $30
+Add Taxi fare $20
+What happened to my expense
+list my expenses
+Edit my expense
+Can i correct my expense
+revert my expense
 What is the status of my expense report
-submit all expenses
-Delete all expense
+I want to change my expense details
+Update amount

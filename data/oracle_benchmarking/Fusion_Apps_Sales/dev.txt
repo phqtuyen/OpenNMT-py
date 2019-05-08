@@ -1,46 +1,45 @@
-book follow up meeting
-create call report for last monday's meeting
-add meeting outcome
+Create follow-up appointment for the appointment at August 2, 2017
 book a follow-up for appt just ended
-add followup for last Friday's meeting
-followup on previous meeting
-create call report
-log a call outcome
-Add a task to my to-do list
-I want to follow up
-log appt outcome
+add follow-up task
+last appointment follow up
+log appointment outcome
+Follow up on last meeting
+schedule follow up appointment
+Add a follow up meeting to my calendar
+book a follow-up
+i want to follow up on the meeting that just finished
+add call report for yesterday's appointment
+file call minutes
+Schedule a follow-up call report for the previous meeting at 10:30 AM
+follow up on past appointment
+followup on previous appointment
+book a follow-up for appointment just ended
+enter call report
 I need to have a follow-up appointment
-save a call report
-create a followup to-do
-add meeting minutes for yesterday's meetings
-file appointment minutes
-log call report
-log a call
-get me the details for account pyramid systems
-what's next
-tasks due today
-what is my next app
-display opty
-get my to dos for today
-get my open to do for today
-pipeline
-get tasks for monday to friday
-Get pipeline for next quarter
-opportunity pipeline
-What are my open tasks
-get my to-do for today
-get me the opties for next fiscal year
-what are my tasks due
-My biggest opportunities
-tasks due yesterday
-What tasks are due today?
-nxt meeting
+what are my opps
 account360 for pinnacle
-get account pyramid
-Tell me more about opportunity
-what are my open opportunities
-give me information about my next appointment
-What do I need to know about
-what is my sales briefing
-send my sales briefing
-sale briefing
+who am I meeting next
+show tasks
+get pipeline in the next fiscal quarter
+please show me acct details for pinnacle
+please give me my pipelines
+overdue tasks
+next appt
+please send account details
+show overdue tasks
+get me my tasks for today
+My top opportunities
+show details for account
+get pipeline for next fiscal quarter
+get task
+can i know more about account pyramid systems
+Opportunity details
+Get me the details of opportunity
+My biggest opportunity
+Get me the list of opportunities with contact
+get my to do for today
+get overdue todos
+sales brfing
+get my sales briefing
+send sales briefing
+My briefing

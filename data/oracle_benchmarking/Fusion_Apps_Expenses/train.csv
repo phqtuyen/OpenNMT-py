@@ -1,0 +1,186 @@
+guid,text_a,label
+0,help,unresolvedintent
+1,uyshg,unresolvedintent
+2,qwerty,unresolvedintent
+3,exit now will do tomorrow,unresolvedintent
+4,Exit,unresolvedintent
+5,bla,unresolvedintent
+6,Help,unresolvedintent
+7,exit,unresolvedintent
+8,expense miles,create_expense
+9,"Parking fee at snacks bar, $10",create_expense
+10,file my expense,create_expense
+11,Meal $20 on 5th May,create_expense
+12,$12 paid for parking,create_expense
+13,air 925,create_expense
+14,taxi on feb 2nd,create_expense
+15,create,create_expense
+16,"Dinner $30 , at Leela palace yesterday",create_expense
+17,create taxi expense today,create_expense
+18,"parking charges at hospital, $10",create_expense
+19,Parking 7/7/18 $20,create_expense
+20,create claim,create_expense
+21,Taxi ride from home to airport for $60 under Other Transportation please,create_expense
+22,Parking garage for 20,create_expense
+23,8.36$ sep4 meals,create_expense
+24,merchant is abcd,create_expense
+25,tolls bill $21,create_expense
+26,Parking $20 on 5/1/2018,create_expense
+27,Lunch from subway $20,create_expense
+28,Pay and park $10,create_expense
+29,Expense train,create_expense
+30,Took a taxi to office $50  yesterday,create_expense
+31,Parking $20,create_expense
+32,i had a breakfast,create_expense
+33,Taxi from home to city 20,create_expense
+34,Add taxi expense for $20 on 5/6,create_expense
+35,"Penalty at no parking area, $500",create_expense
+36,Breakfast at McDonald's $10,create_expense
+37,diesel for my vehicle 8$,create_expense
+38,Starbucks 20 today,create_expense
+39,taxi  for sunday 29$,create_expense
+40,create my taxi expense,create_expense
+41,expense my receipt,create_expense
+42,"Fee for parking space at hotel, today",create_expense
+43,Valet $20,create_expense
+44,I paid 20 dollars for taxi on 2nd May,create_expense
+45,"Parking July 7, 2018 $20",create_expense
+46,Parking $20 today,create_expense
+47,Create parking expense for 20 on 5/2,create_expense
+48,Parking $20 on 5th May,create_expense
+49,create exp 40usd,create_expense
+50,log a expense,create_expense
+51,I want to file Travel expense,create_expense
+52,send this,create_expense
+53,Took a $30 taxi ride to the Airport (CDG),create_expense
+54,"$30 for taxi from airport to office at Newyork, USA",create_expense
+55,Taxi $20 today,create_expense
+56,meals,create_expense
+57,Create meal expense for 20 on 5/2,create_expense
+58,"Cab charges $50 , Today",create_expense
+59,create my expense $23 yesterday,create_expense
+60,create a 29,create_expense
+61,taxi expense for 4 Eur,create_expense
+62,Expense my train to the city,create_expense
+63,Petrol for my vehicle today,create_expense
+64,29$,create_expense
+65,"Parking fee $10 at Leela Palace, yesterday",create_expense
+66,Lyft 20 today,create_expense
+67,Can you please add dinner expense $30,create_expense
+68,$20 spend as meal charges,create_expense
+69,Ate sandwich for 20 dollar,create_expense
+70,I want to expense something,create_expense
+71,Restaurant bill $20,create_expense
+72,Uber for 20 from home to city,create_expense
+73,taxi on Jan 4th,create_expense
+74,Diesel for my vehicle for 7$,create_expense
+75,Meal $20 on 5/1/2018,create_expense
+76,file yesterdays expense,create_expense
+77,Upload Receipt,create_expense
+78,create a 21.46$ expense for eating,create_expense
+79,Meal $20 today,create_expense
+80,Tea and snacks yesterday $2,create_expense
+81,Buffet charges $20,create_expense
+82,taxi expense for 5 Yen,create_expense
+83,I paid 20 dollars for parking,create_expense
+84,BART parking $20,create_expense
+85,Parking fee $5 at hotel during lunch time,create_expense
+86,I paid $20 for taxi today,create_expense
+87,Took taxi for $20 to city on 5/6,create_expense
+88,create an expense,create_expense
+89,Parking $20 yesterday,create_expense
+90,Claim parking for 20 dollar,create_expense
+91,called cab on sept 2,create_expense
+92,I paid 20 for meal,create_expense
+93,Create taxi expense for $20 on 5/2.,create_expense
+94,i had a dinner,create_expense
+95,New Expense,create_expense
+96,Taxi to city $20,create_expense
+97,taxi 100 rupees,create_expense
+98,"Two wheeler parking, $20 yesterday",create_expense
+99,Meal $20 yesterday,create_expense
+100,Lunch and dinner charges yesterday $50,create_expense
+101,Taxi fare for airport $20,create_expense
+102,"Paid parking at mall, $30",create_expense
+103,Taxi expense for $10.72 on Sept 21,create_expense
+104,file an expense,create_expense
+105,Caltrain parking $20,create_expense
+106,I took taxi for $20 to city on 5/6,create_expense
+107,create taxi expense,create_expense
+108,"Parked car at office for $5, yesterday",create_expense
+109,file a claim,create_expense
+110,$60 for a cab ride on 12/2,create_expense
+111,"paypark $20, today",create_expense
+112,can you process the receipt,create_expense
+113,File a taxi ride expense under Other transportation for $20 (from HQ to SJC),create_expense
+114,petrol for my vehicle,create_expense
+115,meal with john for friday,create_expense
+116,taxi expense for 9 INR,create_expense
+117,Petrol for my vehicle for 4$,create_expense
+118,create Meals expense today,create_expense
+119,uploaded a receipt,create_expense
+120,Taxi $20 yesterday,create_expense
+121,$ expense for eating,create_expense
+122,"Parking fee $10, yesterday at Leela Palace",create_expense
+123,"Uber $40 to Oracle Office, California",create_expense
+124,Meal $20,create_expense
+125,Expense,create_expense
+126,Self park $20,create_expense
+127,"Lunch with team, $200",create_expense
+128,Grabbed lunch at McDonalds for 20 today,create_expense
+129,submit this receipt,create_expense
+130,expense  this,create_expense
+131,i had a meal,create_expense
+132,create a 20,create_expense
+133,Taxi $20,create_expense
+134,Meal 20,create_expense
+135,Create expense for $56,create_expense
+136,File a claim for parking for 20 dollars,create_expense
+137,File the expenses,create_expense
+138,expense train to city,create_expense
+139,create expense taxi 4 usd,create_expense
+140,taxi expense on Nov 4,create_expense
+141,i had a lunch,create_expense
+142,please log an expense,create_expense
+143,Parking fee at carnival movies $50,create_expense
+144,meals for 54$,create_expense
+145,taxi on march 3,create_expense
+146,Parking lot for 20 dollars,create_expense
+147,create a taxi,create_expense
+148,Taxi 20,create_expense
+149,Paid valet $20,create_expense
+150,find my receipt,create_expense
+151,Expense Metro pass $30 for other transportation (cab),create_expense
+152,Is my expense paid?,other_operations_on_expense
+153,Update type,other_operations_on_expense
+154,Delete my expense,other_operations_on_expense
+155,Remove my expense,other_operations_on_expense
+156,Edit my expense report,other_operations_on_expense
+157,copy the expense,other_operations_on_expense
+158,I would like to edit my expense,other_operations_on_expense
+159,Can i submit my expense,other_operations_on_expense
+160,submit all expenses,other_operations_on_expense
+161,what else i can do ?,other_operations_on_expense
+162,modify amount,other_operations_on_expense
+163,What's my expenses outstanding?,other_operations_on_expense
+164,Can i know my expense status,other_operations_on_expense
+165,Correct my expense details please,other_operations_on_expense
+166,modify type,other_operations_on_expense
+167,what can i do next,other_operations_on_expense
+168,Submit my expense report,other_operations_on_expense
+169,When will my expense be paid,other_operations_on_expense
+170,I want to know my expense status,other_operations_on_expense
+171,delete the expense,other_operations_on_expense
+172,change location,other_operations_on_expense
+173,update location,other_operations_on_expense
+174,modify location,other_operations_on_expense
+175,submit my expense,other_operations_on_expense
+176,Can i know the status of my expense,other_operations_on_expense
+177,Whats my expense status,other_operations_on_expense
+178,Can i know my last expense status,other_operations_on_expense
+179,Modify my last expense,other_operations_on_expense
+180,How can i know the expense status,other_operations_on_expense
+181,Change type,other_operations_on_expense
+182,Delete all expense,other_operations_on_expense
+183,Change amount,other_operations_on_expense
+184,duplicate my expense,other_operations_on_expense

@@ -1,0 +1,91 @@
+guid,text_a,label
+0,create a task for the appointment,follow-up
+1,create callreport,follow-up
+2,add followup for last Friday's meeting,follow-up
+3,follow up please,follow-up
+4,log call report,follow-up
+5,create a call report for the last meeting,follow-up
+6,i want to followup on the meeting "Meeting with Susan",follow-up
+7,Record my meeting,follow-up
+8,I need to follow up and meet them again,follow-up
+9,add meeting minutes for yesterday,follow-up
+10,schedule followup appointment,follow-up
+11,please create a follow-up task for last appointment,follow-up
+12,schedule followup for last meeting,follow-up
+13,follow up appointment,follow-up
+14,create next appointment,follow-up
+15,please create a follow-up task,follow-up
+16,create a task for the appointment with david,follow-up
+17,create next meeting,follow-up
+18,can you create a follow up task?,follow-up
+19,I have some meeting minutes to enter,follow-up
+20,follow up on meeting with John,follow-up
+21,follow up call report,follow-up
+22,I want to follow up on the last meeting,follow-up
+23,schedule follow up meeting,follow-up
+24,please follow up on last appointment,follow-up
+25,create a call report for the last appointment,follow-up
+26,schedule follow-up appointment,follow-up
+27,I need to meet again,follow-up
+28,file appointment minutes,follow-up
+29,Please create a follow-up call report,follow-up
+30,Create a report of the appointment,follow-up
+31,followup,follow-up
+32,i want to follow up on my previous meeting,follow-up
+33,add follow up meeting,follow-up
+34,Create follow-up call report for the meeting just ended,follow-up
+35,make a report of the last meeting,follow-up
+36,What do I need to get done today,get_sales_records
+37,tasks,get_sales_records
+38,What items are due,get_sales_records
+39,get me my tasks for yesterday,get_sales_records
+40,I want to see my pipeline,get_sales_records
+41,What are my open tasks,get_sales_records
+42,What all are open in my pipeline,get_sales_records
+43,nxt meeting,get_sales_records
+44,tasks due yesterday,get_sales_records
+45,pipeline,get_sales_records
+46,give me details about my next mtg,get_sales_records
+47,Please show my opptys,get_sales_records
+48,Anything due?,get_sales_records
+49,get me my open tasks for tomorrow,get_sales_records
+50,Get my next appointment,get_sales_records
+51,what are my open opps,get_sales_records
+52,Opty details,get_sales_records
+53,get my opportunities,get_sales_records
+54,tasks overdue,get_sales_records
+55,next meeting briefing,get_sales_records
+56,summary of account,get_sales_records
+57,Open opportunities,get_sales_records
+58,Show me the details of opportunity,get_sales_records
+59,tasks due today,get_sales_records
+60,what is my next apppointment,get_sales_records
+61,List the opportunities in the current fiscal quarter,get_sales_records
+62,what are my tasks due,get_sales_records
+63,Get me the opportunities,get_sales_records
+64,what appointment is next,get_sales_records
+65,Get pipeline,get_sales_records
+66,view opportunities in my pipeline,get_sales_records
+67,get open tasks for tomorrow,get_sales_records
+68,What's my pipeline,get_sales_records
+69,Get my biggest opportunity,get_sales_records
+70,get my open to dos for today,get_sales_records
+71,get my to-do for today,get_sales_records
+72,please show my next appt,get_sales_records
+73,what is my next meeting,get_sales_records
+74,get tasks,get_sales_records
+75,get my to dos for today,get_sales_records
+76,show open tasks,get_sales_records
+77,get account pyramid,get_sales_records
+78,give me my next meeting,get_sales_records
+79,what are my open tasks due today,get_sales_records
+80,get acct,get_sales_records
+81,get my open tasks for today,get_sales_records
+82,sales brifing,sales_briefing
+83,send my sales briefing,sales_briefing
+84,let me know what is my sales briefing,sales_briefing
+85,My sales briefing, please,sales_briefing
+86,daily brifiengs,sales_briefing
+87,morning sales briefing,sales_briefing
+88,sale briefing,sales_briefing
+89,daily briefing,sales_briefing
