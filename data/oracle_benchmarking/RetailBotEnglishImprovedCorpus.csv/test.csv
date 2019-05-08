@@ -1,0 +1,36 @@
+guid,text_a,label
+0,an agent please,agent_
+1,I would like to speak to an agent.,agent_
+2,Can I book a time to have a personal shopper,apptsetup_
+3,Personal shopper,apptsetup_
+4,What times do you have available,apptsetup_
+5,cancel my oder,cancelorder_
+6,returning my last order,cancelorder_
+7,List of events in my area,community_
+8,I want to take some yoga course,community_
+9,Can I bring a friend to the concert?,retailfaq_
+10,When is the 2017 Lululemon SeaWheeze Half Marathon?,retailfaq_
+11,Is there an expo?,retailfaq_
+12,How many runners will there be in the race?,retailfaq_
+13,process my gift card,giftcardbalance_
+14,take my gift card,giftcardbalance_
+15,pay with gift,giftcardbalance_
+16,Are you accepting gift cards?,giftcardbalance_
+17,How are you today?,greeting_
+18,Hello Lululemon,greeting_
+19,good afternoon,greeting_
+20,store has this shirt,inventorycheck_
+21,Are the Simply Bare Tights in black size 8 available at my local store?,inventorycheck_
+22,Where is my nearest store?,liststores_
+23,Where is Lululemon?,liststores_
+24,find stores near me,liststores_
+25,stores in San Fransisco,liststores_
+26,Can you help track down my order?,ordersummary_
+27,Where is my order?,ordersummary_
+28,my order summary,ordersummary_
+29,has my order been shipped,ordersummary_
+30,What is your return authorization number?,returnstatus_
+31,Show my return status,returnstatus_
+32,I can not see updated status of my order,returnstatus_
+33,what is the address for the store,storeinfo_
+34,store phone number,storeinfo_

@@ -1,0 +1,48 @@
+guid,text_a,label
+0,all lights on please,lightsettings_
+1,dim lights,lightsettings_
+2,dim house please,lightsettings_
+3,raise temperature please,temperaturesettings_
+4,start the air conditioning,temperaturesettings_
+5,turn on heater please,temperaturesettings_
+6,unlock all doors,securitysettings_
+7,close the garage door,securitysettings_
+8,connect to my phone,deviceconnection_
+9,less noise,volumesettings_
+10,mute,volumesettings_
+11,make it louder,volumesettings_
+12,please set volume to 30 percent,volumesettings_
+13,what time is it,datetimefaq_
+14,is it daylight savings time,datetimefaq_
+15,turn off alarm please,timeralarmsettings_
+16,turn on all alarms,timeralarmsettings_
+17,Support?,agent_
+18,What times do you have available,apptsetup_
+19,What time I can come,apptsetup_
+20,i don't want my pants that I ordered,cancelorder_
+21,Can you cancel my order please,cancelorder_
+22,show me all yoga classes,community_
+23,How do I get my results?,retailfaq_
+24,Is there a team or relay division for the race?,retailfaq_
+25,When is the 2017 Lululemon SeaWheeze Half Marathon?,retailfaq_
+26,Can I use my gift card?,giftcardbalance_
+27,my gift card,giftcardbalance_
+28,balance on my gift card,giftcardbalance_
+29,How are you today?,greeting_
+30,hey,greeting_
+31,Are the Align Pants in black size 8 available at my local store?,inventorycheck_
+32,stores in San Fransisco,liststores_
+33,Looking for my nearest store,liststores_
+34,has my order been shipped,ordersummary_
+35,When does my order get shipped?,ordersummary_
+36,Can you tell the return status of tracking number,returnstatus_
+37,would like to return these pants,returnstatus_
+38,What was the first Lululemon store in the United States?,storeinfo_
+39,What’s the value of my savings account?,balances_
+40,What’s my available credit on my Visa?,balances_
+41,What did I deposit last weekend?,transactions_
+42,Show my transactions for last weekend.,transactions_
+43,How much did I spend on groceries last week?,track_spending_
+44,What was my largest Best Buy transaction?,track_spending_
+45,How do I name a beneficiary?,faq_
+46,Send $500 to Mom from Savings every month,send_money_

@@ -1,0 +1,25 @@
+guid,text_a,label
+0,please dim lights,lightsettings_
+1,please turn on the lights,lightsettings_
+2,dim house please,lightsettings_
+3,living room light on,lightsettings_
+4,raise temperature please,temperaturesettings_
+5,lower the temperature,temperaturesettings_
+6,raise the temperature in the bedroom,temperaturesettings_
+7,raise the temperature,temperaturesettings_
+8,turn off heater,temperaturesettings_
+9,turn on air conditioner,temperaturesettings_
+10,set the security system,securitysettings_
+11,please lock my door,securitysettings_
+12,disconnect my iphone,deviceconnection_
+13,discover my devices,deviceconnection_
+14,less noise,volumesettings_
+15,"too loud, quieter please",volumesettings_
+16,turn on volume,volumesettings_
+17,lower volume please,volumesettings_
+18,turn on sound,volumesettings_
+19,increase volume please,volumesettings_
+20,what time is it,datetimefaq_
+21,is it midnight,datetimefaq_
+22,turn on all alarms,timeralarmsettings_
+23,wake me up at 5:50,timeralarmsettings_

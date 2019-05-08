@@ -1,0 +1,36 @@
+guid,text_a,label
+0,Support?,agent_
+1,Can I speak to an agent?,agent_
+2,I need personal coaching,apptsetup_
+3,Can I book a time to have a personal shopper,apptsetup_
+4,What time you have available,apptsetup_
+5,i don't want my order,cancelorder_
+6,cancel my order,cancelorder_
+7,show me your pilates classes,community_
+8,List of events in my area,community_
+9,How do I get my race results?,retailfaq_
+10,Is there a team or relay division for the race?,retailfaq_
+11,How do I get my results?,retailfaq_
+12,Who should I contact if I have a question?,retailfaq_
+13,What is the balance on my gift card?,giftcardbalance_
+14,my gift card,giftcardbalance_
+15,pay with gift,giftcardbalance_
+16,gift balance,giftcardbalance_
+17,Hi,greeting_
+18,hi there,greeting_
+19,Hey Lululemon,greeting_
+20,Are these pants available in my store?,inventorycheck_
+21,Are the Simply Bare Tights in magenta and black size 4 available at Bucktown?,inventorycheck_
+22,stores near me,liststores_
+23,any stores closest to me,liststores_
+24,stores in California,liststores_
+25,Where is my nearest store?,liststores_
+26,Did my order go through?,ordersummary_
+27,Where is my order?,ordersummary_
+28,what is my order summary,ordersummary_
+29,When is my order arriving?,ordersummary_
+30,What is your return authorization number?,returnstatus_
+31,I can not see updated status of my order,returnstatus_
+32,What is the return procedure?,returnstatus_
+33,store phone number,storeinfo_
+34,What are the store hours for my nearest store?,storeinfo_

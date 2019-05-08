@@ -1,0 +1,322 @@
+guid,text_a,label
+0,please dim all lights,lightsettings_
+1,turn off the bathroom lights,lightsettings_
+2,living room light on,lightsettings_
+3,bedroom lights 50 percent,lightsettings_
+4,dim house please,lightsettings_
+5,dim all the lights to 39 percent,lightsettings_
+6,turn off the lights,lightsettings_
+7,please turn on the lights,lightsettings_
+8,turn off all the lights,lightsettings_
+9,turn on the lights,lightsettings_
+10,dim the bedroom,lightsettings_
+11,dim lights,lightsettings_
+12,please turn off lights,lightsettings_
+13,please dim the lights,lightsettings_
+14,please dim lights,lightsettings_
+15,all lights on please,lightsettings_
+16,dim lights please,lightsettings_
+17,all lights off,lightsettings_
+18,dim the lights,lightsettings_
+19,turn off the heater,temperaturesettings_
+20,"too cold, warmer please",temperaturesettings_
+21,please raise the temperature,temperaturesettings_
+22,it is a little too hot,temperaturesettings_
+23,set temperature to 70 degrees,temperaturesettings_
+24,raise the temperature in the bedroom,temperaturesettings_
+25,it is too hot,temperaturesettings_
+26,lower the temperature,temperaturesettings_
+27,"too hot, colder please",temperaturesettings_
+28,set temperature to 80 degrees,temperaturesettings_
+29,raise the temperature,temperaturesettings_
+30,raise temperature please,temperaturesettings_
+31,turn off the ac please,temperaturesettings_
+32,turn off heater,temperaturesettings_
+33,turn off the heat,temperaturesettings_
+34,it is a little too cold,temperaturesettings_
+35,it is too cold,temperaturesettings_
+36,start the ac please,temperaturesettings_
+37,crank up the ac please,temperaturesettings_
+38,turn on the heat,temperaturesettings_
+39,please turn off the heat,temperaturesettings_
+40,lower temperature to 60 degrees,temperaturesettings_
+41,please turn on the heat,temperaturesettings_
+42,crank up the air conditioning,temperaturesettings_
+43,please lock my door,securitysettings_
+44,lock my front door please,securitysettings_
+45,close the garage,securitysettings_
+46,lock my door,securitysettings_
+47,set the security system to off,securitysettings_
+48,unlock my door,securitysettings_
+49,set the security system,securitysettings_
+50,set the security system to on,securitysettings_
+51,lock the back door,securitysettings_
+52,unlock all doors,securitysettings_
+53,disconnect my iphone,deviceconnection_
+54,discover my devices,deviceconnection_
+55,connect my phone,deviceconnection_
+56,pair with bluetooth,deviceconnection_
+57,disconnect my phone,deviceconnection_
+58,connect to my phone,deviceconnection_
+59,connect to iphone,deviceconnection_
+60,connect to my iphone,deviceconnection_
+61,mute all,volumesettings_
+62,lower volume please,volumesettings_
+63,please decrease the volume,volumesettings_
+64,higher volume,volumesettings_
+65,quieter please,volumesettings_
+66,"too loud, quieter please",volumesettings_
+67,"too loud, lower please",volumesettings_
+68,turn off volume,volumesettings_
+69,volume to 10,volumesettings_
+70,please make it quieter,volumesettings_
+71,turn on volume,volumesettings_
+72,unmute please,volumesettings_
+73,louder please,volumesettings_
+74,set volume to 89 percent,volumesettings_
+75,higher volume please,volumesettings_
+76,need more sound,volumesettings_
+77,unmute the sound,volumesettings_
+78,volume 50 percent,volumesettings_
+79,mute the sound,volumesettings_
+80,decrease volume,volumesettings_
+81,no sound please,volumesettings_
+82,increase the volume,volumesettings_
+83,lower volume,volumesettings_
+84,mute,volumesettings_
+85,turn off sound,volumesettings_
+86,unmute,volumesettings_
+87,increase volume,volumesettings_
+88,please set volume to 30 percent,volumesettings_
+89,more sound,volumesettings_
+90,turn on sound,volumesettings_
+91,increase volume please,volumesettings_
+92,is it noon,datetimefaq_
+93,is it midnight,datetimefaq_
+94,what time is it,datetimefaq_
+95,what day is today,datetimefaq_
+96,tell me the time,datetimefaq_
+97,what's today's date,datetimefaq_
+98,is it afternoon,datetimefaq_
+99,what is the time,datetimefaq_
+100,what's the time,datetimefaq_
+101,set alarm for 8:30 pm,timeralarmsettings_
+102,turn on all alarms,timeralarmsettings_
+103,set a timer for 20 seconds please,timeralarmsettings_
+104,set alarm for 7 am,timeralarmsettings_
+105,wake me up on weekdays at 8 please,timeralarmsettings_
+106,wake me up at 5:50,timeralarmsettings_
+107,turn on alarm please,timeralarmsettings_
+108,set alarm for 9 in the morining tomorrow,timeralarmsettings_
+109,set alarm for next week,timeralarmsettings_
+110,set timer for 15 minutes,timeralarmsettings_
+111,turn off alarm please,timeralarmsettings_
+112,I would like to speak to an agent.,agent_
+113,Agent please,agent_
+114,Support?,agent_
+115,an agent please,agent_
+116,Can I speak to an agent?,agent_
+117,Can I speak to a human?,agent_
+118,Please transfer me to an agent.,agent_
+119,Support please,agent_
+120,I need an appoitment,apptsetup_
+121,Do you offer personal shooping,apptsetup_
+122,What times do you have available,apptsetup_
+123,Can I book a time to have a personal shopper,apptsetup_
+124,What time can I make an appointment,apptsetup_
+125,Can I book a time for Vision + Goals coaching,apptsetup_
+126,Do you offer personal shopping,apptsetup_
+127,I need help with shopping,apptsetup_
+128,Can I setup an appoitment,apptsetup_
+129,I need personal coaching,apptsetup_
+130,What time I can come,apptsetup_
+131,I need some help,apptsetup_
+132,Can I setup an appoitment,apptsetup_
+133,schedule an appointment,apptsetup_
+134,What time you have available,apptsetup_
+135,I want to add an appointment,apptsetup_
+136,return order,cancelorder_
+137,I do not want my last order,cancelorder_
+138,i don't want my order,cancelorder_
+139,Can you cancel my order please,cancelorder_
+140,returning my last order,cancelorder_
+141,I do not want my previous order,cancelorder_
+142,i don't want my pants that I ordered,cancelorder_
+143,cancel my oder,cancelorder_
+144,returning order,cancelorder_
+145,I am looking for a list of events nearby,community_
+146,Show me your yoga courses,community_
+147,I want to take part in your run class,community_
+148,I want to take some pilates,community_
+149,show me all yoga classes,community_
+150,I want to take some yoga course,community_
+151,List of events,community_
+152,Show me your yoga course,community_
+153,Is there a team or relay division for the race?,retailfaq_
+154,Where is the Lululemon expo this year?,retailfaq_
+155,Who should I contact with my questions?,retailfaq_
+156,Who should I contact if I have a question?,retailfaq_
+157,Can I bring a friend to the yoga portion of the expo?,retailfaq_
+158,When does registration open for SeaWheeze 2017?,retailfaq_
+159,When and what streets will be closed during the race?,retailfaq_
+160,Where can I park for the race?,retailfaq_
+161,How do I get my results?,retailfaq_
+162,Is there an expo?,retailfaq_
+163,Is there a fee?,retailfaq_
+164,When is the 2017 Lululemon SeaWheeze Half Marathon?,retailfaq_
+165,I am coming in from out of town. What will the temperature be like that weekend?,retailfaq_
+166,How many runners will there be in the race?,retailfaq_
+167,How do I get my race results?,retailfaq_
+168,Can I bring a friend to the concert or yoga portion of the expo?,retailfaq_
+169,Can I bring a friend to the concert?,retailfaq_
+170,Is there a specific charity associated with the SeaWheeze this year?,retailfaq_
+171,Who do I contact with my questions?,retailfaq_
+172,What is my gift card?,giftcardbalance_
+173,What is the balance on my gift card?,giftcardbalance_
+174,gift balance,giftcardbalance_
+175,pay with gift,giftcardbalance_
+176,Can I check my gift card balance?,giftcardbalance_
+177,Can I pay with a gift card?,giftcardbalance_
+178,I have a a gift card,giftcardbalance_
+179,check my giftcard,giftcardbalance_
+180,Can I use my gift card?,giftcardbalance_
+181,check my gift card,giftcardbalance_
+182,test my gift card,giftcardbalance_
+183,pay with giftcard,giftcardbalance_
+184,I have a giftcard,giftcardbalance_
+185,my gift card,giftcardbalance_
+186,balance on my gift card,giftcardbalance_
+187,my balance,giftcardbalance_
+188,Can I use a gift card?,giftcardbalance_
+189,I have a gift card,giftcardbalance_
+190,How are you today?,greeting_
+191,Hello there,greeting_
+192,Hey Lululemon,greeting_
+193,hey there Lululemon,greeting_
+194,good afternoon,greeting_
+195,Hi there,greeting_
+196,hi,greeting_
+197,Hi,greeting_
+198,hey hey,greeting_
+199,hey,greeting_
+200,howdy,greeting_
+201,hi there,greeting_
+202,Good Evening,greeting_
+203,Hello Lululemon,greeting_
+204,Hi Lululemon,greeting_
+205,How are you?,greeting_
+206,Are these pants available in my store?,inventorycheck_
+207,Are the High Times Pants in black size 8 available at my local store?,inventorycheck_
+208,store has this shirt,inventorycheck_
+209,Are the Simply Bare Tights in black size 8 available at my local store?,inventorycheck_
+210,my store pants size 8,inventorycheck_
+211,Are the Align Pants in black size 8 available at my local store?,inventorycheck_
+212,pant size 8 at my store,inventorycheck_
+213,Are the Wunder Unders in black size 6 available at my local store?,inventorycheck_
+214,are there any Lululemon near me,liststores_
+215,Where can I find Lululemon?,liststores_
+216,any stores closest to me,liststores_
+217,stores in Dallas,liststores_
+218,find stores near me,liststores_
+219,stores in United States,liststores_
+220,stores in California,liststores_
+221,stores in Texas,liststores_
+222,Looking for my nearest store,liststores_
+223,Where is my nearest store?,liststores_
+224,Where is the nearest Lululemon?,liststores_
+225,stores near me,liststores_
+226,Where is the closest Lululemon?,liststores_
+227,any stores near to me?,liststores_
+228,Where is there a Lululemon?,liststores_
+229,Where is the store nearest to me?,liststores_
+230,Has my order shipped yet?,ordersummary_
+231,When do I receive my order?,ordersummary_
+232,my order summary,ordersummary_
+233,what is my order summary,ordersummary_
+234,Can you help track down my order?,ordersummary_
+235,Where is my order?,ordersummary_
+236,When will I receive my order?,ordersummary_
+237,has the order been shipped,ordersummary_
+238,What is the tracking id of my last order?,ordersummary_
+239,order summary,ordersummary_
+240,Did my order go through?,ordersummary_
+241,When is my order arriving?,ordersummary_
+242,has my order shipped yet,ordersummary_
+243,What is my order number?,ordersummary_
+244,where is my order,ordersummary_
+245,has my order been shipped,ordersummary_
+246,Status shows refunded but I did not receive it yet.,returnstatus_
+247,What is the return procedure?,returnstatus_
+248,show my refund status for order number #,returnstatus_
+249,What is your return authorization number?,returnstatus_
+250,Has my return been received?,returnstatus_
+251,I would like to return some pants.,returnstatus_
+252,Show my return status,returnstatus_
+253,Status shows refunded but I did not receive it yet. Can you help me find the status of my return?,returnstatus_
+254,Has my return been processed?,returnstatus_
+255,what is a return policy,returnstatus_
+256,would like to return these pants,returnstatus_
+257,Whats the status of my refund for return,returnstatus_
+258,Can I get a refund or transfer?,returnstatus_
+259,Can you tell the return status of tracking number,returnstatus_
+260,I can not see updated status of my order,returnstatus_
+261,Can you help me find the status of my return?,returnstatus_
+262,What was the first Lululemon store in the United States?,storeinfo_
+263,store hours on a holiday,storeinfo_
+264,What are the store hours for my nearest store?,storeinfo_
+265,what is the phone number of the store,storeinfo_
+266,what are the store timings?,storeinfo_
+267,store phone number,storeinfo_
+268,store timings,storeinfo_
+269,what is the address for the store,storeinfo_
+270,What’s my balance?,balances_
+271,What’s the current balance on my cc?,balances_
+272,Whats my balance,balances_
+273,How much money did I save last month?,balances_
+274,How much money did I save last year?,balances_
+275,What’s the value of my e-trade account?,balances_
+276,How much do I have available?,balances_
+277,How much money do I have in checking?,balances_
+278,What’s the value of my savings account?,balances_
+279,What do I owe?,balances_
+280,How much money do I have in all of my accounts?,balances_
+281,What’s the current value of my savings account?,balances_
+282,How much did I transfer from checking to savings last year?,transactions_
+283,How much did I deposit in April?,transactions_
+284,How much did I pay Andy last week?,transactions_
+285,When did I last get paid?,transactions_
+286,Show my last 5 checks,transactions_
+287,Show me all the checks I sent out last month,transactions_
+288,Show my transactions for last weekend.,transactions_
+289,Show me my last 10 Saving account transactions,transactions_
+290,Show me my Checking account transactions from January to May,transactions_
+291,How much did I pay Sasha in July?,transactions_
+292,Show my most expensive transaction in July,transactions_
+293,Show my largest transaction in May,transactions_
+294,What did I deposit last weekend?,transactions_
+295,What was my largest concert ticket?,track_spending_
+296,What was my largest hotel transaction in 2015?,track_spending_
+297,How much did I spend on travel in March?,track_spending_
+298,How much did I spend on groceries last week?,track_spending_
+299,How much did I spend at Apple last year?,track_spending_
+300,How much did I spend on clothes in June?,track_spending_
+301,What did I spend on food in London last month?,track_spending_
+302,What was my most expensive restaurant expense?,track_spending_
+303,How much did I spend on gas in October?,track_spending_
+304,How much have I spent at Philz Coffee?,track_spending_
+305,How much did I spend last weekend?,track_spending_
+306,How much did I spend on June 2nd?,track_spending_
+307,How much have I spent in 2016?,track_spending_
+308,How much have I spent on restaurants in 2016?,track_spending_
+309,How much did I spend on gas last month?,track_spending_
+310,What was my largest Best Buy transaction?,track_spending_
+311,"What should I do if my card is lost or stolen, or if I notice unauthorized card transactions?",faq_
+312,What is a designated beneficiary?,faq_
+313,Can I add or update beneficiaries for my accounts online?,faq_
+314,How do I name a beneficiary?,faq_
+315,I’d like to send Sasha $20 for lunch,send_money_
+316,Pay my credit card,send_money_
+317,Pay Cleo for rent on the 1st of every month using Paypal,send_money_
+318,Pay the minimum balance on my credit card on the 15th of the month,send_money_
+319,Pay Lauren $15 for photos,send_money_
+320,Pay Lauren $200,send_money_

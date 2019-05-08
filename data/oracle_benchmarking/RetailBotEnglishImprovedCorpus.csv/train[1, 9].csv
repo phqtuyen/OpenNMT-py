@@ -1,0 +1,23 @@
+guid,text_a,label
+0,Can I speak to an agent?,agent_
+1,I need help with shopping,apptsetup_
+2,Can I book a time to have a personal shopper,apptsetup_
+3,I wish to cancel my last order,cancelorder_
+4,I do not want my last order,cancelorder_
+5,Show me your yoga courses,community_
+6,When does registration open for SeaWheeze 2017?,retailfaq_
+7,Can I bring a friend to the concert?,retailfaq_
+8,How many runners will there be in the race?,retailfaq_
+9,check my giftcard,giftcardbalance_
+10,gift balance,giftcardbalance_
+11,pay with gift,giftcardbalance_
+12,hi,greeting_
+13,hey,greeting_
+14,pant size 8 at my store,inventorycheck_
+15,Where is the closest Lululemon?,liststores_
+16,any stores near to me?,liststores_
+17,has my order been shipped,ordersummary_
+18,where is my order,ordersummary_
+19,Status shows refunded but I did not receive it yet.,returnstatus_
+20,I can not see updated status of my order,returnstatus_
+21,store phone number,storeinfo_

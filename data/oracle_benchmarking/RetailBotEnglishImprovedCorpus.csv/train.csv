@@ -1,0 +1,159 @@
+guid,text_a,label
+0,Agent please,agent_
+1,Support?,agent_
+2,Would like to talk to support,agent_
+3,Please transfer me to an agent.,agent_
+4,Can I speak to a human?,agent_
+5,Can I speak to an agent?,agent_
+6,Support please,agent_
+7,Agent?,agent_
+8,schedule an appointment,apptsetup_
+9,What time you have available,apptsetup_
+10,What time can I make an appointment,apptsetup_
+11,Do you offer personal shooping,apptsetup_
+12,I need an appoitment,apptsetup_
+13,Can I book a time for Vision + Goals coaching,apptsetup_
+14,What time I can come,apptsetup_
+15,Do you offer personal shopping,apptsetup_
+16,Can I book an appoitment,apptsetup_
+17,I want to add an appointment,apptsetup_
+18,Can I setup an appoitment,apptsetup_
+19,I need help with shopping,apptsetup_
+20,I need personal coaching,apptsetup_
+21,Can I setup an appoitment,apptsetup_
+22,What times do you have available for an appointment,apptsetup_
+23,I need some help,apptsetup_
+24,cancel my order,cancelorder_
+25,returning order,cancelorder_
+26,Can you cancel my order please,cancelorder_
+27,I do not want my last order,cancelorder_
+28,I do not want my previous order,cancelorder_
+29,I wish to cancel my last order,cancelorder_
+30,i don't want my pants that I ordered,cancelorder_
+31,return order,cancelorder_
+32,i don't want my order,cancelorder_
+33,Show me your yoga course,community_
+34,I want to take part in your run class,community_
+35,Show me your yoga courses,community_
+36,List of events,community_
+37,I want to take some pilates,community_
+38,I am looking for a list of events nearby,community_
+39,show me all yoga classes,community_
+40,show me your pilates classes,community_
+41,Is there a team or relay division for the race?,retailfaq_
+42,Is there a fee for the SeaWheeze Half Marathon?,retailfaq_
+43,Who should I contact if I have a question?,retailfaq_
+44,When does registration open for SeaWheeze 2017?,retailfaq_
+45,When and what streets will be closed during the race?,retailfaq_
+46,Is there a specific charity associated with the SeaWheeze this year?,retailfaq_
+47,Who do I contact if I have a question?,retailfaq_
+48,Where is the Lululemon expo this year?,retailfaq_
+49,Who do I contact with my questions?,retailfaq_
+50,Who should I contact with my questions?,retailfaq_
+51,Is there an expo with the race?,retailfaq_
+52,Where can I park for the race?,retailfaq_
+53,I am coming in from out of town. What will the temperature be like that weekend?,retailfaq_
+54,Where is the expo?,retailfaq_
+55,Can I bring a friend to the concert or yoga portion of the expo?,retailfaq_
+56,Is there a fee?,retailfaq_
+57,Can I bring a friend to the yoga portion of the expo?,retailfaq_
+58,How do I get my results?,retailfaq_
+59,How do I get my race results?,retailfaq_
+60,Can I check my gift card balance?,giftcardbalance_
+61,I have a giftcard,giftcardbalance_
+62,Can I use a gift card?,giftcardbalance_
+63,my balance,giftcardbalance_
+64,What is my gift balance?,giftcardbalance_
+65,check my giftcard,giftcardbalance_
+66,What is my gift card?,giftcardbalance_
+67,I have a gift card,giftcardbalance_
+68,pay with giftcard,giftcardbalance_
+69,I have a a gift card,giftcardbalance_
+70,Can I pay with a gift card?,giftcardbalance_
+71,test my gift card,giftcardbalance_
+72,check my gift card,giftcardbalance_
+73,my gift card,giftcardbalance_
+74,What is the balance on my gift card?,giftcardbalance_
+75,gift balance,giftcardbalance_
+76,Can I use my gift card?,giftcardbalance_
+77,balance on my gift card,giftcardbalance_
+78,Good even,greeting_
+79,howdy,greeting_
+80,Hi there,greeting_
+81,hey there,greeting_
+82,Good morning,greeting_
+83,hey hey,greeting_
+84,Hello there,greeting_
+85,Hi,greeting_
+86,hey,greeting_
+87,hi there,greeting_
+88,hi,greeting_
+89,Good Evening,greeting_
+90,How are you?,greeting_
+91,hey there Lululemon,greeting_
+92,Hey Lululemon,greeting_
+93,Hi Lululemon,greeting_
+94,Are the High Times Pants in black size 8 available at my local store?,inventorycheck_
+95,Are the Simply Bare Tights in magenta and black size 4 available at Bucktown?,inventorycheck_
+96,my store pants size 8,inventorycheck_
+97,Are the Align Pants in black size 8 available at my local store?,inventorycheck_
+98,Are these pants available in my store?,inventorycheck_
+99,pant size 8 at my store,inventorycheck_
+100,store has my pants,inventorycheck_
+101,Are the Wunder Unders in black size 6 available at my local store?,inventorycheck_
+102,stores in Dallas,liststores_
+103,Where is there a Lululemon?,liststores_
+104,stores in Texas,liststores_
+105,Where is the closest Lululemon?,liststores_
+106,any stores close to me?,liststores_
+107,Looking for my nearest store,liststores_
+108,What stores are near me?,liststores_
+109,Where is the nearest Lululemon?,liststores_
+110,Where can I find Lululemon?,liststores_
+111,any stores near to me?,liststores_
+112,stores in United States,liststores_
+113,are there any Lululemon near me,liststores_
+114,stores in California,liststores_
+115,any stores closest to me,liststores_
+116,Where is the store nearest to me?,liststores_
+117,stores near me,liststores_
+118,When is my order arriving?,ordersummary_
+119,When will I receive my order?,ordersummary_
+120,has my order shipped yet,ordersummary_
+121,my order go through,ordersummary_
+122,When does my order get shipped?,ordersummary_
+123,Has my order shipped yet?,ordersummary_
+124,has the order been shipped,ordersummary_
+125,What is the tracking id of my last order?,ordersummary_
+126,order summary,ordersummary_
+127,What were the items in my last order?,ordersummary_
+128,What is my order number?,ordersummary_
+129,what is my order summary,ordersummary_
+130,When should I receive my order?,ordersummary_
+131,where is my order,ordersummary_
+132,When do I receive my order?,ordersummary_
+133,Did my order go through?,ordersummary_
+134,Can I get a refund or transfer?,returnstatus_
+135,Has my return been received?,returnstatus_
+136,Status shows refunded but I did not receive it yet. Can you help me find the status of my return?,returnstatus_
+137,What is the return procedure?,returnstatus_
+138,Can you help me find the status of my return?,returnstatus_
+139,When will I receive my refund?,returnstatus_
+140,Has my return been processed?,returnstatus_
+141,show my refund status for order number #,returnstatus_
+142,what is a return policy,returnstatus_
+143,Can I return the pants I bought last month?,returnstatus_
+144,I can not see updated status of my order,returnstatus_
+145,Status shows refunded but I did not receive it yet.,returnstatus_
+146,I would like to return some pants.,returnstatus_
+147,Can you tell the return status of tracking number,returnstatus_
+148,would like to return these pants,returnstatus_
+149,Whats the status of my refund for return,returnstatus_
+150,What are the store hours for my nearest store?,storeinfo_
+151,store hours on a holiday,storeinfo_
+152,What are the store hours for Store Name?,storeinfo_
+153,What was the first Lululemon store in Canada?,storeinfo_
+154,What was the first Lululemon store in the United States?,storeinfo_
+155,what are the store timings?,storeinfo_
+156,store timings,storeinfo_
+157,what is the phone number of the store,storeinfo_

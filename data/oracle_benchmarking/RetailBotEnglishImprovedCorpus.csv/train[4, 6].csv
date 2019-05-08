@@ -1,0 +1,83 @@
+guid,text_a,label
+0,Can I speak to a human?,agent_
+1,Agent?,agent_
+2,Support?,agent_
+3,Please transfer me to an agent.,agent_
+4,Do you offer personal shopping,apptsetup_
+5,Do you offer personal shooping,apptsetup_
+6,What times do you have available,apptsetup_
+7,What time you have available,apptsetup_
+8,What times do you have available for an appointment,apptsetup_
+9,I need personal coaching,apptsetup_
+10,Can I book an appoitment,apptsetup_
+11,Can I book a time to have a personal shopper,apptsetup_
+12,cancel my oder,cancelorder_
+13,I do not want my previous order,cancelorder_
+14,Can you cancel my order please,cancelorder_
+15,return order,cancelorder_
+16,cancel my order,cancelorder_
+17,I want to take some pilates,community_
+18,show me your pilates classes,community_
+19,Show me your yoga courses,community_
+20,List of events,community_
+21,Who should I contact with my questions?,retailfaq_
+22,I am coming in from out of town. What will the temperature be like that weekend?,retailfaq_
+23,How many runners will there be in the race?,retailfaq_
+24,Is there an expo?,retailfaq_
+25,When does registration open for SeaWheeze 2017?,retailfaq_
+26,Is there a fee for the SeaWheeze Half Marathon?,retailfaq_
+27,Who do I contact with my questions?,retailfaq_
+28,Where is the Lululemon expo this year?,retailfaq_
+29,Is there a team or relay division for the race?,retailfaq_
+30,When is the 2017 Lululemon SeaWheeze Half Marathon?,retailfaq_
+31,Is there a specific charity associated with the SeaWheeze this year?,retailfaq_
+32,pay with gift,giftcardbalance_
+33,Can I pay with a gift card?,giftcardbalance_
+34,I have a giftcard,giftcardbalance_
+35,my balance,giftcardbalance_
+36,Can I check my gift card balance?,giftcardbalance_
+37,check my gift card,giftcardbalance_
+38,What is my gift card?,giftcardbalance_
+39,take my gift card,giftcardbalance_
+40,balance on my gift card,giftcardbalance_
+41,I have a a gift card,giftcardbalance_
+42,How are you today?,greeting_
+43,hey there Lululemon,greeting_
+44,hi there,greeting_
+45,Good even,greeting_
+46,Hi Lululemon,greeting_
+47,How are you?,greeting_
+48,hey hey,greeting_
+49,Hello there,greeting_
+50,store has this shirt,inventorycheck_
+51,my store pants size 8,inventorycheck_
+52,store has my pants,inventorycheck_
+53,Are the Wunder Unders in black size 6 available at my local store?,inventorycheck_
+54,What stores are near me?,liststores_
+55,Where is there a Lululemon?,liststores_
+56,Where is the closest Lululemon?,liststores_
+57,any stores closest to me,liststores_
+58,stores in San Fransisco,liststores_
+59,any stores close to me?,liststores_
+60,Where is my nearest store?,liststores_
+61,Where is the nearest Lululemon?,liststores_
+62,Where is my order?,ordersummary_
+63,What were the items in my last order?,ordersummary_
+64,has my order shipped yet,ordersummary_
+65,where is my order,ordersummary_
+66,Did my order go through?,ordersummary_
+67,When is my order arriving?,ordersummary_
+68,When do I receive my order?,ordersummary_
+69,Has my order shipped yet?,ordersummary_
+70,Has my return been received?,returnstatus_
+71,Has my return been processed?,returnstatus_
+72,What is your return authorization number?,returnstatus_
+73,Status shows refunded but I did not receive it yet. Can you help me find the status of my return?,returnstatus_
+74,What is the return procedure?,returnstatus_
+75,Can I get a refund or transfer?,returnstatus_
+76,Can I return the pants I bought last month?,returnstatus_
+77,When will I receive my refund?,returnstatus_
+78,store hours on a holiday,storeinfo_
+79,what is the address for the store,storeinfo_
+80,What are the store hours for Store Name?,storeinfo_
+81,store phone number,storeinfo_

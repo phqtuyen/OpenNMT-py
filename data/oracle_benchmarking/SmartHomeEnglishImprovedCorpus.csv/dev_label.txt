@@ -1,0 +1,12 @@
+lightsettings_
+lightsettings_
+temperaturesettings_
+temperaturesettings_
+temperaturesettings_
+securitysettings_
+deviceconnection_
+volumesettings_
+volumesettings_
+volumesettings_
+datetimefaq_
+timeralarmsettings_

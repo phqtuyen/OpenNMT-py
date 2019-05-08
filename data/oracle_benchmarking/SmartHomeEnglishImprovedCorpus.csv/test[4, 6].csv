@@ -1,0 +1,76 @@
+guid,text_a,label
+0,please dim the kitchen,lightsettings_
+1,please dim all lights,lightsettings_
+2,please dim lights,lightsettings_
+3,dim the bedroom,lightsettings_
+4,bedroom light on,lightsettings_
+5,all lights on please,lightsettings_
+6,dim lights please,lightsettings_
+7,turn off the bathroom lights,lightsettings_
+8,please dim the lights,lightsettings_
+9,dim house please,lightsettings_
+10,turn off the lights,lightsettings_
+11,kitchen lights off,lightsettings_
+12,turn on air conditioner,temperaturesettings_
+13,raise the temperature,temperaturesettings_
+14,set temperature to 80 degrees,temperaturesettings_
+15,turn on the heater,temperaturesettings_
+16,raise temperature please,temperaturesettings_
+17,it is a little too hot,temperaturesettings_
+18,turn off the heat,temperaturesettings_
+19,lower temperature to 60 degrees,temperaturesettings_
+20,turn on the heat,temperaturesettings_
+21,it is too hot,temperaturesettings_
+22,please turn on the heat,temperaturesettings_
+23,crank up the ac please,temperaturesettings_
+24,raise the temperature in the bedroom,temperaturesettings_
+25,it is a little too cold,temperaturesettings_
+26,raise the temperature,temperaturesettings_
+27,turn off heater,temperaturesettings_
+28,start the ac please,temperaturesettings_
+29,crank up the air conditioning,temperaturesettings_
+30,set the security system to off,securitysettings_
+31,lock my front door please,securitysettings_
+32,please lock my door,securitysettings_
+33,lock my door,securitysettings_
+34,unlock all doors,securitysettings_
+35,open the garage door,securitysettings_
+36,connect to my phone,deviceconnection_
+37,connect to my iphone,deviceconnection_
+38,connect to iphone,deviceconnection_
+39,pair,deviceconnection_
+40,pair with my phone,deviceconnection_
+41,connect my phone,deviceconnection_
+42,can't hear the sound,volumesettings_
+43,decrease volume,volumesettings_
+44,change volume,volumesettings_
+45,"too loud, lower please",volumesettings_
+46,please make it quieter,volumesettings_
+47,please decrease the volume,volumesettings_
+48,higher volume,volumesettings_
+49,mute the sound,volumesettings_
+50,more sound,volumesettings_
+51,increase the volume,volumesettings_
+52,less noise,volumesettings_
+53,increase volume please,volumesettings_
+54,volume to 10,volumesettings_
+55,need more sound,volumesettings_
+56,turn off sound,volumesettings_
+57,turn off volume,volumesettings_
+58,lower volume,volumesettings_
+59,louder please,volumesettings_
+60,turn on volume,volumesettings_
+61,decrease the volume,volumesettings_
+62,quieter please,volumesettings_
+63,what year is it,datetimefaq_
+64,what time is it,datetimefaq_
+65,is it afternoon,datetimefaq_
+66,what is the time,datetimefaq_
+67,is it daylight savings time,datetimefaq_
+68,is it noon,datetimefaq_
+69,set alarm for 7 am,timeralarmsettings_
+70,set timer for 15 minutes,timeralarmsettings_
+71,set a timer for 20 seconds please,timeralarmsettings_
+72,turn on all alarms,timeralarmsettings_
+73,wake me up on weekdays at 8 please,timeralarmsettings_
+74,set alarm for next week,timeralarmsettings_

@@ -1,0 +1,71 @@
+guid,text_a,label
+0,dim kitchen lights,lightsettings_
+1,kitchen lights off,lightsettings_
+2,please dim the kitchen,lightsettings_
+3,bedroom light on,lightsettings_
+4,turn on air conditioner,temperaturesettings_
+5,turn on the heater,temperaturesettings_
+6,please lower temperature,temperaturesettings_
+7,raise the temperature,temperaturesettings_
+8,start the air conditioning,temperaturesettings_
+9,turn on heater please,temperaturesettings_
+10,open the garage door,securitysettings_
+11,close the garage door,securitysettings_
+12,pair with my phone,deviceconnection_
+13,pair,deviceconnection_
+14,change volume,volumesettings_
+15,make it louder,volumesettings_
+16,less noise,volumesettings_
+17,can't hear the sound,volumesettings_
+18,decrease the volume,volumesettings_
+19,"too much noise, quieter please",volumesettings_
+20,is it daylight savings time,datetimefaq_
+21,what year is it,datetimefaq_
+22,please turn off my alarm,timeralarmsettings_
+23,reset the timer,timeralarmsettings_
+24,Agent?,agent_
+25,Would like to talk to support,agent_
+26,Personal shopper,apptsetup_
+27,What times do you have available for an appointment,apptsetup_
+28,Can I book an appoitment,apptsetup_
+29,cancel my order,cancelorder_
+30,I wish to cancel my last order,cancelorder_
+31,List of events in my area,community_
+32,show me your pilates classes,community_
+33,Is there an expo with the race?,retailfaq_
+34,Is there a fee for the SeaWheeze Half Marathon?,retailfaq_
+35,Who do I contact if I have a question?,retailfaq_
+36,Where is the expo?,retailfaq_
+37,What is my gift balance?,giftcardbalance_
+38,process my gift card,giftcardbalance_
+39,take my gift card,giftcardbalance_
+40,Are you accepting gift cards?,giftcardbalance_
+41,Good even,greeting_
+42,hey there,greeting_
+43,Good morning,greeting_
+44,store has my pants,inventorycheck_
+45,Are the Simply Bare Tights in magenta and black size 4 available at Bucktown?,inventorycheck_
+46,stores in San Fransisco,liststores_
+47,any stores close to me?,liststores_
+48,Where is Lululemon?,liststores_
+49,What stores are near me?,liststores_
+50,When does my order get shipped?,ordersummary_
+51,my order go through,ordersummary_
+52,When should I receive my order?,ordersummary_
+53,What were the items in my last order?,ordersummary_
+54,I can not see updated status of my order,returnstatus_
+55,When will I receive my refund?,returnstatus_
+56,Can I return the pants I bought last month?,returnstatus_
+57,What was the first Lululemon store in Canada?,storeinfo_
+58,What are the store hours for Store Name?,storeinfo_
+59,How much do I owe on all my credit cards?,balances_
+60,What’s my available credit on my Visa?,balances_
+61,How much did I deposit last week?,transactions_
+62,How many days until I get paid?,transactions_
+63,What was my most expensive gas bill last weekend?,track_spending_
+64,How much did I spend eating out last week?,track_spending_
+65,How much did I spend on gas using my Visa cc last week?,track_spending_
+66,How much did I spend on Uber? Last month?,track_spending_
+315,I noticed an unauthorized card transaction,faq_
+321,Send $500 to Mom from Savings every month,send_money_
+321,Pay Chase the minimum balance on the 15th of the month,send_money_

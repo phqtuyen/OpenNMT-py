@@ -1,0 +1,34 @@
+guid,text_a,label
+0,all lights off,lightsettings_
+1,dim the lights,lightsettings_
+2,dim the bedroom,lightsettings_
+3,please dim lights,lightsettings_
+4,please turn on the lights,lightsettings_
+5,all lights on please,lightsettings_
+6,set temperature to 70 degrees,temperaturesettings_
+7,please turn off the heat,temperaturesettings_
+8,it is too cold,temperaturesettings_
+9,it is too hot,temperaturesettings_
+10,start the air conditioning,temperaturesettings_
+11,turn off the heat,temperaturesettings_
+12,lock the back door,securitysettings_
+13,lock my front door please,securitysettings_
+14,unlock all doors,securitysettings_
+15,set the security system to off,securitysettings_
+16,pair with my phone,deviceconnection_
+17,discover my devices,deviceconnection_
+18,"too loud, lower please",volumesettings_
+19,change volume,volumesettings_
+20,please decrease the volume,volumesettings_
+21,lower volume please,volumesettings_
+22,mute the sound,volumesettings_
+23,mute all,volumesettings_
+24,need more sound,volumesettings_
+25,volume 50 percent,volumesettings_
+26,what's today's date,datetimefaq_
+27,what year is it,datetimefaq_
+28,what's the time,datetimefaq_
+29,set timer for 15 minutes,timeralarmsettings_
+30,wake me up at 5:50,timeralarmsettings_
+31,turn off alarm please,timeralarmsettings_
+32,set a timer for 20 seconds please,timeralarmsettings_

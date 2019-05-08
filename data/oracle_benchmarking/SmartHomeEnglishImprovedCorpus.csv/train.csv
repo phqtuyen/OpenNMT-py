@@ -1,0 +1,113 @@
+guid,text_a,label
+0,please turn off lights,lightsettings_
+1,turn off the bathroom lights,lightsettings_
+2,dim lights,lightsettings_
+3,please dim the kitchen,lightsettings_
+4,dim kitchen lights,lightsettings_
+5,kitchen lights off,lightsettings_
+6,dim the lights,lightsettings_
+7,bedroom light on,lightsettings_
+8,dim the bedroom,lightsettings_
+9,turn off the lights,lightsettings_
+10,turn on the lights,lightsettings_
+11,please dim all lights,lightsettings_
+12,bedroom lights 50 percent,lightsettings_
+13,all lights on please,lightsettings_
+14,dim all the lights to 39 percent,lightsettings_
+15,turn off all the lights,lightsettings_
+16,all lights off,lightsettings_
+17,dim lights please,lightsettings_
+18,please dim the lights,lightsettings_
+19,it is too cold,temperaturesettings_
+20,"too cold, warmer please",temperaturesettings_
+21,turn off the ac please,temperaturesettings_
+22,turn off the heat,temperaturesettings_
+23,crank up the ac please,temperaturesettings_
+24,please turn on the heat,temperaturesettings_
+25,please lower temperature,temperaturesettings_
+26,it is too hot,temperaturesettings_
+27,it is a little too hot,temperaturesettings_
+28,please raise the temperature,temperaturesettings_
+29,start the air conditioning,temperaturesettings_
+30,"too hot, colder please",temperaturesettings_
+31,set temperature to 70 degrees,temperaturesettings_
+32,crank up the air conditioning,temperaturesettings_
+33,turn on the heat,temperaturesettings_
+34,please turn off the heat,temperaturesettings_
+35,turn off the heater,temperaturesettings_
+36,raise the temperature,temperaturesettings_
+37,turn on the heater,temperaturesettings_
+38,lower temperature to 60 degrees,temperaturesettings_
+39,it is a little too cold,temperaturesettings_
+40,turn on heater please,temperaturesettings_
+41,start the ac please,temperaturesettings_
+42,set temperature to 80 degrees,temperaturesettings_
+43,set the security system to on,securitysettings_
+44,unlock my door,securitysettings_
+45,unlock all doors,securitysettings_
+46,set the security system to off,securitysettings_
+47,close the garage door,securitysettings_
+48,close the garage,securitysettings_
+49,open the garage door,securitysettings_
+50,lock the back door,securitysettings_
+51,lock my door,securitysettings_
+52,lock my front door please,securitysettings_
+53,connect to my phone,deviceconnection_
+54,pair with my phone,deviceconnection_
+55,connect to iphone,deviceconnection_
+56,connect to my iphone,deviceconnection_
+57,connect my phone,deviceconnection_
+58,pair with bluetooth,deviceconnection_
+59,disconnect my phone,deviceconnection_
+60,pair,deviceconnection_
+61,please decrease the volume,volumesettings_
+62,"too much noise, quieter please",volumesettings_
+63,mute the sound,volumesettings_
+64,"too loud, lower please",volumesettings_
+65,volume 50 percent,volumesettings_
+66,lower volume,volumesettings_
+67,unmute the sound,volumesettings_
+68,higher volume,volumesettings_
+69,quieter please,volumesettings_
+70,set volume to 89 percent,volumesettings_
+71,turn off volume,volumesettings_
+72,louder please,volumesettings_
+73,mute all,volumesettings_
+74,unmute please,volumesettings_
+75,decrease volume,volumesettings_
+76,increase volume,volumesettings_
+77,change volume,volumesettings_
+78,more sound,volumesettings_
+79,unmute,volumesettings_
+80,make it louder,volumesettings_
+81,higher volume please,volumesettings_
+82,mute,volumesettings_
+83,increase the volume,volumesettings_
+84,no sound please,volumesettings_
+85,please set volume to 30 percent,volumesettings_
+86,turn off sound,volumesettings_
+87,please make it quieter,volumesettings_
+88,volume to 10,volumesettings_
+89,can't hear the sound,volumesettings_
+90,need more sound,volumesettings_
+91,decrease the volume,volumesettings_
+92,what's the time,datetimefaq_
+93,is it noon,datetimefaq_
+94,what's today's date,datetimefaq_
+95,what year is it,datetimefaq_
+96,what day is today,datetimefaq_
+97,tell me the time,datetimefaq_
+98,is it afternoon,datetimefaq_
+99,what is the time,datetimefaq_
+100,is it daylight savings time,datetimefaq_
+101,set timer for 15 minutes,timeralarmsettings_
+102,turn off alarm please,timeralarmsettings_
+103,wake me up on weekdays at 8 please,timeralarmsettings_
+104,reset the timer,timeralarmsettings_
+105,set a timer for 20 seconds please,timeralarmsettings_
+106,set alarm for 7 am,timeralarmsettings_
+107,set alarm for 9 in the morining tomorrow,timeralarmsettings_
+108,please turn off my alarm,timeralarmsettings_
+109,set alarm for 8:30 pm,timeralarmsettings_
+110,turn on alarm please,timeralarmsettings_
+111,set alarm for next week,timeralarmsettings_

@@ -1,0 +1,51 @@
+guid,text_a,label
+4,What is an account?,intent1
+8,How do I sign in to My Account?,intent2
+12,How do I verify my account after I sign in?,intent3
+16,How can I get my security code?,intent4
+19,Can I set my 4-digit customer code later?,intent5
+23,I have Limited access to My Account. What features will I be able to see?,intent6
+27,What features can I access after I enter my 4-digit Customer Code (4-digit Security Code)?,intent7
+31,Can I sign in from anywhere?,intent8
+35,what is on the overview tab?,intent9
+39,what's my account number?,intent10
+43,I got a notification that my credit card was disabled?,intent11
+47,when do i get a statement?,intent12
+51,can I review the services associated with my account?,intent13
+55,does my device tell me if I am part of an outage?,intent14
+59,"what do I do if I see ""Critical status"" error message?",intent15
+63,I am looking for past statement.,intent16
+67,why setup auto-pay?,intent17
+71,what's a One-Time payment?,intent18
+75,What are recurring payments?,intent19
+79,when can I cancel a recurring payment?,intent20
+83,I need to cancel an installation,intent21
+87,can I go online to schedule an appointment?,intent22
+91,can I go online to reschedule?,intent23
+95,can i go online to cancle a service repair appointment?,intent24
+99,what happens if i choose paperless billing?,intent25
+103,how do I stop receiving paper statements?,intent26
+107,what are the features of My Internet?,intent27
+111,explain my internet email,intent28
+115,can I create a second email address?,intent29
+119,where can I manage my email accounts?,intent30
+123,what is twc?,intent31
+127,can I setup twc for my kids?,intent32
+131,how do i create multiple twc ids?,intent33
+135,how to manage users?,intent34
+139,i need to disable a user's access,intent35
+143,is it possible to delete a user?,intent36
+147,for twc id can I change my username?,intent37
+151,please change my password,intent38
+155,how to change my account preferences?,intent39
+158,can i change the email that goes with my twc id?,intent40
+162,i move and need to update my info,intent41
+166,what can i do with My TV?,intent42
+170,please tell me about twcondemand.com,intent43
+174,can i record shows?,intent44
+178,can i see my scheduled recording?,intent45
+182,can i call my friend using my phone?,intent46
+186,Where do I find the phone numbers for my account?,intent47
+190,what services can i access from My Phone?,intent48
+194,can i access my call history from any computer?,intent49
+198,which phones are compatible with phone service?,intent50

@@ -1,0 +1,285 @@
+all lights on please
+dim kitchen lights
+please dim all lights
+turn off all the lights
+dim all the lights to 39 percent
+please dim the lights
+dim the bedroom
+dim lights
+turn on the lights
+please dim the kitchen
+turn off the bathroom lights
+dim lights please
+bedroom light on
+dim the lights
+dim house please
+please turn off lights
+please turn on the lights
+raise temperature please
+set temperature to 80 degrees
+it is too hot
+lower the temperature
+turn off the heater
+set temperature to 70 degrees
+raise the temperature
+start the air conditioning
+turn off heater
+please lower temperature
+raise the temperature
+too hot, colder please
+lower temperature to 60 degrees
+turn on the heater
+turn on heater please
+it is too cold
+turn off the ac please
+turn off the heat
+it is a little too cold
+start the ac please
+turn on the heat
+unlock all doors
+open the garage door
+unlock my door
+close the garage
+lock my front door please
+set the security system to off
+set the security system to on
+close the garage door
+please lock my door
+connect to my phone
+connect to iphone
+disconnect my iphone
+pair
+connect to my iphone
+disconnect my phone
+connect my phone
+less noise
+increase volume please
+too much noise, quieter please
+higher volume
+change volume
+too loud, lower please
+lower volume
+mute
+increase volume
+quieter please
+decrease the volume
+higher volume please
+more sound
+no sound please
+make it louder
+set volume to 89 percent
+please make it quieter
+please decrease the volume
+turn off sound
+unmute
+increase the volume
+please set volume to 30 percent
+lower volume please
+mute the sound
+can't hear the sound
+mute all
+too loud, quieter please
+unmute the sound
+what time is it
+what's today's date
+what day is today
+what is the time
+is it afternoon
+what's the time
+what year is it
+is it daylight savings time
+turn off alarm please
+please turn off my alarm
+reset the timer
+wake me up on weekdays at 8 please
+set alarm for 7 am
+turn on alarm please
+set timer for 15 minutes
+turn on all alarms
+set a timer for 20 seconds please
+set alarm for 9 in the morining tomorrow
+Support?
+Can I speak to an agent?
+Please transfer me to an agent.
+Would like to talk to support
+Support please
+Agent please
+Agent?
+What times do you have available
+Can I book an appoitment
+I need personal coaching
+What time can I make an appointment
+Personal shopper
+I need help with shopping
+Can I book a time for Vision + Goals coaching
+What time I can come
+What times do you have available for an appointment
+Can I setup an appoitment
+I need an appoitment
+schedule an appointment
+I need some help
+What time you have available
+i don't want my pants that I ordered
+cancel my oder
+cancel my order
+return order
+returning my last order
+i don't want my order
+I do not want my last order
+Can you cancel my order please
+show me all yoga classes
+show me your pilates classes
+I want to take some yoga course
+List of events in my area
+I want to take part in your run class
+Show me your yoga courses
+I am looking for a list of events nearby
+How do I get my results?
+Can I bring a friend to the concert?
+Is there a fee for the SeaWheeze Half Marathon?
+Who should I contact with my questions?
+Can I bring a friend to the yoga portion of the expo?
+Is there a fee?
+Where is the expo?
+Is there a team or relay division for the race?
+Is there an expo with the race?
+When does registration open for SeaWheeze 2017?
+Where can I park for the race?
+Who do I contact with my questions?
+Who do I contact if I have a question?
+When and what streets will be closed during the race?
+When is the 2017 Lululemon SeaWheeze Half Marathon?
+Can I bring a friend to the concert or yoga portion of the expo?
+Where is the Lululemon expo this year?
+Can I use my gift card?
+my balance
+check my giftcard
+take my gift card
+Can I use a gift card?
+Are you accepting gift cards?
+Can I check my gift card balance?
+my gift card
+pay with gift
+process my gift card
+What is my gift balance?
+I have a gift card
+Can I pay with a gift card?
+test my gift card
+balance on my gift card
+pay with giftcard
+How are you today?
+hey there Lululemon
+Good even
+hi there
+hey there
+good afternoon
+Good morning
+hey
+howdy
+Hi
+Hey Lululemon
+hi
+Good Evening
+Hi Lululemon
+Are the Align Pants in black size 8 available at my local store?
+Are the Simply Bare Tights in magenta and black size 4 available at Bucktown?
+my store pants size 8
+Are the Simply Bare Tights in black size 8 available at my local store?
+store has this shirt
+Are the High Times Pants in black size 8 available at my local store?
+Are these pants available in my store?
+stores in San Fransisco
+find stores near me
+Where is Lululemon?
+stores in Dallas
+Where is there a Lululemon?
+Where can I find Lululemon?
+any stores close to me?
+Looking for my nearest store
+Where is the nearest Lululemon?
+Where is the closest Lululemon?
+stores in United States
+any stores closest to me
+What stores are near me?
+stores in California
+has my order been shipped
+What were the items in my last order?
+my order summary
+order summary
+When will I receive my order?
+What is my order number?
+What is the tracking id of my last order?
+When does my order get shipped?
+Did my order go through?
+When is my order arriving?
+Can you help track down my order?
+has the order been shipped
+what is my order summary
+When do I receive my order?
+Can you tell the return status of tracking number
+When will I receive my refund?
+Status shows refunded but I did not receive it yet. Can you help me find the status of my return?
+What is your return authorization number?
+Whats the status of my refund for return
+Can I get a refund or transfer?
+Can you help me find the status of my return?
+would like to return these pants
+what is a return policy
+I can not see updated status of my order
+Show my return status
+Has my return been processed?
+I can not see updated status of my order
+Has my return been received?
+What was the first Lululemon store in the United States?
+store timings
+store hours on a holiday
+What was the first Lululemon store in Canada?
+what is the phone number of the store
+what is the address for the store
+What are the store hours for my nearest store?
+What’s the value of my savings account?
+What’s the current value of my savings account?
+What do I owe?
+How much do I have available?
+How much money did I save last month?
+How much money do I have in all of my accounts?
+What’s my balance?
+What’s my available credit on my Visa?
+How much do I owe on all my credit cards?
+How much money did I save last year?
+What’s the value of my e-trade account?
+What did I deposit last weekend?
+Show my largest transaction in May
+How much did I transfer from checking to savings last year?
+How much did I deposit in April?
+Show my last 5 checks
+Show me my last 10 Saving account transactions
+How much did I deposit last week?
+Show my transactions for last weekend.
+How much did I pay Sasha in July?
+How many days until I get paid?
+Show my most expensive transaction in July
+Show me my Checking account transactions from January to May
+How much did I spend on groceries last week?
+What was my largest concert ticket?
+What was my most expensive gas bill last weekend?
+How much have I spent on restaurants in 2016?
+How much did I spend on Uber? Last month?
+How much did I spend on gas last month?
+How much did I spend on June 2nd?
+What was my largest Best Buy transaction?
+How much did I spend on gas using my Visa cc last week?
+What was my largest hotel transaction in 2015?
+How much did I spend on travel in March?
+How much did I spend on clothes in June?
+How much did I spend last weekend?
+What was my most expensive restaurant expense?
+What is a designated beneficiary?
+What should I do if my card is lost or stolen, or if I notice unauthorized card transactions?
+How do I name a beneficiary?
+Pay the minimum balance on my credit card on the 15th of the month
+Pay Chase the minimum balance on the 15th of the month
+Pay Lauren $200
+Pay my credit card
+I’d like to send Sasha $20 for lunch
+Send $500 to Mom from Savings every month

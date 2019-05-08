@@ -1,0 +1,62 @@
+guid,text_a,label
+0,please turn off lights,lightsettings_
+1,living room light on,lightsettings_
+2,dim all the lights to 39 percent,lightsettings_
+3,all lights off,lightsettings_
+4,turn off all the lights,lightsettings_
+5,dim lights,lightsettings_
+6,please turn on the lights,lightsettings_
+7,dim kitchen lights,lightsettings_
+8,turn on the lights,lightsettings_
+9,bedroom lights 50 percent,lightsettings_
+10,dim the lights,lightsettings_
+11,turn on heater please,temperaturesettings_
+12,lower the temperature,temperaturesettings_
+13,please raise the temperature,temperaturesettings_
+14,set temperature to 70 degrees,temperaturesettings_
+15,"too cold, warmer please",temperaturesettings_
+16,it is too cold,temperaturesettings_
+17,please lower temperature,temperaturesettings_
+18,turn off the ac please,temperaturesettings_
+19,turn off the heater,temperaturesettings_
+20,"too hot, colder please",temperaturesettings_
+21,start the air conditioning,temperaturesettings_
+22,please turn off the heat,temperaturesettings_
+23,close the garage,securitysettings_
+24,set the security system,securitysettings_
+25,lock the back door,securitysettings_
+26,unlock my door,securitysettings_
+27,close the garage door,securitysettings_
+28,set the security system to on,securitysettings_
+29,disconnect my phone,deviceconnection_
+30,discover my devices,deviceconnection_
+31,pair with bluetooth,deviceconnection_
+32,disconnect my iphone,deviceconnection_
+33,set volume to 89 percent,volumesettings_
+34,unmute the sound,volumesettings_
+35,turn on sound,volumesettings_
+36,"too loud, quieter please",volumesettings_
+37,lower volume please,volumesettings_
+38,unmute please,volumesettings_
+39,make it louder,volumesettings_
+40,"too much noise, quieter please",volumesettings_
+41,higher volume please,volumesettings_
+42,increase volume,volumesettings_
+43,please set volume to 30 percent,volumesettings_
+44,unmute,volumesettings_
+45,mute all,volumesettings_
+46,volume 50 percent,volumesettings_
+47,mute,volumesettings_
+48,no sound please,volumesettings_
+49,what day is today,datetimefaq_
+50,what's the time,datetimefaq_
+51,tell me the time,datetimefaq_
+52,what's today's date,datetimefaq_
+53,is it midnight,datetimefaq_
+54,set alarm for 8:30 pm,timeralarmsettings_
+55,turn off alarm please,timeralarmsettings_
+56,turn on alarm please,timeralarmsettings_
+57,please turn off my alarm,timeralarmsettings_
+58,set alarm for 9 in the morining tomorrow,timeralarmsettings_
+59,wake me up at 5:50,timeralarmsettings_
+60,reset the timer,timeralarmsettings_

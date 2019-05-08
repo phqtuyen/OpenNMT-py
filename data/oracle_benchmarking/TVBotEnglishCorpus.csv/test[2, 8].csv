@@ -1,0 +1,201 @@
+guid,text_a,label
+1,What can I do with my account?,intent1
+1,What is My Account? What can I do with it?,intent1
+1,What is an account?,intent1
+1,What can I do with an account?,intent1
+2,How do I sign in to My Account?,intent2
+2,I need to sign in,intent2
+2,How do I login?,intent2
+2,How can I access my account?,intent2
+3,I am supposed to verify my account but can't see it,intent3
+3,It is asking me to verify my account?,intent3
+3,I can't figure out how to verify my account,intent3
+3,It asked me to verify my account after I signed in?,intent3
+4,I don't have the bill which has my customer code,intent4
+4,What is my security code?,intent4
+4,How can I get my security code?,intent4
+4,I lost the paper which had my customer code,intent4
+4,I didn't enter my 4-digit Customer Code (4-digit Security Code) during registration. Will I be able to enter it later?,intent5
+4,can I set my security code after registration?,intent5
+4,Can I set my 5-digit customer code later?,intent5
+4,Can I set my 4-digit customer code later?,intent5
+5,what is the consequence for having limited access?,intent6
+5,What can I do with limited access?,intent6
+5,I have Limited access to My Account. What features will I be able to see?,intent6
+5,what features won't I be able to see with limited access?,intent6
+6,what features are available once I enter my customer code?,intent7
+6,what can I see after I enter my pin?,intent7
+6,what features are available once I enter my 4-digit code?,intent7
+6,what features do I see once I enter my security code?,intent7
+7,Can I log in to my account from anywhere?,intent8
+7,can I access my account from any computer?,intent8
+7,Can I sign in from anywhere?,intent8
+7,Can I sign in to My Account from any computer?,intent8
+8,what can I do from account overview?,intent9
+8,what can i see on the account overview?,intent9
+8,What can I do on the Overview tab in My Account?,intent9
+8,what is on the overview tab?,intent9
+9,how do you find out what is your account number?,intent10
+9,where can I find my account number?,intent10
+9,what's my account number?,intent10
+9,What is my account number?,intent10
+10,I got a notification that my credit card was disabled?,intent11
+10,Why am I receiving notification that my debit/credit card is no longer active?,intent11
+10,how come I am being told my debit card is no longer active?,intent11
+10,how come my debit card is no longer active?,intent11
+11,when do you send my first bill?,intent12
+11,when do i get a statement?,intent12
+11,when do i get my bill?,intent12
+11,When can I expect to receive my bill statement?,intent12
+12,what equipment and services are associated with my account?,intent13
+12,what things are associated with my account?,intent13
+12,Can I review the services and equipment associated with my account?,intent13
+12,can i review the equipment associated with my account?,intent13
+13,Does the Activate and Troubleshoot Services module inform me if I am part of an outage?,intent14
+13,how to tell if I am part of an outage?,intent14
+13,does my device tell me if I am part of an outage?,intent14
+13,does the Activate and Troubleshoot services module tell me about service disruptions?,intent14
+14,"what does ""critical status"" mean?",intent15
+14,"what does ""Critical status"" mean?",intent15
+14,"why am i recieving the ""Critical status"" message?",intent15
+14,What does “Critical status” mean and why am I receiving this message?,intent15
+15,where can I find my statements online?,intent16
+15,Where can I find my current and previous bill statements online?,intent16
+15,I am looking for past statement.,intent16
+15,where can I find my past statements?,intent16
+16,why setup auto-pay?,intent17
+16,Why would I want to automatically pay my monthly bill statement?,intent17
+16,why should I setup auto-pay?,intent17
+16,how does auto-pay work?,intent17
+17,What is a One-Time Payment?,intent18
+17,what are one time payments?,intent18
+17,what should I make a One-Time payment?,intent18
+17,what's a One-Time payment?,intent18
+18,what are these recurring payments?,intent19
+18,What are recurring payments?,intent19
+18,what's a recurring payment?,intent19
+18,what is auto pay?,intent19
+19,Can I cancel Recurring Payments (also known as AutoPay)? Can I edit account information?,intent20
+19,what happens if I cancel a recurring payment?,intent20
+19,when can I cancel a recurring payment?,intent20
+19,can i cancel auto pay by editing my account?,intent20
+20,I need to cancel an appointment for an installation,intent21
+20,Can I cancel my installation appointment online?,intent21
+20,I need to cancel an installation,intent21
+20,I would like to cancel my installation appointment,intent21
+21,Help me make an appointment,intent22
+21,can I go online to schedule an appointment?,intent22
+21,I need to make an appointment,intent22
+21,How to make a new appointment?,intent22
+22,I need to reschedule an existing appointment.,intent23
+22,Can I reschedule my existing appointment online?,intent23
+22,can I reschedule appointments online?,intent23
+22,can I go online to reschedule?,intent23
+23,online can I cancel service repair appointments?,intent24
+23,can i go online to cancle a service repair appointment?,intent24
+23,if I go online can i cancel a service repair appointment?,intent24
+23,Can I cancel my service repair appointment online?,intent24
+24,please explain paperless billing,intent25
+24,explain paperless billing,intent25
+24,how does going paperless work?,intent25
+24,what happens if i choose paperless billing?,intent25
+25,how do I stop receiving paper bills each month?,intent26
+25,How do I stop receiving my paper bill statement each month?,intent26
+25,how do I stop receiving paper bills?,intent26
+25,I want to stop receiving paper bills each month,intent26
+26,what are the features of My Internet?,intent27
+26,what can I do with My Internet?,intent27
+26,what is my internet for?,intent27
+26,What is My Internet? What can I do with it?,intent27
+27,can I check for email through My Internet?,intent28
+27,Can I check my email through My Internet?,intent28
+27,how do I check my email?,intent28
+27,how do i access my email?,intent28
+28,can I create a different email address?,intent29
+28,Can I have more than one email address?,intent29
+28,can I create a second email address?,intent29
+28,can i have multiple email addresses?,intent29
+29,where do I manage email accounts?,intent30
+29,where can I manage my email accounts?,intent30
+29,can I manage email accounts somewhere?,intent30
+29,can I add an email account in my internet?,intent30
+30,what is twc?,intent31
+30,what's TWC Mail?,intent31
+30,What is TWC Mail?,intent31
+30,explain twc.,intent31
+31,Can I set up a TWC ID for other members of my household?,intent32
+31,is it possible for me to setup a twc id for someone else in my family?,intent32
+31,can I set up twc id for others?,intent32
+31,can I setup twc for my kids?,intent32
+32,How do I create a TWC ID for other members of my household?,intent33
+32,how do i make a twc id for a room-mate?,intent33
+32,how do i create a second twc id?,intent33
+32,how do i create multiple twc ids?,intent33
+33,for users how do i manage them?,intent34
+33,How can I manage users?,intent34
+33,i would like to manage users,intent34
+33,how can I manage my users?,intent34
+34,how do i disable a user?,intent35
+34,Can I disable a user's access?,intent35
+34,i need to cut off someone's access.,intent35
+34,i need to disable a user,intent35
+35,show me how to delete a user?,intent36
+35,is it possible to delete a user?,intent36
+35,explain how i would delete a user,intent36
+35,I need to delete a user,intent36
+36,it is possible to change my username?,intent37
+36,for twc id can I change my username?,intent37
+36,Can I change my TWC ID username?,intent37
+36,how to change my twc id username?,intent37
+37,Can I change my TWC ID password?,intent38
+37,i would like to change my password,intent38
+37,please change my password,intent38
+37,i need to change my password,intent38
+38,where do i edit account preferences?,intent39
+38,how to change my account preferences?,intent39
+38,Can I change my account preferences in My Account?,intent39
+38,where can i change my preferences?,intent39
+38,Can I change the email address associated with my TWC ID?,intent40
+38,is it possible to my twc id's email?,intent40
+38,where can I change the email address associated with my twc id?,intent40
+38,can i change the email that goes with my twc id?,intent40
+39,can I change my bill to address?,intent41
+39,it is possible to change my billing address?,intent41
+39,i moved,intent41
+39,Can I change my billing address?,intent41
+40,What is My TV? What can I do with it?,intent42
+40,what does My tv do?,intent42
+40,what can i do with My TV?,intent42
+40,isn't it kind of weird to be asking what i can do with my tv?,intent42
+41,tell me about twcondemand.com without me going there to find out,intent43
+41,please tell me about twcondemand.com,intent43
+41,what is twcondemand.com for?,intent43
+41,I want to know about twcondemand.com,intent43
+42,Can I program my DVR to record shows from within My Account?,intent44
+42,can i record show by programming my dvr?,intent44
+42,can i program my dvr from within my account?,intent44
+42,can i record shows from within my account?,intent44
+43,where can i see my scheduled recordings?,intent45
+43,can i see my scheduled recording?,intent45
+43,where do i look for scheduling recordings,intent45
+43,Can I see my scheduled recordings for my DVR?,intent45
+44,tell me about my phone,intent46
+44,what do i do with my phone?,intent46
+44,what is my phone for?,intent46
+44,can i call my friend using my phone?,intent46
+45,where is the phone number for my account?,intent47
+45,where do i find my account's phone numbers?,intent47
+45,Where do I find the phone numbers for my account?,intent47
+45,where do i find the phone number for my account?,intent47
+46,what are the service i can access from the my phone tab?,intent48
+46,What services can I access from the My Phone tab?,intent48
+46,what services can i access from My Phone?,intent48
+46,what can i do from My Phone?,intent48
+47,Can I access Call History from any computer?,intent49
+47,can i access my call history from any computer?,intent49
+47,what computers can i access call history from?,intent49
+47,how many places can i access call history from?,intent49
+48,what are the phones which work with your service?,intent50
+48,which phones work with your service?,intent50
+48,What type of phone do I have to use with your Phone service?,intent50
+48,what types of phones do I have to use with your phone service?,intent50

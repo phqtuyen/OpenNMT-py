@@ -1,0 +1,25 @@
+guid,text_a,label
+0,please turn on the lights,lightsettings_
+1,dim all the lights to 39 percent,lightsettings_
+2,all lights off,lightsettings_
+3,turn on the lights,lightsettings_
+4,please lower temperature,temperaturesettings_
+5,crank up the ac please,temperaturesettings_
+6,it is too hot,temperaturesettings_
+7,set temperature to 70 degrees,temperaturesettings_
+8,lower temperature to 60 degrees,temperaturesettings_
+9,lower the temperature,temperaturesettings_
+10,lock my door,securitysettings_
+11,set the security system to off,securitysettings_
+12,connect to my iphone,deviceconnection_
+13,pair,deviceconnection_
+14,lower volume please,volumesettings_
+15,volume 50 percent,volumesettings_
+16,lower volume,volumesettings_
+17,unmute please,volumesettings_
+18,no sound please,volumesettings_
+19,mute all,volumesettings_
+20,is it daylight savings time,datetimefaq_
+21,what's today's date,datetimefaq_
+22,set alarm for next week,timeralarmsettings_
+23,wake me up on weekdays at 8 please,timeralarmsettings_

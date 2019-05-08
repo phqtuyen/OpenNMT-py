@@ -1,0 +1,44 @@
+guid,text_a,label
+0,I would like to speak to an agent.,agent_
+1,an agent please,agent_
+2,Personal shopper,apptsetup_
+3,What time you have available,apptsetup_
+4,Can I book an appoitment,apptsetup_
+5,Can I setup an appoitment,apptsetup_
+6,I wish to cancel my last order,cancelorder_
+7,i don't want my pants that I ordered,cancelorder_
+8,I do not want my previous order,cancelorder_
+9,I want to take some yoga course,community_
+10,Show me your yoga courses,community_
+11,Is there an expo?,retailfaq_
+12,Who do I contact if I have a question?,retailfaq_
+13,When is the 2017 Lululemon SeaWheeze Half Marathon?,retailfaq_
+14,Where is the expo?,retailfaq_
+15,Is there an expo with the race?,retailfaq_
+16,Who should I contact with my questions?,retailfaq_
+17,What is my gift card?,giftcardbalance_
+18,Can I use a gift card?,giftcardbalance_
+19,pay with giftcard,giftcardbalance_
+20,What is the balance on my gift card?,giftcardbalance_
+21,my balance,giftcardbalance_
+22,process my gift card,giftcardbalance_
+23,How are you?,greeting_
+24,Good Evening,greeting_
+25,Hello there,greeting_
+26,hi there,greeting_
+27,my store pants size 8,inventorycheck_
+28,Are the Simply Bare Tights in magenta and black size 4 available at Bucktown?,inventorycheck_
+29,Where can I find Lululemon?,liststores_
+30,What stores are near me?,liststores_
+31,Where is the store nearest to me?,liststores_
+32,Looking for my nearest store,liststores_
+33,what is my order summary,ordersummary_
+34,When do I receive my order?,ordersummary_
+35,has my order shipped yet,ordersummary_
+36,Where is my order?,ordersummary_
+37,I can not see updated status of my order,returnstatus_
+38,Status shows refunded but I did not receive it yet. Can you help me find the status of my return?,returnstatus_
+39,Can you tell the return status of tracking number,returnstatus_
+40,Whats the status of my refund for return,returnstatus_
+41,what is the address for the store,storeinfo_
+42,what are the store timings?,storeinfo_
