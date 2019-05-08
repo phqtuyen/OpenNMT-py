@@ -64,6 +64,7 @@ def convert_to_torch_tensor(word_to_float_list_dict, vocab):
 def calc_vocab_load_stats(vocab, loaded_embed_dict):
     matching_count = len(
         set(vocab.stoi.keys()) & set(loaded_embed_dict.keys()))
+    print(set(vocab.stoi.keys()) - set(loaded_embed_dict.keys()))
     missing_count = len(vocab) - matching_count
     percent_matching = matching_count / len(vocab) * 100
     return matching_count, missing_count, percent_matching
