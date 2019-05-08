@@ -1,0 +1,1870 @@
+guid,text_a,label
+0,can i get a reimbursement for the balance amount after a cashless treatment,int_hlth_claimreimbsmnt_aftercshless
+1,can i get balance amount reimbursed after cashless treatment,int_hlth_claimreimbsmnt_aftercshless
+2,is reimbursement for the balance amount possible after cashless treatement,int_hlth_claimreimbsmnt_aftercshless
+3,do you give reimbursement for the balance amount after receiving cashless treatment,int_hlth_claimreimbsmnt_aftercshless
+4,If I am Eligible to get Home Insurance,int_hous_eligb_criteria
+5,What are the eligibility criteria to buy a home insurance,int_hous_eligb_criteria
+6,Eligibility to Get Home Insurance,int_hous_eligb_criteria
+7,Homeowner's Insurance Eligibility Criteria,int_hous_eligb_criteria
+8,eligible eligibility criteria insuarnce,int_hous_eligb_criteria
+9,Am i eligible to get insurance,int_hous_eligb_criteria
+10,If I am Eligible to get HouseInsurance,int_hous_eligb_criteria
+11,Home Insurance Eligibility Criteria,int_hous_eligb_criteria
+12,antique and coin covered,int_fire_antique
+13,Does this policy cover old coins,int_fire_antique
+14,Will fire ploicy cover old pieces,int_fire_antique
+15,is there coverage for antique old items coins,int_fire_antique
+16,Do you provide coverage in case antiques and coins are stolen or destroyed?,int_fire_antique
+17,Are antiques and coins covered,int_fire_antique
+18,are club agents allowed to inspect the vehicles,int_agnt_inspect_vehicles
+19,does NIA allow club agents to inspect vehicles,int_agnt_inspect_vehicles
+20,can club agents inspect vehicles,int_agnt_inspect_vehicles
+21,are dental treatments covered in your policies,int_hlth_dental_issues
+22,does nia cover dental treatments,int_hlth_dental_issues
+23,do you cover dental treatments,int_hlth_dental_issues
+24,does your policy cover dental treatments,int_hlth_dental_issues
+25,can I get policy coverage for dental treatment,int_hlth_dental_issues
+26,what is the coverage for diabetes treatment,int_hlth_diabetic_policy
+27,can I take a policy if i have diabetes,int_hlth_diabetic_policy
+28,does your policy cover diabetes treatments,int_hlth_diabetic_policy
+29,does nia cover diabetics,int_hlth_diabetic_policy
+30,do you cover diabetes treatments,int_hlth_diabetic_policy
+31,can I get policy coverage for diabetes treatment,int_hlth_diabetic_policy
+32,can i get diagnostic expenses,int_hlth_diagnostic_charges_covrg
+33,are diagnostic expenses covered in your policies,int_hlth_diagnostic_charges_covrg
+34,what is the coverage for diagnostic expense,int_hlth_diagnostic_charges_covrg
+35,do you cover diagnostic expenses,int_hlth_diagnostic_charges_covrg
+36,Is discount available for long term policies for dwellings,int_fire_long_dwelling_disc
+37,Are discounts available for long term policy coverage  for apartments,int_fire_long_dwelling_disc
+38,Are discounts available for long term policies for dwellings,int_fire_long_dwelling_disc
+39,Is discount available for long term policies for home insurance,int_fire_long_dwelling_disc
+40,Is discount available for long term fire policy for residential buildings,int_fire_long_dwelling_disc
+41,are there any domiciliary benefits covered in policy,int_hlth_domiciliary_benefits
+42,what is the coverage for domiciliary benefit,int_hlth_domiciliary_benefits
+43,does nia cover domiciliary benefit,int_hlth_domiciliary_benefits
+44,are domiciliary benefits covered in your policies,int_hlth_domiciliary_benefits
+45,do you cover domiciliary benefit,int_hlth_domiciliary_benefits
+46,are foreigners given policy,int_trvl_foreign_nationls
+47,what are the conditions for foreign national to take travel policy,int_trvl_foreign_nationls
+48,can a foreign national working in india get travel policy,int_trvl_foreign_nationls
+49,is a foreigner given policy,int_trvl_foreign_nationls
+50,does nia allow foreign nationals for the travel policy,int_trvl_foreign_nationls
+51,do you allow foreign nationals to take travel policy,int_trvl_foreign_nationls
+52,will maternity and infertility treatments be covered under mediclaim policy,int_hlth_maternity_payable
+53,what is the coverage for infertility treatments,int_hlth_maternity_payable
+54,are maternity and  infertility treatments covered under mediclaim policy,int_hlth_maternity_payable
+55,does NIA cover maternity treatments,int_hlth_maternity_payable
+56,what is the coverage for maternity treatments,int_hlth_maternity_payable
+57,do you cover maternity and infertility treatments under mediclaim policy,int_hlth_maternity_payable
+58,does NIA cover infertility treatments,int_hlth_maternity_payable
+59,should i do medical test to port health policy,int_hlth_med_test_port
+60,are medical tests mandatory when portability is given,int_hlth_med_test_port
+61,do i need to medical tests  once a policy is ported,int_hlth_med_test_port
+62,should i go for medical test for porting a policy,int_hlth_med_test_port
+63,is it required to have phographs of all the members to take mediclaim policy,int_hlth_photos_allmembers
+64,is photographs of members required for mediclaim policy,int_hlth_photos_allmembers
+65,are photographs of all the members necessary for taking mediclaim insurance,int_hlth_photos_allmembers
+66,are photos mandatory with application,int_agnt_photo_compulsory
+67,is photo required while submitting the application,int_agnt_photo_compulsory
+68,is it mandatory to give photo along with application,int_agnt_photo_compulsory
+69,is photo mandatory for application submission,int_agnt_photo_compulsory
+70,can i get cover for preexisting diseases,int_trvl_preexisting_ailments
+71,is preexisting disease covered under travel policy,int_trvl_preexisting_ailments
+72,are preexisting diseases covered by this travel policy,int_trvl_preexisting_ailments
+73,do you cover preexisting diseases,int_trvl_preexisting_ailments
+74,will the pre existing diseases covered in travel policy,int_trvl_preexisting_ailments
+75,does nia cover pre-existing diseases,int_trvl_preexisting_ailments
+76,does NIA cover preexisting disease in health policy,int_hlth_pre_disease_covrd
+77,do you cover  cover the treatment for pre existing disease in health policy,int_hlth_pre_disease_covrd
+78,does health policy cover the treatment for existing disease,int_hlth_pre_disease_covrd
+79,can i get the cover for preexisting disease in health policy,int_hlth_pre_disease_covrd
+80,how do travel policy cover work in case of thefts,int_trvl_theft_cover
+81,do you cover loss of property due to theft,int_trvl_theft_cover
+82,is it possible to get travel policy coverage in case of thefts,int_trvl_theft_cover
+83,is theft included in the policy coverage,int_trvl_theft_cover
+84,does travel policy cover thefts,int_trvl_theft_cover
+85,can i get my medical expenses reimbusrement from the very begining of the policy cover,int_hlth_coverage_starttime
+86,do you cover medical expenses from day one of the policy coverage,int_hlth_coverage_starttime
+87,are the medical expenses reimbursed from the very begining of the cover,int_hlth_coverage_starttime
+88,will nia reimbuse medical expenses from day one of the policy cover,int_hlth_coverage_starttime
+89,what are the addon benefits available in travel policy,int_trvl_addon_benfts
+90,does nia provide any addon benefits with policy,int_trvl_addon_benfts
+91,do i get any addon benefits in policy,int_trvl_addon_benfts
+92,are there any addon benefits available in travel policy,int_trvl_addon_benfts
+93,do you provide any addon benefits along this policy,int_trvl_addon_benfts
+94,can i get any addon benefits with the policy,int_trvl_addon_benfts
+95,will there be any addon benefits available with travel policy,int_trvl_addon_benfts
+96,is there any restriction of cover in case of policy holder is above 70 yrs of age,int_trvl_70plus_restriction
+97,can a person aged 70 get travel policy if so what restrictions will be there,int_trvl_70plus_restriction
+98,what is the restriction of cover if a person is old,int_trvl_70plus_restriction
+99,what restrictions on cover will be there if a person aged above 70 takes travel policy,int_trvl_70plus_restriction
+100,can a person above 70 years take policy cover,int_trvl_70plus_restriction
+101,are there any age restrictions while taking cover for people above 70 years,int_trvl_70plus_restriction
+102,what are mandatory sections,int_hous_cmplsry_sctn
+103,Is section 1B compulsary,int_hous_cmplsry_sctn
+104,Which Sections are Compulsory,int_hous_cmplsry_sctn
+105,which are compulsary section,int_hous_cmplsry_sctn
+106,are there any deductible in travel policy,int_trvl_deductible
+107,what are the deductible,int_trvl_deductible
+108,what is the meaning of deductible,int_trvl_deductible
+109,what does deductible mean,int_trvl_deductible
+110,can i know the  factors  which differentiate each plan,int_trvl_diff_factor
+111,what are the unique factors in different plans of travel insurance,int_trvl_diff_factor
+112,how is each plan different,int_trvl_diff_factor
+113,what are the differentiating factors in each of the plan,int_trvl_diff_factor
+114,what differences are there in different plans of travel insurance,int_trvl_diff_factor
+115,are there any differentiating factors for plans,int_trvl_diff_factor
+116,can i get a discount if i cover my spouse in the  same policy,int_pacc_spouse_disc
+117,do i get any discount for adding my spouse to pa policy,int_pacc_spouse_disc
+118,are there any discounts for adding spouse in the same  policy,int_pacc_spouse_disc
+119,will i get a discount if add my spouse to pa policy,int_pacc_spouse_disc
+120,can i get a discount if i  add my spouse for the same pa policy,int_pacc_spouse_disc
+121,if there are no claims in a year do i get a discount,int_hlth_no_claim_year
+122,are there any discounts for claim free years,int_hlth_no_claim_year
+123,can i get discount for claim free years,int_hlth_no_claim_year
+124,will you give discount if there are no claims,int_hlth_no_claim_year
+125,do you give discount for claim free year,int_hlth_no_claim_year
+126,why do i not get any discount after having pa policy,int_pacc_discount
+127,are there any discounts I can get if I am having pa policy since last 10 years,int_pacc_discount
+128,why is discount not given,int_pacc_discount
+129,why dont i get discount for having pa policy for 10 years,int_pacc_discount
+130,why there is no discount given even after having pa policy for ten years,int_pacc_discount
+131,what are the documents mandatory while taking travel policy,int_trvl_doc_required
+132,which documents are required to take nia travel policy,int_trvl_doc_required
+133,which documents are mandatory for taking travel policy,int_trvl_doc_required
+134,what documents should i submit to take policy,int_trvl_doc_required
+135,which documents should be submitted for taking policy,int_trvl_doc_required
+136,what are the exclusions in pa,int_pacc_exclusions
+137,does nia have any exclusions from the pa policy,int_pacc_exclusions
+138,will there be any exclusions in pa policy,int_pacc_exclusions
+139,do you have an exclusion list for pa policy,int_pacc_exclusions
+140,are there any exclusions in pa policy,int_pacc_exclusions
+141,which are the excluded items in pa policy,int_pacc_exclusions
+142,what are the exclusions in policy,int_pacc_exclusions
+143,are there any exclusions in travel policy,int_trvl_policy_exclusions
+144,what are excluded in travel policy,int_trvl_policy_exclusions
+145,what is out of cover in travel policy,int_trvl_policy_exclusions
+146,do you have any exclusions in policy,int_trvl_policy_exclusions
+147,what is not covered in policy,int_trvl_policy_exclusions
+148,does travel policy have any exclusions,int_trvl_policy_exclusions
+149,what is not payable in policy,int_trvl_policy_exclusions
+150,which are excluded in policy,int_trvl_policy_exclusions
+151,what exclusions does this travel policy have,int_trvl_policy_exclusions
+152,can my family take a floater sum insured,int_trvl_family_floater
+153,does nia offer family floater travel policy,int_trvl_family_floater
+154,do you have a family floater plan,int_trvl_family_floater
+155,are there any family floater travel policies given by nia,int_trvl_family_floater
+156,is there a family floater travel policy,int_trvl_family_floater
+157,does nia give any freebies with pa policy,int_pacc_freebies
+158,do you give any freebies in pa policy,int_pacc_freebies
+159,will i get anything free,int_pacc_freebies
+160,what are the freebies,int_pacc_freebies
+161,are there any freebies under this policy,int_pacc_freebies
+162,do i have to pay the initial charges at the hospital,int_trvl_initial_charges
+163,how much should i pay initially at the hospital,int_trvl_initial_charges
+164,what is the initial payment to be borne by me for hospital charges,int_trvl_initial_charges
+165,will there be any initial charges that i need to pay at the hospital,int_trvl_initial_charges
+166,are there any initial charges that are to be paid by me for hospital treatments,int_trvl_initial_charges
+167,are there any policies for people who are frequent travellers for professional purpose,int_trvl_corporate_insrnce
+168,what coverage  you give if i am a frequent corporate traveller,int_trvl_corporate_insrnce
+169,does nia offer corporate travel policy for frequent travellers,int_trvl_corporate_insrnce
+170,do you have a frequent traveller policy for corporate,int_trvl_corporate_insrnce
+171,can i get a  policy if i am a frequent corporate traveller,int_trvl_corporate_insrnce
+172,what is the policy for frequent corporate traveller,int_trvl_corporate_insrnce
+173,which policy do you have if i travel frequently for professional purpose,int_trvl_corporate_insrnce
+174,is there any policy for covering a corporate frequent traveller,int_trvl_corporate_insrnce
+175,can i get a policy if i am not a frequent traveller,int_trvl_nonfreqnt_travler
+176,do you have a policy if i do not travel frequently,int_trvl_nonfreqnt_travler
+177,does nia offer  policy for a non-frequent traveller,int_trvl_nonfreqnt_travler
+178,i am not a frequent traveller. can i take a travel policy,int_trvl_nonfreqnt_travler
+179,are there any policies for people who are not frequent travellers,int_trvl_nonfreqnt_travler
+180,what is the policy for non frequent traveller,int_trvl_nonfreqnt_travler
+181,is there any policy for covering a nonfrequent traveller,int_trvl_nonfreqnt_travler
+182,which policy do you have for a nonfrequent traveller,int_trvl_nonfreqnt_travler
+183,what is the premium discount possible,int_hous_discount
+184,Can i get a discount on the premium,int_hous_discount
+185,what are the possible discount i can get,int_hous_discount
+186,can i get a discount,int_hous_discount
+187,is there plocy available for dwellings,int_fire_long_dwelling
+188,is there a long term policy for homes,int_fire_long_dwelling
+189,is there a long term policies for dwelling,int_fire_long_dwelling
+190,Is there a long term policy for residential buildings,int_fire_long_dwelling
+191,is there a long term fire policy available for flats,int_fire_long_dwelling
+192,What are the details to be given to cover my home appliances under the breakdown of domestic appliance section,int_hous_dtls_rqurd_applncs
+193,Breakdown of Domestic Appliances,int_hous_dtls_rqurd_applncs
+194,Cover Breakdown of Home Appliance,int_hous_dtls_rqurd_applncs
+195,Domestic Appliances Breakdown,int_hous_dtls_rqurd_applncs
+196,cover home appliances when broken down,int_hous_dtls_rqurd_applncs
+197,break down domestic appliance home cover coverage,int_hous_dtls_rqurd_applncs
+198,does case settlement require my approval,int_motr_case_sett_apprl
+199,is my approval required for settlement of my case,int_motr_case_sett_apprl
+200,can case get settled if i disapprove it,int_motr_case_sett_apprl
+201,if i have a disagreement with a settlement of a case will it get settled,int_motr_case_sett_apprl
+202,can a case be settled without my approval,int_motr_case_sett_apprl
+203,is my approval mandatory for a case to settle,int_motr_case_sett_apprl
+204,if i do not approve can case settlement happen,int_motr_case_sett_apprl
+205,will a case settle if i do not approve,int_motr_case_sett_apprl
+206,can a critical ill patient get a policy from nia,int_hlth_chronic_illness
+207,what is the coverage offered for chronic illness,int_hlth_chronic_illness
+208,is chronic illness covered,int_hlth_chronic_illness
+209,can a person who has chronic illness get a mediclaim policy from NIA,int_hlth_chronic_illness
+210,does mediclaim policy cover chronic illness,int_hlth_chronic_illness
+211,can i take floater top up for family,int_hlth_top-up_availbility
+212,do you give floater  top up for family,int_hlth_top-up_availbility
+213,does NIA offer a floater top-up policy for family,int_hlth_top-up_availbility
+214,can a family get covered in floater top up policy,int_hlth_top-up_availbility
+215,what should i do if i want to renew my existing policy with other provider at nia,int_hlth_portablty_tonia
+216,can a mediclaim policy with private insurer be renewed at nia,int_hlth_portablty_tonia
+217,can i renew a policy with another insurance provider in nia,int_hlth_portablty_tonia
+218,does nia allow renewal of policy taken from another insurer,int_hlth_portablty_tonia
+219,how can i buy a motor policy online,int_motr_mode_buy_online
+220,what are the modes of payment for online policy,int_motr_mode_buy_online
+221,can a motor policy be bought online,int_motr_mode_buy_online
+222,which are the ways in which online policy can be bought,int_motr_mode_buy_online
+223,what are the  ways of buying online motor insurance,int_motr_mode_buy_online
+224,can i buy motor policy online,int_motr_mode_buy_online
+225,can an authorization request for cashless be declined,int_hlth_authorization_req_decline
+226,is declining of cashless authorization request possible,int_hlth_authorization_req_decline
+227,can a request for authorization for cashless be declined,int_hlth_authorization_req_decline
+228,is decline of cashless request possible,int_hlth_authorization_req_decline
+229,can i be terminated from my job for claiming a worker's compensation,int_motr_emplyr_fire
+230,can my employer fire me for filing a workers compensation claim,int_motr_emplyr_fire
+231,will i loose my work for claiming worker compensation,int_motr_emplyr_fire
+232,is it possible that i loose my work if i ask for a worker's compensation,int_motr_emplyr_fire
+233,can my employer terminate me while i am on workers compensation,int_motr_emplyr_fire
+234,can an employer terminate an employee if he  claims workers compensation,int_motr_emplyr_fire
+235,will my premium amount in a tp claim go up if i make a claim against a driver who did not have insurance,int_motr_uninsured_motorist
+236,will making a not insured motorist claim increase my premium,int_motr_uninsured_motorist
+237,in a tp claim will premium increase if my claim is against a motorist who is not insured,int_motr_uninsured_motorist
+238,will my insurance rates go up if i make an uninsured motorist claim,int_motr_uninsured_motorist
+239,can an uninsured motorist insurance claim affect my insurance rates,int_motr_uninsured_motorist
+240,will my premium get affected if i make an uninsured motor claim,int_motr_uninsured_motorist
+241,I am a tenant . Can i take insurance for the flat i live,int_hous_rent_policy
+242,Can I take a householder’s policy for my rented premises,int_hous_rent_policy
+243,Is there a Householder's Policy for a Rented House,int_hous_rent_policy
+244,Can a Person Living on Rent Take a Householder's Policy,int_hous_rent_policy
+245,can travel policy be taken for employment purpose,int_trvl_emplymnttrip_ovrseas
+246,does travel policy cover travel abroad for employment purpose,int_trvl_emplymnttrip_ovrseas
+247,will i get a travel policy if i am travelling abroad for employment,int_trvl_emplymnttrip_ovrseas
+248,do you give travel policy to me if i go abroad for employment,int_trvl_emplymnttrip_ovrseas
+249,can a person travelling abroad for employment avail travel policy,int_trvl_emplymnttrip_ovrseas
+250,if i am travelling abroad for employment can i get a travel policy,int_trvl_emplymnttrip_ovrseas
+251,is it allowed to convert topup policy to basic policy,int_hlth_topupcredit_conversion
+252,can a top up policy with NIA be converted to basic policy,int_hlth_topupcredit_conversion
+253,do you allow conversion of top up policy to basic policy,int_hlth_topupcredit_conversion
+254,does NIA allow for topup policy conversion to a basic policy,int_hlth_topupcredit_conversion
+255,do you allow taking pa policy for children,int_pacc_children
+256,can children be included in policy,int_pacc_children
+257,is it possible to take pa policy for children,int_pacc_children
+258,is pa policy available for children also,int_pacc_children
+259,does nia allow policy for children,int_pacc_children
+260,Can compound wall get coverage if i insure my house,int_fire_compound_wall
+261,Is compound wall covered under insurance of an independent house,int_fire_compound_wall
+262,Is compound wall part of insurance cover of an independent home,int_fire_compound_wall
+263,does nia allow adding of spouse during renewal in pa policy,int_pacc_spouse_renewal
+264,is it possible to add spouse while getting pa policy renewed,int_pacc_spouse_renewal
+265,do you allow me to add my spouse to pa policy during renewal,int_pacc_spouse_renewal
+266,can i add my spouse while renewal of my policy,int_pacc_spouse_renewal
+267,can i add new household items later,int_hous_add_household_items
+268,Can I include any new household item in the course of the policy? If so the procedure to do so?,int_hous_add_household_items
+269,Can I add new house hold items in the course of the policy,int_hous_add_household_items
+270,Will it be possible to add new items in the course of the policy,int_hous_add_household_items
+271,can i seek second opinion if i have disagreement with company doctor,int_motr_second_opinion
+272,can i ask for a different opinion in case i do not agree with worker's doctor's opinion,int_motr_second_opinion
+273,if i disagree with the worker’s company doctor am i allowed to a second opinion,int_motr_second_opinion
+274,if i dont agree with the worker’s company doctor what can i do,int_motr_second_opinion
+275,can i get a second opinion different from the workers doctor,int_motr_second_opinion
+276,can i avail tpa service in nia travel policy,int_trvl_tpa_travel
+277,can tpa help be used,int_trvl_tpa_travel
+278,do i get the help of a tpa,int_trvl_tpa_travel
+279,will i get the tpa service in nia travel policy,int_trvl_tpa_travel
+280,would it be possible to use the help of tpa,int_trvl_tpa_travel
+281,can i get help from tpa,int_trvl_tpa_travel
+282,will tpa help be available for this travel product,int_trvl_tpa_travel
+283,can i get tpa service for this product,int_trvl_tpa_travel
+284,do you have the travel policy available online,int_trvl_avail_online
+285,does nia allow buying the travel policy online,int_trvl_avail_online
+286,can i buy travel policy online,int_trvl_avail_online
+287,can i get policy online,int_trvl_avail_online
+288,is buying the policy online allowed,int_trvl_avail_online
+289,does NIA have online premium calculator,int_hlth_premium_calculator
+290,how to calculate premium online,int_hlth_premium_calculator
+291,can i calculate premium online,int_hlth_premium_calculator
+292,can i do a premium calculation online,int_hlth_premium_calculator
+293,what is the process of cancellation of an online policy,int_hlth_cancel_online
+294,how do i cancel a policy which was bought online,int_hlth_cancel_online
+295,can i cancel a policy which is taken on line,int_hlth_cancel_online
+296,how do i cancel a policy which i took online,int_hlth_cancel_online
+297,i want to cancel  policy,int_motr_cancel_motor_insurance
+298,can i cancel my insurance,int_motr_cancel_motor_insurance
+299,how do i  can cancel insurance policy,int_motr_cancel_motor_insurance
+300,what is the process to cancel my motor policy,int_motr_cancel_motor_insurance
+301,is it allowed to change a hospital during treatment,int_hlth_hospital_change
+302,do you allow change of hospital during treatment,int_hlth_hospital_change
+303,does nia allow hospital change during my treatment,int_hlth_hospital_change
+304,is it possible to change a hospital during treatment,int_hlth_hospital_change
+305,can i change a hospital in between my treatment,int_hlth_hospital_change
+306,can sum insured be changed when insurance company is changed,int_hlth_change_suminsured
+307,do you allow for a change in sum insured when i change the insurance company,int_hlth_change_suminsured
+308,can i get a different sum insured when i move the policy from another insurance company,int_hlth_change_suminsured
+309,can i change my sum insured while changing the insurance company,int_hlth_change_suminsured
+310,can i have a preferred doctor to treat my injury at job,int_motr_choice_doct
+311,do i have a choice of doctor if i am injured at work location,int_motr_choice_doct
+312,is there a possibility of choosing doctors for an injury on job location,int_motr_choice_doct
+313,can i choose a  doctor if i am injured at work place,int_motr_choice_doct
+314,will i get a choice of doctors to select from to treat my injury at work place,int_motr_choice_doct
+315,what can i do if the other driver in  accident does not have insurance,int_motr_driver_fault
+316,what if the driver at fault does not have insurance,int_motr_driver_fault
+317,what should i do if had an accident and the faulty driver does not have an insurance policy,int_motr_driver_fault
+318,what will i do if i get hit by someone without insurance,int_motr_driver_fault
+319,what happens when the driver who is at fault does not hold a policy,int_motr_driver_fault
+320,can i make a claim when i was hit by a motor and the driver did not have insurance,int_motr_driver_fault
+321,what happens if i met with a motor accident with an uninsured driver,int_motr_driver_fault
+322,can i contact tpa any time,int_trvl_reach_tpa
+323,what time should i contact tpa,int_trvl_reach_tpa
+324,when do i contact my tpa,int_trvl_reach_tpa
+325,can tpa be contacted at any time of the day,int_trvl_reach_tpa
+326,do you give coverage for full family even if they are not living in same city,int_hlth_family_covr_city
+327,is it possible to cover all the members of a family in a policy even if they living in different cities,int_hlth_family_covr_city
+328,do you give family coverage if they are living in different cities,int_hlth_family_covr_city
+329,can members of family living in different cities be covered in one policy,int_hlth_family_covr_city
+330,What if I don't want to include an item to my contents cover,int_hous_lmtd_value
+331,Can I cover my Household Contents for Limited Value or Part Value,int_hous_lmtd_value
+332,Do Griha Suvidha Plan Cover for Limited Value,int_hous_lmtd_value
+333,cover for limited value,int_hous_lmtd_value
+334,Can I cover my house hold contents for limited value or part value,int_hous_lmtd_value
+335,part value / limited value coverage hosue hold items,int_hous_lmtd_value
+336,cover for part value,int_hous_lmtd_value
+337,what is the coverage for new born child,int_hlth_newborn_coverage
+338,does nia provide coverage for a new born child,int_hlth_newborn_coverage
+339,how do i get coverage for a newly born child,int_hlth_newborn_coverage
+340,can  i cover my new born child  in my floater insurance policy,int_hlth_newborn_coverage
+341,does floater policy cover new borns,int_hlth_newborn_coverage
+342,i bought a motor insurance  offline. can i renew it online,int_motr_renew_offline_policy
+343,can i renew my insurance online for the policy that i bought offline,int_motr_renew_offline_policy
+344,can i do an online renewal of my motor insurance  which was bought offline,int_motr_renew_offline_policy
+345,how should i topup policy,int_hlth_topup_policy
+346,is it possible to topup my policy,int_hlth_topup_policy
+347,can i do a topup of policy,int_hlth_topup_policy
+348,do you allow for the policy top up,int_hlth_topup_policy
+349,can i top up my policy,int_hlth_topup_policy
+350,can i make a legal appeal against my employer if he is negligent and i got injured at job location,int_motr_employer_neglnce
+351,can i take legal action against an employer for negligence if i get injured at work location,int_motr_employer_neglnce
+352,if i am injured at work can i sue my employer for negligence,int_motr_employer_neglnce
+353,should i file a case against my employer if i got injured on the job because of employers negligence,int_motr_employer_neglnce
+354,can i sue employer for negligence if i am injured at work,int_motr_employer_neglnce
+355,can i get unemployment compensation if i dont have employment because of on job injury,int_motr_unemp_comp
+356,if i had an injury at work will get any compensation for being unemployed,int_motr_unemp_comp
+357,can i get a  compensation from state if i am unemployed due to injury at job,int_motr_unemp_comp
+358,will i get compensated from state for being unemployed due to injury at work,int_motr_unemp_comp
+359,can i get unemployment compensation from state if i get injury on the job,int_motr_unemp_comp
+360,do you cover hiv,int_hlth_hiv_coverage
+361,can i get a cover for hiv,int_hlth_hiv_coverage
+362,will i get cover for hiv,int_hlth_hiv_coverage
+363,do you have coverage for hiv,int_hlth_hiv_coverage
+364,does nia cover hiv,int_hlth_hiv_coverage
+365,Can i get a discount in fire insurance,int_fire_avlable_discount
+366,can I know the discount given in fire policy,int_fire_avlable_discount
+367,what discounts can be availed in policy,int_fire_avlable_discount
+368,what are the discount available in policy,int_fire_avlable_discount
+369,is it allowed to pay the premium early,int_hlth_advance_premium
+370,do i get a discount when i pay premium in advance,int_hlth_advance_premium
+371,do you allow payment of premium in advance,int_hlth_advance_premium
+372,can i pay premium in advance and get a discount,int_hlth_advance_premium
+373,will i get a discounted rate if i pay premium in advance,int_hlth_advance_premium
+374,can i get a policy for short duration of time,int_motr_short_period
+375,can i get a motor insurance policy for short period,int_motr_short_period
+376,do you have policies for short-period,int_motr_short_period
+377,do you give policy for small time period,int_motr_short_period
+378,can i take insurance only for two months,int_motr_short_period
+379,what is the procedure for refund of premium if the journey finishes early,int_trvl_prem_refund
+380,do you give the premium back in case i travel back early,int_trvl_prem_refund
+381,if the duration of travel is shorter can i get my premium refunded,int_trvl_prem_refund
+382,if my travel is cut short then can i get the refund,int_trvl_prem_refund
+383,can i get amount of premium back if i travel back earlier,int_trvl_prem_refund
+384,is it possible to get the premium amount refunded if i finish my travel earlier than indicated,int_trvl_prem_refund
+385,what is the procedure for refund of premium if the journey does not commence or if the journey is not undertaken,int_trvl_refund
+386,if journey is not undertaken then  can i get refund of premium,int_trvl_refund
+387,do you give the premium back in case i cancel travel,int_trvl_refund
+388,is it possible to get the premium amount refunded if i cancel travel,int_trvl_refund
+389,can i get amount of premium back if journey did not start,int_trvl_refund
+390,can i get the premium refund if  i did not travel,int_trvl_refund
+391,can i get an advance on the basis of damage estimate,int_motr_advance_damage_estimate
+392,will you give me an advance on the basis of a damage estimate,int_motr_advance_damage_estimate
+393,can you give advance money for the repairing based on estimation,int_motr_advance_damage_estimate
+394,do i get an advance before repairing based on the damage estimation,int_motr_advance_damage_estimate
+395,what is the procedure to get an advance before repair based on an estimate,int_motr_advance_damage_estimate
+396,how can i get an advance before reapir of motor based on an estimate,int_motr_advance_damage_estimate
+397,does nia provide advance money on the basis of damage estimate,int_motr_advance_damage_estimate
+398,can i get an online discount,int_motr_online_discount
+399,what is the process  to get an online discount,int_motr_online_discount
+400,how do i get an online discount on my insurance,int_motr_online_discount
+401,i want online discount for my motor,int_motr_online_discount
+402,how can i get an online discount,int_motr_online_discount
+403,which hospitals allow pre acceptance medical check up for NIA,int_hlth_preacceptance_medcheck
+404,does NIA accept pre acceptance medical check up from any hospital,int_hlth_preacceptance_medcheck
+405,can i get a pre acceptance medical check up done from any hospital,int_hlth_preacceptance_medcheck
+406,is it allowed to take pre acceptance medical check up from any hospital,int_hlth_preacceptance_medcheck
+407,where can i get a pre acceptance medical check up done,int_hlth_preacceptance_medcheck
+408,is it possible to get medical expense reimbursed for treatment due to an accident,int_pacc_medical_reimbr
+409,will i get a reimbursement of expenses in treatment because of accident,int_pacc_medical_reimbr
+410,do you pay for medical expenses for treatment due to an accident,int_pacc_medical_reimbr
+411,can i get a reimbursement for treatment expenses caused by accident,int_pacc_medical_reimbr
+412,does nia allow reimbursements of expenses for treatment of injuries because of accidents,int_pacc_medical_reimbr
+413,can i get a taxi  from the negligent driver's insurer,int_motr_rental_car
+414,will at-fault driver's insurance company provide me a rented motor,int_motr_rental_car
+415,will i get a taxi motor by the driver who was negligent,int_motr_rental_car
+416,will the driver's insurance company provide me with a motor on rent,int_motr_rental_car
+417,will the negligent driver’s insurance have to provide me with a rented motor,int_motr_rental_car
+418,is it allowed to take top up policy without having a basic policy in NIA,int_hlth_topup_basic_compulsory
+419,do you give top up policy if i am not having  basic policy in NIA,int_hlth_topup_basic_compulsory
+420,can i get a top up policy without having a basic policy in NIA,int_hlth_topup_basic_compulsory
+421,does NIA offer top up policy if i do not have basic policy,int_hlth_topup_basic_compulsory
+422,do i get cashless claim in insurance,int_motr_cashless_facility
+423,does nia give cashless claim in motor insurance policy,int_motr_cashless_facility
+424,is cashless claim available,int_motr_cashless_facility
+425,can i get cashless claim of motor policy,int_motr_cashless_facility
+426,do you give cashless facility for ayurveda,int_hlth_ayurvdctrtmnt_cshless
+427,can i get cashless facility for ayurveda treatment,int_hlth_ayurvdctrtmnt_cshless
+428,is it possible to get cashless treatment for ayurveda,int_hlth_ayurvdctrtmnt_cshless
+429,does nia give cashless ayurveda treatment,int_hlth_ayurvdctrtmnt_cshless
+430,what coverage do i get during pregnancy with  pa policy,int_pacc_childbirth
+431,can i get coverage for issues arising during pregnancy,int_pacc_childbirth
+432,do you cover pregnancy,int_pacc_childbirth
+433,will pregnancy related problems be covered in  pa policy,int_pacc_childbirth
+434,do you cover obesity treatment,int_hlth_obesity
+435,can i get coverage for obesity treatment,int_hlth_obesity
+436,does nia cover obesity,int_hlth_obesity
+437,can i get coverage for weight reduction treatment,int_hlth_obesity
+438,do you provide coverage for weight reduction,int_hlth_obesity
+439,what is the coverage for outpatient treatment,int_hlth_outpatient_coverage
+440,do you cover outpatient treatment expenses,int_hlth_outpatient_coverage
+441,is outpatient treatment covered in health policy,int_hlth_outpatient_coverage
+442,does nia cover outpatient treatment,int_hlth_outpatient_coverage
+443,can i get covered for a accident during air travel with the pa policy,int_pacc_air_travel
+444,does the  policy cover accident during travel by air,int_pacc_air_travel
+445,will this pa policy cover any accident occurring in air travel,int_pacc_air_travel
+446,is there a coverage for air travel accidents in pa policy,int_pacc_air_travel
+447,does nia cover animal attacks,int_pacc_animal_attacks
+448,will the pa policy cover attack by animals,int_pacc_animal_attacks
+449,do you cover animal attacks,int_pacc_animal_attacks
+450,does a pa policy cover animal attacks,int_pacc_animal_attacks
+451,is there a coverage for animal attack in pa policy,int_pacc_animal_attacks
+452,is there a coverage for terrorist attack in pa policy,int_pacc_terrorist
+453,will the pa policy cover attack by terrorists,int_pacc_terrorist
+454,does nia cover terrorist attacks,int_pacc_terrorist
+455,do you cover terrorist attacks,int_pacc_terrorist
+456,can i get cover for terrorist attacks in pa policy,int_pacc_terrorist
+457,can i get this policy if i do not live in india,int_hlth_foreign_citizen
+458,can i get health policy if i am a foreigner,int_hlth_foreign_citizen
+459,will i get health policy if i am a foreign citizen,int_hlth_foreign_citizen
+460,do you provide health policy to foreign citizen,int_hlth_foreign_citizen
+461,does NIA give health policy to foreigner,int_hlth_foreign_citizen
+462,will i get mediclaim identity card online,int_hlth_mediclaim_card_online
+463,does NIA provide mediclaim identity card online,int_hlth_mediclaim_card_online
+464,do you give identity card online,int_hlth_mediclaim_card_online
+465,can i get mediclaim identity card online,int_hlth_mediclaim_card_online
+466,will the employer hold the job while i recover,int_motr_emplyr_hold
+467,while i come back to my work after i recover will my employment be still there,int_motr_emplyr_hold
+468,will the employment be put on hold till i regain my health,int_motr_emplyr_hold
+469,does my employer have to give me my position back after being on disability,int_motr_emplyr_hold
+470,is my employer required to hold my job for me while i recuperate,int_motr_emplyr_hold
+471,is employer required to hold my job while i was recovering,int_motr_emplyr_hold
+472,will my employment be hold by my employer while i recover,int_motr_emplyr_hold
+473,can i get my job back when i recover,int_motr_emplyr_hold
+474,can i get the policy from my hometown,int_motr_insur_hometown
+475,can i take a motor policy from my native place,int_motr_insur_hometown
+476,can i take a motor insurance from home town,int_motr_insur_hometown
+477,will i be able to get premium refund in case of no claim,int_pacc_premium_back
+478,can the premium paid be refunded if i do not make the claim,int_pacc_premium_back
+479,can i get my premium back if i don’t claim,int_pacc_premium_back
+480,will i get a premium refund if i do not make a claim,int_pacc_premium_back
+481,do you give premium refund for no claim,int_pacc_premium_back
+482,does nia allow premium refund in case of zero claim,int_pacc_premium_back
+483,can i get personal accident claim from multiple personal accident policies,int_pacc_mult_claim
+484,does nia allow multiple pa policy claims in case of having multiple pa policy covers,int_pacc_mult_claim
+485,do you allow multiple claims if i have multiple personal accident policies,int_pacc_mult_claim
+486,can i make multiple claims for multiple personal accident policies,int_pacc_mult_claim
+487,is towing charge included in the policy coverage,int_motr_towing_charge
+488,what is the cover given for  towing charge,int_motr_towing_charge
+489,can i get policy coverage for towing,int_motr_towing_charge
+490,does motor insurance policy cover charges for towing,int_motr_towing_charge
+491,is towing charge covered in motor insurance,int_motr_towing_charge
+492,do you cover towing charge,int_motr_towing_charge
+493,will i get premium back during cancellation of policy,int_hlth_policy_cancellation
+494,can i get policy premium refunded if i cancel policy,int_hlth_policy_cancellation
+495,when a policy is cancelled will i get my premium back,int_hlth_policy_cancellation
+496,do i get the premium refund if i cancel policy,int_hlth_policy_cancellation
+497,is it possible to get refund for mediclaim premium for the period i am abroad,int_trvl_refund_mediclaim_abroad
+498,will you refund my mediclaim premium for the period i am abroad,int_trvl_refund_mediclaim_abroad
+499,does NIA provide refund for mediclaim premium for the period when i was abroad,int_trvl_refund_mediclaim_abroad
+500,do you refund mediclaim premium for the period i am abroad,int_trvl_refund_mediclaim_abroad
+501,can i get the money spent on pre-acceptance medical check up reimbursed,int_hlth_preacceptance_medcheck_reimbursemnt
+502,can i get reimbursement for pre acceptance medical check up,int_hlth_preacceptance_medcheck_reimbursemnt
+503,will the amount spent on pre-acceptance medical check up be reimbursed,int_hlth_preacceptance_medcheck_reimbursemnt
+504,do you reimburse pre medical checkup expenses,int_hlth_preacceptance_medcheck_reimbursemnt
+505,will i get relief for section 80d for payment of premium,int_pacc_sec80d
+506,is there any tax relief for the premium paid,int_pacc_sec80d
+507,can i get relief under the section 80d of income tax,int_pacc_sec80d
+508,can i get relief under section 80d for the premium paid,int_pacc_sec80d
+509,does premium paid get relief under section 80d,int_pacc_sec80d
+510,is there an income tax exemption in policy,int_hlth_incme_tax_exmption
+511,will i get any tax exemption under health policy,int_hlth_incme_tax_exmption
+512,can i get tax exemption under health policy,int_hlth_incme_tax_exmption
+513,do i get tax exemption in health policy,int_hlth_incme_tax_exmption
+514,does NIA provide cover for eye operation by laser capulsotomy,int_hlth_eye_laser_operation
+515,will i get cover for eye operation by laser capulsotomy,int_hlth_eye_laser_operation
+516,do you cover eye operation by laser capulsotomy,int_hlth_eye_laser_operation
+517,can i get the cover for eye operation by laser capulsotomy,int_hlth_eye_laser_operation
+518,What is digital discount,int_gnrc_digtl_dscnt
+519,how much discount i'll get if i make online purchase,int_gnrc_digtl_dscnt
+520,can i get the discount if i make an online purchase,int_gnrc_digtl_dscnt
+521,what is the discount for online purchase,int_gnrc_digtl_dscnt
+522,do i get the full hospital expense in cashless claim,int_hlth_claimlimit_fullreimbursemnt
+523,will I get the full amount of hospitilization expense during cashless,int_hlth_claimlimit_fullreimbursemnt
+524,do i get full hospitilization expense for cashless claim,int_hlth_claimlimit_fullreimbursemnt
+525,can i get the full hospitalization expense in cashless,int_hlth_claimlimit_fullreimbursemnt
+526,how can i get monthly commission statements,int_agnt_monthly_statmnt
+527,does NIA provide monthly commission statement,int_agnt_monthly_statmnt
+528,can i get the monthly commission statement through email,int_agnt_monthly_statmnt
+529,when will i get monthly commission statement,int_agnt_monthly_statmnt
+530,is online policy renewal allowed,int_pacc_online_rnwl
+531,can i get the pa policy renewed online,int_pacc_online_rnwl
+532,is it possible to do a renewal of pa policy online,int_pacc_online_rnwl
+533,is online policy renewal allowed,int_pacc_online_rnwl
+534,can i renew policy online,int_pacc_online_rnwl
+535,does nia allow a renewal of pa policy online,int_pacc_online_rnwl
+536,is it possible to get the travel policy with out a passport,int_trvl_no_passport
+537,does nia allow to take travel policy with out passport,int_trvl_no_passport
+538,do you allow to take travel policy without passport,int_trvl_no_passport
+539,is a passport required to take travel policy,int_trvl_no_passport
+540,is passport mandatory for travel policy,int_trvl_no_passport
+541,is it possible to get visa without travel policy,int_trvl_visa_omp
+542,do i get visa only after taking travel policy,int_trvl_visa_omp
+543,is travel policy  a mandatory document to get visa,int_trvl_visa_omp
+544,is travel policy required to get a visa,int_trvl_visa_omp
+545,will i get visa if i do not provide travel policy,int_trvl_visa_omp
+546,can i get visa only upon having travel policy,int_trvl_visa_omp
+547,do i need to take training before exam,int_agnt_training_compulsory
+548,can you tell me if training is mandatory to take the exam,int_agnt_training_compulsory
+549,is training mandatory for writing the exam,int_agnt_training_compulsory
+550,can i go for the exam if I have not attended the training,int_agnt_training_compulsory
+551,should i go for a training before the exam,int_agnt_training_compulsory
+552,is it possible to include my child under the floater policy,int_hlth_children_above_25
+553,can i include children in a floater policy,int_hlth_children_above_25
+554,can I include my child under the floater mediclaim,int_hlth_children_above_25
+555,what is the eligibility cretiria for the children to be inluded in floater mediclaim policy,int_hlth_children_above_25
+556,how can i include my child in floater mediclaim policy,int_hlth_children_above_25
+557,is it possible to cover my parents in laws in the health policy,int_hlth_prnts_in_law_includ
+558,does NIA allow to include parents in law in floater mediclaim policy,int_hlth_prnts_in_law_includ
+559,what is the coverage for parentsinlaw in floater mediclaim policy,int_hlth_prnts_in_law_includ
+560,what should i do to include parents in law in floater mediclaim policy,int_hlth_prnts_in_law_includ
+561,how can i include parents in law in floater mediclaim policy,int_hlth_prnts_in_law_includ
+562,is it allowed to increase the sum insured at any age and time within one year,int_hlth_incrs_sum_insured
+563,do you allow sum insured to be increased within one year irrespective of age and time,int_hlth_incrs_sum_insured
+564,can i increase sum insured at any age  within a year,int_hlth_incrs_sum_insured
+565,does NIA allow to increase sum insured irrespective of age and time within one year,int_hlth_incrs_sum_insured
+566,how to insure my motor,int_motr_want_policy
+567,what is the procedure to get a new policy,int_motr_want_policy
+568,i am looking for an insurance policy for my motor,int_motr_want_policy
+569,can i take insurance,int_motr_want_policy
+570,i need insurance,int_motr_want_policy
+571,i want to do insurance of my motor,int_motr_want_policy
+572,how do i get a policy,int_motr_want_policy
+573,i need to insure motor,int_motr_want_policy
+574,how do i insure my motor,int_motr_want_policy
+575,i want a new motor policy,int_motr_want_policy
+576,i am looking for a new inusrance policy,int_motr_want_policy
+577,i want to take a motor insurance,int_motr_want_policy
+578,can i insure my motor,int_motr_want_policy
+579,i want bumper to bumper insurance,int_motr_want_policy
+580,i want to know about getting a policy,int_motr_want_policy
+581,i want to insure,int_motr_want_policy
+582,does nia cover critical illness,int_hlth_crtcl_benefit
+583,do you cover critical illness,int_hlth_crtcl_benefit
+584,what is critical illness benefit cover,int_hlth_crtcl_benefit
+585,what is the coverage given for  critical illness,int_hlth_crtcl_benefit
+586,is there a minimum amount i can choose to pay as premium,int_trvl_min_premium
+587,what is the minimum premium that i need to pay to get travel policy,int_trvl_min_premium
+588,how much is the minimum premium payable,int_trvl_min_premium
+589,what is the minimum premium to be paid,int_trvl_min_premium
+590,what are the modes of premium payment,int_trvl_mode_premium
+591,can you tell me the mode in which i can pay my premium,int_trvl_mode_premium
+592,which modes does nia allow for payment of premium,int_trvl_mode_premium
+593,what are the different payment modes to pay premium,int_trvl_mode_premium
+594,can i know about the modes of premium payment,int_trvl_mode_premium
+595,what is NIA rating with CRISIL,int_gnrc_crdt_ratng
+596,What is the current Credit Ratings of NIA?,int_gnrc_crdt_ratng
+597,how much CRISIL rating does  NIA have,int_gnrc_crdt_ratng
+598,NIA rating please,int_gnrc_crdt_ratng
+599,can i know the specific name of this travel policy,int_trvl_spec_name
+600,how is nia travel policy known,int_trvl_spec_name
+601,what is the name of nia travel policy,int_trvl_spec_name
+602,do you have a name for travel policy,int_trvl_spec_name
+603,does nia have a name for the travel policy,int_trvl_spec_name
+604,what does capital sum insured mean,int_pacc_what_sum_insured
+605,what is the meaning of capital sum insured,int_pacc_what_sum_insured
+606,what do you mean by capital sum insured,int_pacc_what_sum_insured
+607,can i know what is capital sum insured,int_pacc_what_sum_insured
+608,who does the claim settlement,int_pacc_claim_settle
+609,can i know whom to approach for claim settlement,int_pacc_claim_settle
+610,who settles the claims,int_pacc_claim_settle
+611,whom do i contact for settling claims,int_pacc_claim_settle
+612,can i know who to contact if i meet with an accident,int_pacc_contact
+613,whom should i contact upon any accident,int_pacc_contact
+614,who is the contact person if an accident occurs,int_pacc_contact
+615,who will be the point of contact in case of an accident,int_pacc_contact
+616,who is to be contacted during accident,int_pacc_contact
+617,is it possible to avail a cashless service without a tpa identity card,int_hlth_notpa_idcrd
+618,do i need a tpa card for making cashless claim,int_hlth_notpa_idcrd
+619,what is the process to make a cashless claim without tpa card,int_hlth_notpa_idcrd
+620,can I make a cashless claim without a tpa identity card at the time of claim,int_hlth_notpa_idcrd
+621,is it allowed to make a claim for reimbursement,int_trvl_claim_reimbursment
+622,does nia allow to make a claim for reimbursement,int_trvl_claim_reimbursment
+623,will nia allow me to make a claim,int_trvl_claim_reimbursment
+624,do you allow to get amount reimbursed for claim made,int_trvl_claim_reimbursment
+625,do you have  portability for individual floater policy,int_hlth_indv_floater_port
+626,what about the portability in individual floater policy,int_hlth_indv_floater_port
+627,can individual floater policy be ported,int_hlth_indv_floater_port
+628,is portability allowed in individual floater policy,int_hlth_indv_floater_port
+629,Can I pay Premium by EMI for Fire Insurance,int_fire_prem_instllmt
+630,Is Installment Facility Available for Fire Policies,int_fire_prem_instllmt
+631,Is emi facility available for fire policies,int_fire_prem_instllmt
+632,Can I pay the Premium Amount in Installments,int_fire_prem_instllmt
+633,Can the premium be paid in installments,int_fire_prem_instllmt
+634,Is installment facility available for fire policies,int_fire_prem_instllmt
+635,Is EMI facility available to pay premium,int_fire_prem_instllmt
+636,Can the premium be paid in EMI,int_fire_prem_instllmt
+637,is it possible to to pay the premium for insurance in installments,int_motr_premium_advance
+638,do you accept motor insurance premium payment in installments,int_motr_premium_advance
+639,does nia allow premium for insurance to be paid in installments,int_motr_premium_advance
+640,i want to know if i can pay premium in installements,int_motr_premium_advance
+641,can i receive money from faulty driver's insurer for the negligence,int_motr_negl_pay
+642,will i get paid from the negligent driver's insurance,int_motr_negl_pay
+643,will the insurance company of the responsible driver pay if there was an accident due to negligent driver,int_motr_negl_pay
+644,will the  negligent driver’s insurance company  pay expenses for medical treatment,int_motr_negl_pay
+645,will the other driver's insurance company pay for medical bill,int_motr_negl_pay
+646,will i get payment from driver insurance for my medical treatment,int_motr_negl_pay
+647,will the negligent driver’s insurance company pay for my medical treatment,int_motr_negl_pay
+648,can i return  policy if i am not satisfied,int_pacc_return
+649,will i be able to return the pa policy if i am not satisfied,int_pacc_return
+650,does nia allow returning of the pa policy if not satisfied,int_pacc_return
+651,can i return the pa policy if i am unhappy,int_pacc_return
+652,can i return policy,int_pacc_return
+653,can i return  policy if i am not happy,int_pacc_return
+654,can i select a different zone during the period of policy,int_hlth_zone_change
+655,is zone change possible midterm during the policy period in case of individual mediclaim policy,int_hlth_zone_change
+656,would it be possible to select another zone midterm of my policy period,int_hlth_zone_change
+657,do you allow a change of zone during the policy period,int_hlth_zone_change
+658,will i loose money if i sold my house which was under insurance,int_hous_sell_prpty
+659,What if I sell the property during the insured period,int_hous_sell_prpty
+660,Can I Sell my Property while Availing Insurance,int_hous_sell_prpty
+661,Will Selling my Property During Insurance Period get me Refund,int_hous_sell_prpty
+662,where do i submit policy claim,int_hlth_claimpaper_submssn_proc
+663,where should claim submission happen,int_hlth_claimpaper_submssn_proc
+664,should the claim be submitted to nia or tpa,int_hlth_claimpaper_submssn_proc
+665,can i submit my claim to tpa,int_hlth_claimpaper_submssn_proc
+666,should i submit policy claim to nia,int_hlth_claimpaper_submssn_proc
+667,can i take additional family policy while having an existing family policy provided by employer,int_hlth_existing_emplyr_policy
+668,is it possible to take a family policy in addition to the one given by my employer,int_hlth_existing_emplyr_policy
+669,in addition to the employer provided family policy can i take another family policy,int_hlth_existing_emplyr_policy
+670,is it possible to pa policy for long period,int_pacc_longterm
+671,would it be possible to take pa policy long term,int_pacc_longterm
+672,do you have pa policy for large period,int_pacc_longterm
+673,can i take a pa policy for a longer period,int_pacc_longterm
+674,Does this insurance cover commercial usage of a property,int_hous_insure_commercial
+675,Can my Home be Insured if Part of it is used for Commercial Purpose,int_hous_insure_commercial
+676,I am running a business in my house . Can i make use of house holder policy,int_hous_insure_commercial
+677,Can I take Insurance for my Home if it is Used for Commercial Purpose,int_hous_insure_commercial
+678,do you allow me to take only ttd cover,int_pacc_temp_disablt
+679,can i take only ttd cover,int_pacc_temp_disablt
+680,does nia allow taking of only ttd cover,int_pacc_temp_disablt
+681,will i be able to take only ttd cover,int_pacc_temp_disablt
+682,is there a long term policy,int_motr_long_term_vehicle
+683,can i take policy for long term,int_motr_long_term_vehicle
+684,is it possible to take vehicle policy for long term,int_motr_long_term_vehicle
+685,does NIA provide long term motor policy,int_motr_long_term_vehicle
+686,will it be possible to take pa policy despite having life insurance,int_pacc_add_spouse
+687,can i take this policy if i already have life insurance policy,int_pacc_add_spouse
+688,do you allow to take pa policy even if i already have life insurance policy,int_pacc_add_spouse
+689,is it possible for me to take pa policy even if i have insurance policy,int_pacc_add_spouse
+690,do you allow me to take pa policy even if i have irregular income,int_pacc_no_reg_incm
+691,does nia allow to take pa policy to people with irregular income,int_pacc_no_reg_incm
+692,is it possible to take  policy with no regular income,int_pacc_no_reg_incm
+693,will i be able to take pa policy even with no regular income,int_pacc_no_reg_incm
+694,do you cover domestic travel,int_trvl_domestic
+695,can people travelling within india take this travel policy,int_trvl_domestic
+696,can i take travel policy for travel within india,int_trvl_domestic
+697,is it possible to take travel policy for domestic travel,int_trvl_domestic
+698,does nia have any travel policy for domestic travel,int_trvl_domestic
+699,can it cover home on lease,int_hous_rent
+700,I live on rent why would I require insurance,int_hous_rent
+701,Does it cover leased property,int_hous_rent
+702,Is this policy cover rented house / flat /apartment,int_hous_rent
+703,can i use this policy if i live on rent,int_hous_rent
+704,i want to transfer my ncb,int_motr_transfer_ncb
+705,can i transfer  no claim bonus,int_motr_transfer_ncb
+706,is transfer of ncb possible,int_motr_transfer_ncb
+707,is it possible to transfer ncb,int_motr_transfer_ncb
+708,can i transfer my ncb,int_motr_transfer_ncb
+709,when can i transfer my ncb,int_motr_transfer_ncb
+710,can transfer of existing fire policy to a new property possible,int_fire_trnsfr_new_proprty
+711,is transferng of a policy to another property allowed,int_fire_trnsfr_new_proprty
+712,can I transfer the current policy to new property,int_fire_trnsfr_new_proprty
+713,would it be possible to move the policy to include new residene,int_fire_trnsfr_new_proprty
+714,can one port maternity benefits from the existing  gmc mediclaim policy,int_hlth_port_maternity
+715,is it possible to port maternity benefits  from gmc,int_hlth_port_maternity
+716,can maternity policy be ported from a gmc  policy,int_hlth_port_maternity
+717,do you allow porting of maternity benefits from gmc policy,int_hlth_port_maternity
+718,is mental retardment covered in policy,int_hlth_mentallyretard_childrn
+719,what is coverage for children with mental retardment,int_hlth_mentallyretard_childrn
+720,can mentally retarded children be covered in floater mediclaim,int_hlth_mentallyretard_childrn
+721,does nia provide coverage for mentally retarded children,int_hlth_mentallyretard_childrn
+722,is mental reatrdation covered in floater mediclaim policy,int_hlth_mentallyretard_childrn
+723,can my money be lost if dont travel after i taking policy,int_trvl_loose_money
+724,do i lose money if i dont travel,int_trvl_loose_money
+725,what happens when i postpone my travel after taking the travel policy,int_trvl_loose_money
+726,is there a possibility of losing money if i dont travel after buying travel policy,int_trvl_loose_money
+727,will i lose my money if i dont travel after taking the travel policy,int_trvl_loose_money
+728,will my proposal be rejected by NIA after preacceptance medical check up,int_hlth_proposal_rejection_premedchckup
+729,can nia reject my proposal based on pre medical checkup,int_hlth_proposal_rejection_premedchckup
+730,can my proposal be rejected by NIA based on results of my pre acceptance medical check up,int_hlth_proposal_rejection_premedchckup
+731,is there a possibility of my proposal being rejected based on pre acceptance medical check up,int_hlth_proposal_rejection_premedchckup
+732,will my family get coverage when they are covered by another mediclaim policy,int_hlth_multiple_protection
+733,can my spouse or family get coverage even if they are covered by another mediclaim policy,int_hlth_multiple_protection
+734,does NIA cover spouse or family when they are covered by another mediclaim policy,int_hlth_multiple_protection
+735,can NIA change the condition of claim settlement in two policy periods,int_hlth_settle_claim_change
+736,is it possible to change the condition regarding settlement of claims in two policy periods,int_hlth_settle_claim_change
+737,can the condition regarding settlement of claims in 2 policy periods is changeable,int_hlth_settle_claim_change
+738,can other members who is covered floater mediclaim policy continue in same policy when insured dies before policy expiration,int_hlth_insured_dies
+739,can remaining members continue under the same floater mediclaim policy if insured dies before expiry,int_hlth_insured_dies
+740,do you allow remaining members to continue using same policy if insured dies before expiry,int_hlth_insured_dies
+741,can study or employment policy can be taken for less than 6 months,int_trvl_omp_shrttime
+742,is it possible to avail travel policy  for studies for small period,int_trvl_omp_shrttime
+743,do you allow to take travel policy for study or employment purpose for less than six months,int_trvl_omp_shrttime
+744,does nia allow to travel policy for employment for small periods,int_trvl_omp_shrttime
+745,what are the discounts on policy premium,int_motr_discount_car_insurance
+746,what discounts can i get on motor insurance premium,int_motr_discount_car_insurance
+747,do i get a discount on policy premium,int_motr_discount_car_insurance
+748,can you give a discount on my policy,int_motr_discount_car_insurance
+749,do you give any discount on insurance premium,int_motr_discount_car_insurance
+750,how much is  motor premium discount,int_motr_discount_car_insurance
+751,does nia provide discounts on motor insurance policies,int_motr_discount_car_insurance
+752,how can i get a discount on my motor insurance policy premium,int_motr_discount_car_insurance
+753,what discount is provided by nia on motor insurance,int_motr_discount_car_insurance
+754,can you make payment directly to the repairer,int_motr_amount_direct_repairer
+755,does nia make direct payment to  repairer,int_motr_amount_direct_repairer
+756,will you pay directly to the repairer,int_motr_amount_direct_repairer
+757,do you pay amount directly to the garage for repair of motor,int_motr_amount_direct_repairer
+758,do you make direct payment to garage for repairing my motor,int_motr_amount_direct_repairer
+759,do you suggest any sum insured amount for pa policy,int_pacc_suminsured
+760,what will be  sum insured amount,int_pacc_suminsured
+761,does nia suggest any amount as sum insured amount for pa policy,int_pacc_suminsured
+762,what should be the sum insured amount for pa policy,int_pacc_suminsured
+763,what does nia suggest as sum insured amount in case of personal accident cover,int_pacc_suminsured
+764,what is criteria in terms of age for portability eligibility,int_hlth_age_criteria_portability
+765,can you tell me if you have any criteria of age for portability,int_hlth_age_criteria_portability
+766,is there any age criteria to be eligible for portability,int_hlth_age_criteria_portability
+767,is there a age criteria for portability,int_hlth_age_criteria_portability
+768,do you have any age limit to be eligible for portability,int_hlth_age_criteria_portability
+769,Compensation for electrical equipment damaged due to voltage fluctuation,int_fire_electr_compstn
+770,Damage Caused by Electrical Disturbance,int_fire_electr_compstn
+771,Will I Get Compensation if There is a Damage Caused by Electrical Disturbance,int_fire_electr_compstn
+772,Will compensation be paid if electrical instruments are damaged due to electrical fluctuation,int_fire_electr_compstn
+773,Compensation for Damage due to Electrical Fluctuations,int_fire_electr_compstn
+774,Voltage fluctuation damages,int_fire_electr_compstn
+775,What is Covered Under Griha Suvidha,int_hous_covrg_griha_suvidha
+776,coverages under grihasuvidha,int_hous_covrg_griha_suvidha
+777,Griha Suvidha Coverage,int_hous_covrg_griha_suvidha
+778,coverage for griha suvidha,int_hous_covrg_griha_suvidha
+779,how does broker agent diffrentiate,int_gnrc_brkr_agnt_diff
+780,difference in broker and agent,int_gnrc_brkr_agnt_diff
+781,what is the distinction between an agent and broker,int_gnrc_brkr_agnt_diff
+782,what is the difference between broker and agent,int_gnrc_brkr_agnt_diff
+783,Discount on Regular Premiums,int_hous_discnt_sctn
+784,discount regular premium,int_hous_discnt_sctn
+785,How to get Discounts on Premium,int_hous_discnt_sctn
+786,Will I get any discounts if I choose more sections,int_hous_discnt_sctn
+787,does this policy cover for short circuit loss,int_fire_loss_short_circuit
+788,Is there a coverage for money spent due to a short circuit,int_fire_loss_short_circuit
+789,Will this policy cover shortcircuit related losses,int_fire_loss_short_circuit
+790,short circuit related loss is covered in policy,int_fire_loss_short_circuit
+791,What are the Coverage given under the Householder’s Policy,int_hous_covrge_housholdr
+792,will you give me the list of coverages offered by householder policy,int_hous_covrge_housholdr
+793,what are the things that i can get covered for,int_hous_covrge_housholdr
+794,Does house holder policy cover  Fire & Allied perils  Burglary  theft  Hold-up  larceny  breakdown of domestic appliances  cover for jewellery and valuables  Personal Accident Insurance Public Liability  Plate Glass  Baggage  TV,int_hous_covrge_housholdr
+795,does nia cover normal death,int_pacc_natural_death
+796,is natural death covered,int_pacc_natural_death
+797,will i get covered in the event of a normal death,int_pacc_natural_death
+798,do you cover natural death,int_pacc_natural_death
+799,does it cover death that occurs naturally,int_pacc_natural_death
+800,does the pa policy cover natural death,int_pacc_natural_death
+801,is normal death covered,int_pacc_natural_death
+802,What Types of Risks are Covered by Householder's Policy,int_hous_risk_cover
+803,Which perils are covered by house holder policy,int_hous_risk_cover
+804,Does it cover  risks like Fire  weather peril  Earthquake  terrorism  breakdown of appliances  Theft of Jewellery  Personal accident,int_hous_risk_cover
+805,What are the risks that can be covered,int_hous_risk_cover
+806,does New India Assurance have registration with a regulatory body,int_gnrc_rgstr_irdai
+807,Has NIA got a registration with IRDAI,int_gnrc_rgstr_irdai
+808,is nia registered with Insurance Regulatory Body,int_gnrc_rgstr_irdai
+809,Is NIA registered with IRDAI,int_gnrc_rgstr_irdai
+810,will this policy cover  ayurveda,int_hlth_ayurveda_treatmnt
+811,do you cover ayurveda treatment,int_hlth_ayurveda_treatmnt
+812,is ayurveda treatment covered,int_hlth_ayurveda_treatmnt
+813,what is the  coverage for ayurveda,int_hlth_ayurveda_treatmnt
+814,does nia cover ayurveda treatment,int_hlth_ayurveda_treatmnt
+815,does nia cover baggage during travel,int_trvl_policy_baggage_travel
+816,what is the coverage for baggage,int_trvl_policy_baggage_travel
+817,do you cover baggage,int_trvl_policy_baggage_travel
+818,is there a cover for baggage,int_trvl_policy_baggage_travel
+819,will this policy cover car race,int_hlth_car_racing
+820,what is the coverage for car racing,int_hlth_car_racing
+821,is car racing covered in the premier mediclaim policy,int_hlth_car_racing
+822,is car race  covered under premier mediclaim policy,int_hlth_car_racing
+823,do you cover car race,int_hlth_car_racing
+824,does nia cover hospitalization due to illness in pa policy,int_pacc_sickness
+825,do you cover general illness in pa policy,int_pacc_sickness
+826,does the policy cover general illness,int_pacc_sickness
+827,will i get coverage for hospitalization due to illness,int_pacc_sickness
+828,is hospitalization covered,int_pacc_sickness
+829,is hospitalization due to illness covered,int_pacc_sickness
+830,do you provide coverage for  manasarovar travel,int_trvl_mansrovr_yatra
+831,does nia cover manasarovar travel,int_trvl_mansrovr_yatra
+832,is there a cover for manasarovar travel,int_trvl_mansrovr_yatra
+833,what is the coverage for manasarovar travel,int_trvl_mansrovr_yatra
+834,naturopathy is excluded or included,int_hlth_naturopathy
+835,is naturopathy covered,int_hlth_naturopathy
+836,do you cover naturopathic treatment,int_hlth_naturopathy
+837,does nia cover naturopathy treatment,int_hlth_naturopathy
+838,does  nia cover treatments for cancer,int_hlth_policy_available_cancer
+839,what policies do you have for cancer,int_hlth_policy_available_cancer
+840,which policies for available for cancer,int_hlth_policy_available_cancer
+841,do you cover cancer treatments,int_hlth_policy_available_cancer
+842,what policies does NIA have for cancer,int_hlth_policy_available_cancer
+843,do i get cumulative bonus after porting of policy,int_hlth_cum_bonus_portability
+844,is it possible to get the cumulative bonus under portability,int_hlth_cum_bonus_portability
+845,do you give cumulative bonus under portability,int_hlth_cum_bonus_portability
+846,will i get cumulative bonus under portability,int_hlth_cum_bonus_portability
+847,if a policy is ported do i get cumulative bonus,int_hlth_cum_bonus_portability
+848,does nia have any limit for personal accident cover,int_trvl_persnlaccdnt_cvrlimit
+849,what is the limit of coverage on personal accident,int_trvl_persnlaccdnt_cvrlimit
+850,how much is the limit of cover in case of personal accident,int_trvl_persnlaccdnt_cvrlimit
+851,is there a limit of cover in personal accident,int_trvl_persnlaccdnt_cvrlimit
+852,do you have a limit for personal accident cover,int_trvl_persnlaccdnt_cvrlimit
+853,what is minimum travel period to get a travel policy,int_trvl_min_period
+854,do you have any minimum travel period to get travel policy,int_trvl_min_period
+855,what should be the minimum travel period to take travel policy,int_trvl_min_period
+856,is there a minimum travel period to take the travel policy,int_trvl_min_period
+857,is there a minimum premium procurement for applying for portal,int_agnt_portal_premium_procurmnt
+858,does NIA have any premium criteria for applying for the portal,int_agnt_portal_premium_procurmnt
+859,what is the lowest premium criteria to apply in portal,int_agnt_portal_premium_procurmnt
+860,what is the least premium amount if i apply in agent portal,int_agnt_portal_premium_procurmnt
+861,what is the upper limit of age to apply for travel policy,int_trvl_age_limit
+862,does nia have any restrictions on age for travel policy,int_trvl_age_limit
+863,what is the maximum age until which i can get policy,int_trvl_age_limit
+864,is there a age limit for travel policy,int_trvl_age_limit
+865,is there any restriction of age for travel policy,int_trvl_age_limit
+866,what is the ceiling on the age to get a policy cover,int_trvl_age_limit
+867,What is the minimum and maximum age of coverage,int_trvl_age_limit
+868,what are the age restrictions to get the travel policy,int_trvl_age_limit
+869,does nia have any travel policy for studies abroad,int_trvl_omp
+870,what is the travel policy i can take if i travel for study purpose,int_trvl_omp
+871,what are the policies available for students who are studying abroad,int_trvl_omp
+872,what is the name of the policy for students,int_trvl_omp
+873,does schengen countries have different travel policy,int_trvl_schengen
+874,what is the difference in travel policy for schengen countries,int_trvl_schengen
+875,does nia have different travel policy for schengen countries,int_trvl_schengen
+876,is there a different travel policy for schengen countries,int_trvl_schengen
+877,will the travel policy remain the same for schengen countries,int_trvl_schengen
+878,do you have different travel policy for schengen countries,int_trvl_schengen
+879,which are incentive schemes i can get for different products,int_agnt_incntive_schemes
+880,incentive schemes for agents for different products,int_agnt_incntive_schemes
+881,does NIA have incentives for agents for different products,int_agnt_incntive_schemes
+882,what are different incentive schemes for agent available for different products,int_agnt_incntive_schemes
+883,what coverages are offered by motor insurance,int_motr_wht_is_insurance
+884,what is the coverage in motor insurance,int_motr_wht_is_insurance
+885,what will be covered in motor insurance,int_motr_wht_is_insurance
+886,what do you mean by motor insurance,int_motr_wht_is_insurance
+887,what is covered under motor insurance,int_motr_wht_is_insurance
+888,what will i get in motor insurance,int_motr_wht_is_insurance
+889,what  are the coverages provided motor insurance,int_motr_wht_is_insurance
+890,does nia have insurance for motor,int_motr_wht_is_insurance
+891,what is motor insurance,int_motr_wht_is_insurance
+892,what is the  maximum period for policy,int_trvl_max_insurnce_period
+893,what is the  maximum tenure for travel policy,int_trvl_max_insurnce_period
+894,how long is the maximum period for which i can get travel policy,int_trvl_max_insurnce_period
+895,does nia have maximum period for travel policy,int_trvl_max_insurnce_period
+896,is there a maximum period for travel policy,int_trvl_max_insurnce_period
+897,what is the maximum period for which i can take a policy,int_trvl_max_insurnce_period
+898,does NIA have restriction  on the number of people for the coverage under floater mediclaim,int_hlth_limit_floater_members
+899,do you restrict number of people who can get coverage in floater policy,int_hlth_limit_floater_members
+900,do you have any restriction on the number of people to be covered in floater mediclaim policy,int_hlth_limit_floater_members
+901,is there any restriction on the number of people to be covered under floater mediclaim,int_hlth_limit_floater_members
+902,do i have to undergo a medical checkup to get travel policy,int_trvl_medical_checkup
+903,is a medical check up mandatory to take travel policy,int_trvl_medical_checkup
+904,is it mandatory to undergo medical checkup for taking travel policy,int_trvl_medical_checkup
+905,should i undergo medical checkup before taking travel policy,int_trvl_medical_checkup
+906,is fir a mandatory document,int_pacc_fir
+907,does nia make it mandatory for fir in pa policy,int_pacc_fir
+908,should i submit fir,int_pacc_fir
+909,is fir mandatory in pa policy,int_pacc_fir
+910,is post mortem report mandatory,int_pacc_postmortem
+911,is it mandatory to submit postmortem report for pa policy,int_pacc_postmortem
+912,does nia make it mandatory for postmortem report in pa policy,int_pacc_postmortem
+913,is post mortem report mandatory in pa policy,int_pacc_postmortem
+914,should i take medical checkup before taking pa policy,int_pacc_med_test
+915,is medical checkup mandatory for taking  policy,int_pacc_med_test
+916,is it mandatory to undergo health checkup for taking pa policy,int_pacc_med_test
+917,do i have to undergo medical checkup to take  policy,int_pacc_med_test
+918,which are the products for which portability is applicable,int_hlth_portability_applicable
+919,is portability applicable for all the health products,int_hlth_portability_applicable
+920,which products in policy has portability,int_hlth_portability_applicable
+921,do you have portability for all the health products,int_hlth_portability_applicable
+922,Does the cost of foundation should be included in the sum insured to be declared,int_fire_includ_foundation_cost
+923,is foundation cost part of sum insured declaration,int_fire_includ_foundation_cost
+924,does sum insured include cost of building foundation,int_fire_includ_foundation_cost
+925,foundation charge is included in sum insured,int_fire_includ_foundation_cost
+926,will the place of travel affect the premium,int_trvl_plac_jorny_premium
+927,what effects does place of travel have on the premium,int_trvl_plac_jorny_premium
+928,how does place of travel affect the premium,int_trvl_plac_jorny_premium
+929,is premium amount affected by place to travel,int_trvl_plac_jorny_premium
+930,will the premium be affected based on place of travel,int_trvl_plac_jorny_premium
+931,does the premium sum includes tax also,int_gnrc_prem_tax_inclsve
+932,Is the Premium amount inclusive of taxes or will tax be charged separately,int_gnrc_prem_tax_inclsve
+933,Is premium inclusive of taxes,int_gnrc_prem_tax_inclsve
+934,tax is included in the premium amount,int_gnrc_prem_tax_inclsve
+935,Will tax be charged on top of the premium charges,int_gnrc_prem_tax_inclsve
+936,will i receive an acknowledment from tpa that claim paper is received,int_hlth_claim_submssn_acknldgmnt
+937,does tpa send an acknowledgement after receiving claim paper,int_hlth_claim_submssn_acknldgmnt
+938,will tpa send acknowledgement to me that he has recieved claim paper,int_hlth_claim_submssn_acknldgmnt
+939,do i get acknowledgement from tpa about the receipt of my claim paper,int_hlth_claim_submssn_acknldgmnt
+940,which types of travel does travel policy cover,int_trvl_overseastrip_type
+941,does travel policy cover all types of travel,int_trvl_overseastrip_type
+942,what are the different type of travel in which travel policy is applicable,int_trvl_overseastrip_type
+943,do you cover all types of travel,int_trvl_overseastrip_type
+944,is travel policy applicable for all types of travel,int_trvl_overseastrip_type
+945,what benefits are transfered from a policy while porting,int_hlth_ported_prviousbenfts
+946,will any benefits from the previous policy be available in the ported policy,int_hlth_ported_prviousbenfts
+947,what are the discounts that i can get when a policy is ported,int_hlth_ported_prviousbenfts
+948,what previous benefits does NIA provide in case of ported policy,int_hlth_ported_prviousbenfts
+949,Will the depreciation be considered when i get money for a house  that got destructed,int_hous_destruction
+950,If house hold items are lost or destructed how much money will i get,int_hous_destruction
+951,If there is a loss of items insured will i get the amount i declared,int_hous_destruction
+952,Do i get the entire amount back if the items i insured got destroyed,int_hous_destruction
+953,do i need to pay exam fee again if i take the exam again,int_agnt_exm_reappear_fee
+954,how can i appear again for the exam,int_agnt_exm_reappear_fee
+955,should i pay the fee again to reappear for the exam,int_agnt_exm_reappear_fee
+956,do i have to pay the fee again to appear again in the exam,int_agnt_exm_reappear_fee
+957,if i reappear for the exam should i pay fee again,int_agnt_exm_reappear_fee
+958,if i fail the exam can i attempt it again,int_agnt_exm_reappear_fee
+959,do i have to repay my health insurance company when i settle my injury claim,int_motr_health_insur
+960,do i need to pay my medical insurance company after i get a settlement from insurance company,int_motr_health_insur
+961,should i pay back my health  insurer from my settlement amount,int_motr_health_insur
+962,should i pay my health insurance company back from my settlement,int_motr_health_insur
+963,do i have to repay my health insurer after i get a payment from my insurer,int_motr_health_insur
+964,do i need a lawyer if i had accident injury,int_motr_lawyer_accident
+965,is a lawyer required when i get injury,int_motr_lawyer_accident
+966,is an advocate required if i am injured in accident,int_motr_lawyer_accident
+967,should i contact a lawyer if i had an injury,int_motr_lawyer_accident
+968,do i need a lawyer if i am injured in a motor accident,int_motr_lawyer_accident
+969,is lawyer required if i had an injury at work place,int_motr_lawyer_work
+970,is a lawyer needed if i am injured on job,int_motr_lawyer_work
+971,do i need a lawyer if i get injured in work,int_motr_lawyer_work
+972,is lawyer  required if i am injured at work place,int_motr_lawyer_work
+973,will i require a lawyer  if i had an injury at job location,int_motr_lawyer_work
+974,My house is under society insurance. Do ineed additional insurance on top of it,int_hous_society
+975,What if the flat i live is insured by society,int_hous_society
+976,i live in a property insured by society . Do i take separate insurance cover,int_hous_society
+977,I live in a building insured by my society. Would I need to take additional insurance,int_hous_society
+978,why should i take travel policy if i already have a health insurance,int_trvl_health_why
+979,is a travel policy coverage required for some one who already has a health policy coverage,int_trvl_health_why
+980,why do i need travel insurance policy if i am already covered under health insurance policy of nia,int_trvl_health_why
+981,is a person covered in health policy need travel policy,int_trvl_health_why
+982,i have a health policy coverage. do i still need a travel policy,int_trvl_health_why
+983,is medical tests required  again for policy renewal,int_hlth_med_test_again
+984,should i undergo medical test for renewing policy,int_hlth_med_test_again
+985,should i do medical test again for  renewing the policy,int_hlth_med_test_again
+986,do i need to go for a medical test for policy renewal,int_hlth_med_test_again
+987,do i need to inform you while travelling abroad,int_pacc_overseas_travel
+988,when travelling abroad should i inform you,int_pacc_overseas_travel
+989,should nia be informed before i travel abroad,int_pacc_overseas_travel
+990,is it needed to inform you while travelling abroad,int_pacc_overseas_travel
+991,is it required to make fir if an accident occurs,int_motr_lodge_fir
+992,do i need to make an fir in case of an accident,int_motr_lodge_fir
+993,should i make fir when i meet with an accident,int_motr_lodge_fir
+994,is it compulsory to make fir when accident happens,int_motr_lodge_fir
+995,who is going to pay medical expenses for treatment of injuries,int_motr_pay_bill
+996,who is going to pay my medical bills if i am injured in an auto accident,int_motr_pay_bill
+997,who will pay medical bills for treatment of injury from an accident,int_motr_pay_bill
+998,who is responsible for payment of medical bills in case of an injury in an accident,int_motr_pay_bill
+999,do i need to pay my bills if i am injured in motor accident,int_motr_pay_bill
+1000,is it mandatory to submit duly signed proposal form while enhancing my policy sum insured,int_hlth_signdpolcy_frm
+1001,is submission of signed proposal form mandatory to enhance policy sum insured,int_hlth_signdpolcy_frm
+1002,should i submit a signed proposal form for enhancing my sum insured,int_hlth_signdpolcy_frm
+1003,do i need to submit signed proposal form for the enhancement of sum insured,int_hlth_signdpolcy_frm
+1004,should i have insurance for motor  driven on public place,int_motr_mandatory_plying_vehicles
+1005,do i need to take an insurance to drive my motor in road,int_motr_mandatory_plying_vehicles
+1006,is it required to  have insurance if i drive in a public road,int_motr_mandatory_plying_vehicles
+1007,is it required to have insurance for driving at public place,int_motr_mandatory_plying_vehicles
+1008,is terrorism covered,int_fire_terr_cover
+1009,What is the policy coverage option for terrorism,int_fire_terr_cover
+1010,What is Coverage for Terror Attacks,int_fire_terr_cover
+1011,Is Terror Attacks Covered,int_fire_terr_cover
+1012,What are the policy coverage for terrorism,int_fire_terr_cover
+1013,what are policies available to cover Terrorism,int_fire_terr_cover
+1014,Is Terrorist Attacks Covered,int_fire_terr_cover
+1015,What are the various types of policies available for terrorism coverage?,int_fire_terr_cover
+1016,Protection against Calamity Resulting in Damage or Loss of Home or House,int_hous_calamity_policy
+1017,Secure Home or House Against Natural Calamities like Earthquakes Floods Cyclones Storms,int_hous_calamity_policy
+1018,NIA Policy to Protect House against Natural Calamity,int_hous_calamity_policy
+1019,Insurance Policy Protection Against Disasters,int_hous_calamity_policy
+1020,whicch are the policies for poorer sections of society,int_hlth_policy_available_poor
+1021,what policies do you have for poorer sections,int_hlth_policy_available_poor
+1022,which policy does NIA have for poorer section of society,int_hlth_policy_available_poor
+1023,do you have a policy for poor people,int_hlth_policy_available_poor
+1024,What is the policy period for fire insurance?,int_fire_policy_dur
+1025,How long the Fire Insurance last,int_fire_policy_dur
+1026,What is Normal Duration of a Fire Insurance Policy,int_fire_policy_dur
+1027,How long is a fire policy valid,int_fire_policy_dur
+1028,What is General Duration of a Fire Insurance Policy,int_fire_policy_dur
+1029,What is the duration of policy,int_fire_policy_dur
+1030,Duration of a Fire Insurance Policy,int_fire_policy_dur
+1031,What is the duration for a fire policy,int_fire_policy_dur
+1032,places from where NIA works,int_gnrc_oprtn_cntry
+1033,What is a reach of NIA across globe,int_gnrc_oprtn_cntry
+1034,Operation Places of NIA,int_gnrc_oprtn_cntry
+1035,NIA reach locations,int_gnrc_oprtn_cntry
+1036,NIA operates from which locations?,int_gnrc_oprtn_cntry
+1037,global places from where NIA operates,int_gnrc_oprtn_cntry
+1038,what is reach of New India Assurance,int_gnrc_oprtn_cntry
+1039,How many countries does NIA currently operate across the globe?,int_gnrc_oprtn_cntry
+1040,How do you Settle the Claim Process,int_hous_claim_settle
+1041,What is the Claim Settlement Process,int_hous_claim_settle
+1042,Process to Settle the Claim,int_hous_claim_settle
+1043,Householder Claim Settlement,int_hous_claim_settle
+1044,how can i do settlememnt of personal injury claim,int_motr_prsnl_injry_claim
+1045,how do i settle my personal injuries claim,int_motr_prsnl_injry_claim
+1046,how to settle personal injury claims,int_motr_prsnl_injry_claim
+1047,how is a personal injury case settled,int_motr_prsnl_injry_claim
+1048,how are personal injury claims settled,int_motr_prsnl_injry_claim
+1049,what is the procedure for settling personal injury  claims,int_motr_prsnl_injry_claim
+1050,how will i claim a claim free health checkup,int_hlth_claimfree_hlthchckup
+1051,what is procedure for claiming claim free health checkup,int_hlth_claimfree_hlthchckup
+1052,how can a claim free health checkup be claimed,int_hlth_claimfree_hlthchckup
+1053,how will an agent get club membership,int_agnt_elgble_club_mmbrshp
+1054,how do i become eligible for club membership,int_agnt_elgble_club_mmbrshp
+1055,how can i be a member of club,int_agnt_elgble_club_mmbrshp
+1056,what is the criteria to get club membership,int_agnt_elgble_club_mmbrshp
+1057,what is the eligibility criteria to be a member of a club,int_agnt_elgble_club_mmbrshp
+1058,how do one apply to become an agent of NIA,int_agnt_apply
+1059,how to become an agent of NIA,int_agnt_apply
+1060,how can i be an agent,int_agnt_apply
+1061,what is the process to become agent,int_agnt_apply
+1062,i want to become an agent,int_agnt_apply
+1063,how do i become agent of NIA,int_agnt_apply
+1064,how do i find out the premium online,int_hlth_cal_premium_online
+1065,how can i calculate premium online,int_hlth_cal_premium_online
+1066,what should i do to calculate the premium online,int_hlth_cal_premium_online
+1067,tell me how to calculate the premium online,int_hlth_cal_premium_online
+1068,what should i do for claiming hospital cash,int_hlth_hospitalcash_getwellbenfit
+1069,what is the procedure for claiming hospital cash,int_hlth_hospitalcash_getwellbenfit
+1070,how to claim for hospital cash,int_hlth_hospitalcash_getwellbenfit
+1071,how do i claim hospital cash,int_hlth_hospitalcash_getwellbenfit
+1072,i want to claim motor insurance,int_motr_how_claim
+1073,how can i claim insurance,int_motr_how_claim
+1074,where is motor insurance claim settling office,int_motr_how_claim
+1075,what is the procedure to claim for insurance,int_motr_how_claim
+1076,how will i claim for policy if i had accident,int_motr_how_claim
+1077,where will i claim for my motor policy,int_motr_how_claim
+1078,how do i claim insurance,int_motr_how_claim
+1079,how do i claim for my motor insurance,int_motr_how_claim
+1080,how should I submit a claim,int_motr_how_claim
+1081,how do i claim if my motor had accident,int_motr_how_claim
+1082,I want to make motor insurance claim,int_motr_how_claim
+1083,How can individuals cover their residences under fire policies,int_fire_how_covr_residnc
+1084,is apartment  covered under fire policy,int_fire_how_covr_residnc
+1085,how can I cover house under policy,int_fire_how_covr_residnc
+1086,how can I cover residence under policy,int_fire_how_covr_residnc
+1087,which are the salient features of health policy,int_hlth_salient_features_hlth
+1088,where do i find salient features of health insurance policies,int_hlth_salient_features_hlth
+1089,what are salient feature of your health insurance policies,int_hlth_salient_features_hlth
+1090,how can i find salient features of health insurance policies,int_hlth_salient_features_hlth
+1091,how do i extend travel policy,int_trvl_extnd_procedure
+1092,what should i do to extend the travel policy,int_trvl_extnd_procedure
+1093,what can i do to get an extension to my travel policy,int_trvl_extnd_procedure
+1094,how can i get my travel policy extended,int_trvl_extnd_procedure
+1095,i am looking for a premium refund,int_motr_refd_premium
+1096,i want a refund of the premium amount,int_motr_refd_premium
+1097,i want to get a refund of premium paid,int_motr_refd_premium
+1098,what is the process of refund of premium,int_motr_refd_premium
+1099,how do i get a refund of the premium i paid,int_motr_refd_premium
+1100,what is the procedure to get premium refunded,int_motr_refd_premium
+1101,i need refund of excess premium,int_motr_refd_premium
+1102,i need a refund of excess premium which i paid,int_motr_refd_premium
+1103,what should i do to get reimbursement for pre or post hospitalization expenses,int_hlth_pre_post_rembrsmnt
+1104,what is the procedure to get the reimbursement for pre and post hospitalization expenses,int_hlth_pre_post_rembrsmnt
+1105,how does one get reimbursement for pre and post hospitalization expenses,int_hlth_pre_post_rembrsmnt
+1106,how can i get reimbursement for pre and post hospitalization expenses,int_hlth_pre_post_rembrsmnt
+1107,what should i do to get reimbursements in case of treatment in non network hospitals,int_hlth_reimbursement_non_ntwrk
+1108,how does one get reimbursements in case of treatment in nonnetwork hospitals,int_hlth_reimbursement_non_ntwrk
+1109,how to get the reimbursements when treatment is done in a non network hospital,int_hlth_reimbursement_non_ntwrk
+1110,what is the procedure for reimbursements if a person got treatment in a hospital which is not a network hospital,int_hlth_reimbursement_non_ntwrk
+1111,where do i get the claim status of motor policy,int_motr_claim_status
+1112,how do i find motor claim status,int_motr_claim_status
+1113,how will i get motor policy claim status,int_motr_claim_status
+1114,how can i get the status of my motor insurance claim,int_motr_claim_status
+1115,what is the process to increase the claim value,int_motr_inc_value
+1116,how will i increase policy claim,int_motr_inc_value
+1117,how can i increase the claim,int_motr_inc_value
+1118,what can i do to increase the value of my claim,int_motr_inc_value
+1119,how do i increase the value of claim,int_motr_inc_value
+1120,how can i obtain authorization letter,int_hlth_how_obtain_authorization
+1121,what is the procedure to get authorization letter,int_hlth_how_obtain_authorization
+1122,what is the procedure of obtaining a authorization letter,int_hlth_how_obtain_authorization
+1123,how does one obtain the authorization letter,int_hlth_how_obtain_authorization
+1124,How do I Renew Griha Suvidha Policy,int_hous_renew_policy
+1125,renewal process of policy,int_hous_renew_policy
+1126,renewal procedure,int_hous_renew_policy
+1127,Process to Renew Householder's Policy,int_hous_renew_policy
+1128,how can i renew my policy,int_motr_how_renew
+1129,how will i renew policy,int_motr_how_renew
+1130,what is the policy renewal process,int_motr_how_renew
+1131,how do i renew a policy,int_motr_how_renew
+1132,how do i get a pa policy,int_pacc_how
+1133,what is the process of taking the pa policy,int_pacc_how
+1134,how do i get policy,int_pacc_how
+1135,where can I buy policy,int_pacc_how
+1136,how can i take a pa policy,int_pacc_how
+1137,what is the process involved in taking the pa policy,int_pacc_how
+1138,how do i apply for an exam conducted by NSEIT,int_agnt_apply_nseit
+1139,how to take NSEIT exam,int_agnt_apply_nseit
+1140,how does one apply for the exam of NSEIT,int_agnt_apply_nseit
+1141,what is the process to take NSEIT exam,int_agnt_apply_nseit
+1142,how to know whether a settlement offer is fair,int_motr_fair_amnt
+1143,how do i know if the settlement amount is fair,int_motr_fair_amnt
+1144,how do i know if the settlement i received is fair,int_motr_fair_amnt
+1145,what is fair amount for settlement,int_motr_fair_amnt
+1146,how do you know if your insurance settlement offer is fair,int_motr_fair_amnt
+1147,how can i validate fairness of settlement amount,int_motr_fair_amnt
+1148,how do i know if i have a fair settlement offer,int_motr_fair_amnt
+1149,how will i know if my policy is valid,int_motr_genuine_policy
+1150,is my policy geniune,int_motr_genuine_policy
+1151,is the motor insurance authentic,int_motr_genuine_policy
+1152,how do i know if my motor insurance policy is genuine,int_motr_genuine_policy
+1153,how will i find if an insurance is authentic,int_motr_genuine_policy
+1154,how can i validate the authenticity of my insurance claim,int_motr_genuine_policy
+1155,is a policy i have genuine,int_motr_genuine_policy
+1156,what would make a fire insurance close,int_fire_how_policy_termination
+1157,what causes the termination of policy,int_fire_how_policy_termination
+1158,how do I  end  terminate fire policy,int_fire_how_policy_termination
+1159,How does fire insurance policy gets terminated,int_fire_how_policy_termination
+1160,Is terrorism risk coverage included,int_fire_terrorism
+1161,How do you cover terrorism,int_fire_terrorism
+1162,How can the risk of terror be covered,int_fire_terrorism
+1163,How can the risk of terrorism be covered,int_fire_terrorism
+1164,what is cashless facility,int_hlth_how_cashless_facility
+1165,what is meant by cashless facility,int_hlth_how_cashless_facility
+1166,how does cashless facility work,int_hlth_how_cashless_facility
+1167,what does cashless facility mean,int_hlth_how_cashless_facility
+1168,what are different commission rates for different products,int_agnt_commission_rates
+1169,how is commission rate differ for insurance products,int_agnt_commission_rates
+1170,what is the rates of commission for an agent for different products,int_agnt_commission_rates
+1171,how does commission rate vary for different products,int_agnt_commission_rates
+1172,how will porting of my policy affect the continuity of policy,int_hlth_continuity_protability
+1173,how does continuity affected if a policy is ported,int_hlth_continuity_protability
+1174,how will portability affect my policy continuity,int_hlth_continuity_protability
+1175,what continuity do i get under portability,int_hlth_continuity_protability
+1176,why is it needed to take pa policy even after having a cover provided by bank,int_pacc_bankpa
+1177,how does it help me to take a pa policy when i already have a cover from my bank,int_pacc_bankpa
+1178,why should i take another pa policy if i already am covered by bank,int_pacc_bankpa
+1179,is it needed to take another  policy if my bank already gives me a personal accident cover,int_pacc_bankpa
+1180,how will the payment of claim be made,int_hlth_how_payment_claim
+1181,how does NIA provide payment for claim,int_hlth_how_payment_claim
+1182,how is claim payment made,int_hlth_how_payment_claim
+1183,how do you pay claim,int_hlth_how_payment_claim
+1184,how does one benefit from club membership,int_agnt_bnfts_club_mmbrshp
+1185,what are the benefits for an agent for being a club member,int_agnt_bnfts_club_mmbrshp
+1186,what are the benefits for being a club member,int_agnt_bnfts_club_mmbrshp
+1187,what are the benefits under various club memberships,int_agnt_bnfts_club_mmbrshp
+1188,which are the benefits i can get from club membership,int_agnt_bnfts_club_mmbrshp
+1189,how does one benefit from health card,int_hlth_hlth_crd_benefits
+1190,what benefits does NIA give for health card,int_hlth_hlth_crd_benefits
+1191,how do i get benefited from health card,int_hlth_hlth_crd_benefits
+1192,what are the benefits of health card,int_hlth_hlth_crd_benefits
+1193,what is travel policy for,int_trvl_why_require
+1194,why should i take  travel policy,int_trvl_why_require
+1195,what is the purpose of travel policy,int_trvl_why_require
+1196,what is the need of a  policy,int_trvl_why_require
+1197,how does this policy help me,int_trvl_why_require
+1198,why do i need travel policy,int_trvl_why_require
+1199,why do one need a travel policy,int_trvl_why_require
+1200,how does zone selection in a policy affect me,int_hlth_zone_selection
+1201,how is selection of zone important in health policy,int_hlth_zone_selection
+1202,what is the importance of zone selection in health policy,int_hlth_zone_selection
+1203,why is selection of zone is important in a health policy,int_hlth_zone_selection
+1204,how do i get an agency license after i pass the exam,int_agnt_aftr_exam_procedure
+1205,what should i do to get agency license after passing an exam,int_agnt_aftr_exam_procedure
+1206,how will i  get license after passing the exam,int_agnt_aftr_exam_procedure
+1207,what is the procedure to get agency license after passing the exam,int_agnt_aftr_exam_procedure
+1208,where will i get ncb,int_motr_whr_ncb
+1209,where can i get ncb,int_motr_whr_ncb
+1210,how do i get an  ncb certificate,int_motr_whr_ncb
+1211,where can i get no claim bonus certificate,int_motr_whr_ncb
+1212,how do i get brochure,int_agnt_brochre_pub_material
+1213,where is the brochure available,int_agnt_brochre_pub_material
+1214,where can i get broucher,int_agnt_brochre_pub_material
+1215,where will i get brochure,int_agnt_brochre_pub_material
+1216,how to download the syllabus for exam,int_agnt_syllabus_dwnload
+1217,how do i get the exam syllabus,int_agnt_syllabus_dwnload
+1218,where do i get the syllabus for exam,int_agnt_syllabus_dwnload
+1219,what is the syllabus for the exam and how do i download it,int_agnt_syllabus_dwnload
+1220,where is the exam syllabus available,int_agnt_syllabus_dwnload
+1221,how do i know that i claim got rejected,int_hlth_claimrejctn_notificatn
+1222,if nia rejects a claim how will i know about it,int_hlth_claimrejctn_notificatn
+1223,who informs the insured that his claim is rejected,int_hlth_claimrejctn_notificatn
+1224,how will i know that my policy claim is rejected,int_hlth_claimrejctn_notificatn
+1225,what is the procedure for premium calculation,int_motr_how_premium_calculate
+1226,how do i know the premium of motor,int_motr_how_premium_calculate
+1227,what is the process to calculate premium,int_motr_how_premium_calculate
+1228,how is the premium calculated,int_motr_how_premium_calculate
+1229,how do you calculate the premium for  insurance,int_motr_how_premium_calculate
+1230,what is the premium for motor,int_motr_how_premium_calculate
+1231,what is premium for motor,int_motr_how_premium_calculate
+1232,what is premium for my motor,int_motr_how_premium_calculate
+1233,where can i check the submitted claim's status,int_hlth_claim_status
+1234,where do i get my claim status,int_hlth_claim_status
+1235,how do i know the status of my claim,int_hlth_claim_status
+1236,where can i get claim status,int_hlth_claim_status
+1237,how do i port my policy,int_hlth_recomend_proces_portability
+1238,what is the process to apply for porting a policy,int_hlth_recomend_proces_portability
+1239,what is the process for porting health policy,int_hlth_recomend_proces_portability
+1240,how to apply for policy portability,int_hlth_recomend_proces_portability
+1241,how is  loss calculated,int_motr_calculate_loss
+1242,how will you calculate loss,int_motr_calculate_loss
+1243,what is the process to calculate loss,int_motr_calculate_loss
+1244,how is  a loss calculated,int_motr_calculate_loss
+1245,what is the meaning of health policy,int_hlth_what_hlth_insrnce
+1246,why should i go for a health policy,int_hlth_what_hlth_insrnce
+1247,what do you mean by health policy,int_hlth_what_hlth_insrnce
+1248,what does the term health policy mean,int_hlth_what_hlth_insrnce
+1249,how do you define a health insurance,int_hlth_what_hlth_insrnce
+1250,why do i take a health  policy,int_hlth_what_hlth_insrnce
+1251,what is the purpose of taking health policy,int_hlth_what_hlth_insrnce
+1252,what are the factors which determine the premium,int_trvl_fctr_dtrmne_premium
+1253,how is a premium determined,int_trvl_fctr_dtrmne_premium
+1254,how do you determine premium amount,int_trvl_fctr_dtrmne_premium
+1255,which factors determine premium,int_trvl_fctr_dtrmne_premium
+1256,how do you differentiate a pa policy from a life insurance policy,int_pacc_lifeins_diff
+1257,in what way is pa policy different from life insurance policy,int_pacc_lifeins_diff
+1258,what is the difference between life insurance policy and pa policy,int_pacc_lifeins_diff
+1259,how is life insurance policy different from pa policy,int_pacc_lifeins_diff
+1260,how will you resolve a claim for my motor insurance,int_motr_how_claim_settle
+1261,how do you solve my motor claim,int_motr_how_claim_settle
+1262,what is the process of solving a motor claim,int_motr_how_claim_settle
+1263,what is the process to solve an insurance policy claim,int_motr_how_claim_settle
+1264,how will motor insurance claim get solved,int_motr_how_claim_settle
+1265,how do you solve a claim,int_motr_how_claim_settle
+1266,what is the time for taking the policy before travel date,int_trvl_how_days_prior_india
+1267,how early should a policy  be taken before travel date,int_trvl_how_days_prior_india
+1268,what time should i take travel policy prior to travel date,int_trvl_how_days_prior_india
+1269,when should i take the policy. how many days prior to travel,int_trvl_how_days_prior_india
+1270,what is the travel policy extension time,int_trvl_how_fast_policy_extend
+1271,what is the time taken for travel policy extension,int_trvl_how_fast_policy_extend
+1272,how much time does travel policy extension take,int_trvl_how_fast_policy_extend
+1273,how long does it take to extend travel policy,int_trvl_how_fast_policy_extend
+1274,how fast can you extend the travel policy,int_trvl_how_fast_policy_extend
+1275,how soon  can a travel policy extension happen,int_trvl_how_fast_policy_extend
+1276,How is the Premium Amount Calculated,int_hous_calc_prem
+1277,How is my Insurance Premium Calculated,int_hous_calc_prem
+1278,What are the ways of Calculating Premium,int_hous_calc_prem
+1279,How Insurance Companies Determine Premium,int_hous_calc_prem
+1280,How to Calculate Premium,int_hous_calc_prem
+1281,How is Premium Amount Determined,int_hous_calc_prem
+1282,How Premiums are Calculated,int_hous_calc_prem
+1283,what benefits do you give in group mediclaim policy,int_hlth_benefit_mediclaim_policy
+1284,what is the benefit of taking group mediclaim,int_hlth_benefit_mediclaim_policy
+1285,what benefits does NIA provide for group mediclaim,int_hlth_benefit_mediclaim_policy
+1286,what are the benefits of group mediclaim policy,int_hlth_benefit_mediclaim_policy
+1287,how is group mediclaim policy beneficial,int_hlth_benefit_mediclaim_policy
+1288,what will be the sum insured for my independent home / apartment,int_fire_sum_insured
+1289,how will i know the sum insured to give for my house / flat,int_fire_sum_insured
+1290,How is   sum insured for an independent house or an apartment fixed,int_fire_sum_insured
+1291,How is   sum insured for an independent house or an apartment determined,int_fire_sum_insured
+1292,what is the validity of agent's appointment,int_agnt_valid
+1293,i want to know about the agent's appointment validity,int_agnt_valid
+1294,how long my appointment as an agent is valid,int_agnt_valid
+1295,how long does an agent's appointment valid,int_agnt_valid
+1296,how long is appointment is valid,int_agnt_valid
+1297,what is the period of time to settle the case for motor injury,int_motr_time_settle
+1298,what is the case settlement timeline,int_motr_time_settle
+1299,how long does it take to get a settlement of case,int_motr_time_settle
+1300,how much time does it take to settle a motor  accident claim,int_motr_time_settle
+1301,what is the time period to settle my case when i am injured in  accident,int_motr_time_settle
+1302,what is the duration of case settlement in case of  motor accident claim,int_motr_time_settle
+1303,what is the time to settle my claim,int_motr_time_settle
+1304,how many days will case settlement take,int_motr_time_settle
+1305,how much time is required to settle my motor injury case,int_motr_time_settle
+1306,how long will it take to settle my case if i got injury in accident,int_motr_time_settle
+1307,what is the period of time it takes to settle a case of injury,int_motr_time_settle
+1308,what is timelimit for motor accident case settlement,int_motr_time_settle
+1309,how long does case settlement take,int_motr_time_settle
+1310,what is the duration for case settlement if i had injury in motor accident,int_motr_time_settle
+1311,how long does claim settlement take,int_hlth_claim_settlmnt_period
+1312,how long will it to take for a claim to be settled,int_hlth_claim_settlmnt_period
+1313,how many days does it need for settling the claim,int_hlth_claim_settlmnt_period
+1314,what is the duration for claim settlement,int_hlth_claim_settlmnt_period
+1315,what is the claim settlement time,int_hlth_claim_settlmnt_period
+1316,how much time it takes to get the mediclaim policy upon payment of the premium,int_hlth_when_mediclaim_policy
+1317,when will i get the mediclaim policy on submitting the premium,int_hlth_when_mediclaim_policy
+1318,how many days will it take to issue the policy after paying premium,int_hlth_when_mediclaim_policy
+1319,how long does it take for getting policy after the payment of premium,int_hlth_when_mediclaim_policy
+1320,within what time should  i have to file a lawsuit if i got an injury in an accident,int_motr_time_suit
+1321,how long do i have to file a case if i am injured in an accident,int_motr_time_suit
+1322,what time do i have  to file a law suit if i am injured in an accident,int_motr_time_suit
+1323,what is the duration within which i have to file a lawsuit if i am injured in an  accident,int_motr_time_suit
+1324,what is the period within which i should file a suit after i get injured,int_motr_time_suit
+1325,how long is the agent exam,int_agnt_time_period_exam
+1326,how long is the duration of exam,int_agnt_time_period_exam
+1327,what is the duration for the agent exam,int_agnt_time_period_exam
+1328,i want to know about the exam duration,int_agnt_time_period_exam
+1329,what is the number of claims allowed in a year,int_hlth_max_claims
+1330,how many claims are allowed,int_hlth_max_claims
+1331,is there constraints on the number of claims in one  year,int_hlth_max_claims
+1332,when should i renew the policy,int_motr_renew_policy
+1333,when do i do for the renewal of the insurance policy,int_motr_renew_policy
+1334,what is the timelimit to renew the current policy before it is expired,int_motr_renew_policy
+1335,how many days before my motor policy expiry that renewal should be done,int_motr_renew_policy
+1336,what is time within which i should renew my motor inusurance policy,int_motr_renew_policy
+1337,which are policy period bands,int_trvl_policy_period
+1338,what are the  policy periods available in travel policy,int_trvl_policy_period
+1339,how many days can I take travel  policy,int_trvl_policy_period
+1340,what is the period of insurance,int_trvl_policy_period
+1341,what is the policy period,int_trvl_policy_period
+1342,what are the different periods for which travel policy is available,int_trvl_policy_period
+1343,which are the products under health insurance,int_hlth_insrnc_available
+1344,which are the types of health policies,int_hlth_insrnc_available
+1345,what kind of health insurance policies are available,int_hlth_insrnc_available
+1346,how many types of policies you give,int_hlth_insrnc_available
+1347,what are various health insurance available,int_hlth_insrnc_available
+1348,how many policies does NIA have for covering health,int_hlth_policy_available
+1349,how many health policies do you have,int_hlth_policy_available
+1350,what are the health policy products,int_hlth_policy_available
+1351,which are the available policies for health,int_hlth_policy_available
+1352,what policies do you have for health insurance,int_hlth_policy_available
+1353,how much marks should i score to pass the exam,int_agnt_passing_marks
+1354,what is the criteria to pass the exam,int_agnt_passing_marks
+1355,what are the marks required to pass an exam,int_agnt_passing_marks
+1356,what percentage of marks are required to pass an exam,int_agnt_passing_marks
+1357,how many marks is considered as pass mark in the agent exam,int_agnt_passing_marks
+1358,which medicine systems does NIA cover under mediclaim policy,int_hlth_what_medicine_system_covered
+1359,which medicine systems do you cover under mediclaim protection,int_hlth_what_medicine_system_covered
+1360,what are the medicine systems that are covered in mediclaim policy,int_hlth_what_medicine_system_covered
+1361,how many medicine systems are covered under mediclaim policy,int_hlth_what_medicine_system_covered
+1362,what are the  policies available for insuring motor,int_motr_available_policies
+1363,what are the policies available for covering motor,int_motr_available_policies
+1364,which are the policies for motor insurance,int_motr_available_policies
+1365,how many policies do you have for covering motor,int_motr_available_policies
+1366,what policies do you have for covering motor,int_motr_available_policies
+1367,what motor policies does nia have for covering my motor,int_motr_available_policies
+1368,which are the policies you have,int_motr_available_policies
+1369,what do you cover in pa policy,int_pacc_types_covrag
+1370,what are the types of pa policy coverage,int_pacc_types_covrag
+1371,how many types of coverage is offered in policy,int_pacc_types_covrag
+1372,which are the different types of coverages offered in policy,int_pacc_types_covrag
+1373,what are the coverages policy offer,int_pacc_types_covrag
+1374,which coverages do you offer,int_pacc_types_covrag
+1375,what amount should i bear,int_motr_amount_bear
+1376,what is the amount i have to bear,int_motr_amount_bear
+1377,how much amount i need to bear,int_motr_amount_bear
+1378,what amount do i need to bear,int_motr_amount_bear
+1379,how much should i pay,int_motr_amount_bear
+1380,how much pay  am i entitled to if i get injured at work place,int_motr_money_entitl
+1381,how much money can i get when i am injured at work,int_motr_money_entitl
+1382,how much money can i claim if i get injury on job,int_motr_money_entitl
+1383,how much  can i claim if i had an injury on job location,int_motr_money_entitl
+1384,what are the expenses required for taking agency,int_agnt_expenses
+1385,how much  money do i have to pay if i take an agency,int_agnt_expenses
+1386,how much does it cost for me to take an agency,int_agnt_expenses
+1387,what will be the cost for taking an agency,int_agnt_expenses
+1388,how much should i pay for an agency,int_agnt_expenses
+1389,what do i have to pay to take an agency,int_agnt_expenses
+1390,what is my claim worth,int_motr_claim_worth
+1391,how much is motor policy claim worth,int_motr_claim_worth
+1392,how much is my claim worth,int_motr_claim_worth
+1393,what is the worth of my motor policy claim,int_motr_claim_worth
+1394,what is the worth of my claim,int_motr_claim_worth
+1395,how much does my motor insurance policy claim worth,int_motr_claim_worth
+1396,what is the amount which is paid after claim,int_pacc_wht_paid
+1397,what do you pay upon submitting claim,int_pacc_wht_paid
+1398,how much is paid as the claim amount,int_pacc_wht_paid
+1399,what is paid in the event of a claim,int_pacc_wht_paid
+1400,what should i pay to file a lawsuit,int_motr_suit_cost
+1401,how much money will it cost if file a law suit,int_motr_suit_cost
+1402,how much will it cost to take a legal action,int_motr_suit_cost
+1403,what does it  cost  for taking a legal action,int_motr_suit_cost
+1404,what is the cost to file a lawsuit,int_motr_suit_cost
+1405,how much will law suits cost,int_motr_suit_cost
+1406,how much i need to pay to file a lawsuit,int_motr_suit_cost
+1407,how much it cost to file a lawsuit,int_motr_suit_cost
+1408,what is enhancement cover,int_motr_enhant_cover_cost
+1409,what is meant by enhancement cover,int_motr_enhant_cover_cost
+1410,what does enhancement cover cost mean,int_motr_enhant_cover_cost
+1411,how much is enhancement cover cost,int_motr_enhant_cover_cost
+1412,what do you mean by enhancement cover cost,int_motr_enhant_cover_cost
+1413,how much is the age limit for taking pa policy,int_pacc_age_limit
+1414,what is pa policy age limit,int_pacc_age_limit
+1415,what is the age group who can get pa policy,int_pacc_age_limit
+1416,what is the age limit for taking pa policy,int_pacc_age_limit
+1417,what should be the depreciation percentage for a vehicle if vehicle age is less than 6 months,int_motr_depreciation_age_six_months
+1418,how much should be the depreciation when the age of vehicle is less than 6 months,int_motr_depreciation_age_six_months
+1419,what is the percentage of depreciation for a vehicle if vehicle age not exceeding 6 months,int_motr_depreciation_age_six_months
+1420,is there a minimum age limit for agents,int_agnt_min_age
+1421,what is the minimum age limit to become an agent of NIA,int_agnt_min_age
+1422,what is the minimum age limit to become an agent of NIA,int_agnt_min_age
+1423,what is the minimum age to be an NIA agent,int_agnt_min_age
+1424,what is the minimum premium under motor policy,int_motr_what_min_premium
+1425,how much is the minimum premium  for motor insurance,int_motr_what_min_premium
+1426,what is the minimum premium amount,int_motr_what_min_premium
+1427,what is the limit in pa cover,int_motr_pa_limit
+1428,what is limit of pa coverage,int_motr_pa_limit
+1429,what is the limit on pa in a motor insurance,int_motr_pa_limit
+1430,what is the limitation on pa cover,int_motr_pa_limit
+1431,how much is the pa cover limit,int_motr_pa_limit
+1432,what is pa limit in motor insurance,int_motr_pa_limit
+1433,what is the amount of tax benefit,int_hlth_amount_tax_benefit
+1434,how much tax benefit will i get,int_hlth_amount_tax_benefit
+1435,what is the tax benefit amount,int_hlth_amount_tax_benefit
+1436,how much money will i get as settlement amount in case of accident injury,int_motr_injur_pay
+1437,what will you pay as accident settlement amount for injury,int_motr_injur_pay
+1438,how much money will i get if my motor met with an accident and i got injury,int_motr_injur_pay
+1439,what will i get as accident settlement,int_motr_injur_pay
+1440,how much payment will i get from insurance when i am  injured,int_motr_injur_pay
+1441,how much will i get as accident settlement,int_motr_injur_pay
+1442,if i am injured how much money will i get from insurance agency,int_motr_injur_pay
+1443,how much will you pay when injury occurs in a motor accident,int_motr_injur_pay
+1444,how much should i pay in case of claim in travel policy,int_trvl_insured_pay
+1445,what amount should i pay in case of a claim,int_trvl_insured_pay
+1446,how much the insured need to pay in case of claim under travel policy,int_trvl_insured_pay
+1447,when do i get my commission,int_agnt_periodicity_paymnt
+1448,what is the time period for giving commission to an agent,int_agnt_periodicity_paymnt
+1449,how often does NIA provide commission to agents,int_agnt_periodicity_paymnt
+1450,when will NIA give commission to an agent,int_agnt_periodicity_paymnt
+1451,what is the commission payment period cycle for an agent,int_agnt_periodicity_paymnt
+1452,when will i get my commission,int_agnt_periodicity_paymnt
+1453,what can happen if the policy is not renewed,int_motr_what_not_renew
+1454,i didn't do policy renewal,int_motr_what_not_renew
+1455,what happens if i didn't renew my  motor policy,int_motr_what_not_renew
+1456,what will i do if neither of us had insurance,int_motr_no_insur
+1457,what happens in an accident where both drivers has no insurance,int_motr_no_insur
+1458,what will happen if both parties does not have insurance,int_motr_no_insur
+1459,what if neither driver has insurance,int_motr_no_insur
+1460,what can i do when neither driver has insurance,int_motr_no_insur
+1461,what happens if none of the drivers have insurance,int_motr_no_insur
+1462,what if the driver who hit my motor does not have enough insurance to pay me,int_motr_enough_insur
+1463,i got injured and the driver did not have insurance to cover the charges i incurred due to accident,int_motr_enough_insur
+1464,is there a limit to the amount i get if i got injured in an accident and driver didnt have insurance,int_motr_enough_insur
+1465,what happens if the amount of insurance coverage that the driver at fault has is not enough to compensate my damages,int_motr_enough_insur
+1466,what will happen when the at-fault driver does not have enough insurance for compensation,int_motr_enough_insur
+1467,i got injured work as a result of another company’s fault can i file a civil suit,int_motr_othr_cmpny
+1468,i had injury  at work place because of different company fault,int_motr_othr_cmpny
+1469,what happens if i had injury at job place due to another company's fault,int_motr_othr_cmpny
+1470,what if i had an accident in job location because of another company’s fault,int_motr_othr_cmpny
+1471,what if i am injured at work as a result of another company’s fault,int_motr_othr_cmpny
+1472,what happens if i had injury on job due to another company fault,int_motr_othr_cmpny
+1473,i had an injury while avoiding a collision with another motor . how much cover will i get,int_motr_collision
+1474,what is the coverage you provide if i had an injury when was i trying to avoid a collision .,int_motr_collision
+1475,what cover can i get if i got injured when i avoided collision,int_motr_collision
+1476,will insurance policy cover if  i am injured avoiding a collision,int_motr_collision
+1477,will i get a coverage if the accident had occured while avoiding a collision,int_motr_collision
+1478,what is the policy cover if i suffer from an injury while avoiding a collision,int_motr_collision
+1479,i lost my policy when my motor was stolen,int_motr_stolen_vehicle
+1480,someone stole my motor and my policy is lost,int_motr_stolen_vehicle
+1481,what should i do if the original policy is lost due to theft of motor,int_motr_stolen_vehicle
+1482,what can i do if i lose my original motor  policy due to motor theft,int_motr_stolen_vehicle
+1483,in addition to the negligent driver is the owner  also responsible for my injuries,int_motr_owner_resp
+1484,is the owner  also responsible for injury,int_motr_owner_resp
+1485,is the owner responsible for the injury in addition to driver of the motor,int_motr_owner_resp
+1486,is the owner responsible for injuries caused in addition to the driver,int_motr_owner_resp
+1487,is there a responsibility for owner of the motor also in addition to driver if the motor met with an accident,int_motr_owner_resp
+1488,what is the currency in which nia pays claims,int_trvl_reimbursement_currency
+1489,what is the currency used to pay claim,int_trvl_reimbursement_currency
+1490,in which currency the claim gets paid,int_trvl_reimbursement_currency
+1491,which currency does nia pay claims in,int_trvl_reimbursement_currency
+1492,is checking of motor  necessary before i get insurance policy,int_motr_inspection
+1493,is it necessary to get motor inspected before taking insurance,int_motr_inspection
+1494,is it necessary to inspect motor prior to taking insurance,int_motr_inspection
+1495,should i get my motor  inspected before getting an insurance,int_motr_inspection
+1496,is inspection of motor required before taking a policy for my motor,int_motr_inspection
+1497,is the main contractor has liability on the injury happened to sub contracted employee,int_motr_gnrl_contrct
+1498,will the general contractor be liable for injuries to its subcontractor employees,int_motr_gnrl_contrct
+1499,is general contractor responsible for injury to his sub contractor employees,int_motr_gnrl_contrct
+1500,is the general contractor liable for my injuries that occurred while i was working for a subcontractor,int_motr_gnrl_contrct
+1501,is it required to do a medical check to buy a policy,int_hlth_medical_chkup_necessary
+1502,is medical check up mandatory to buy new policy,int_hlth_medical_chkup_necessary
+1503,should every one undergo medical test to buy a new policy,int_hlth_medical_chkup_necessary
+1504,is ncb applicable in a liability only motor policy,int_motr_ncb_liabilityonly
+1505,will no claim bonus be applicable in a liability policy,int_motr_ncb_liabilityonly
+1506,is ncb applicable for liability policy,int_motr_ncb_liabilityonly
+1507,is no  claim bonus applicable on liability policy,int_motr_ncb_liabilityonly
+1508,what is the need of having different plans available for travel policy,int_trvl_diff_plan_insurnc
+1509,why are different plans made available for travel policy,int_trvl_diff_plan_insurnc
+1510,is there a purpose of having various plans under travel policy,int_trvl_diff_plan_insurnc
+1511,what are the different plans in policy,int_trvl_diff_plan_insurnc
+1512,what is the use of various plans in travel policy,int_trvl_diff_plan_insurnc
+1513,why does nia have a different plans for travel policy,int_trvl_diff_plan_insurnc
+1514,what is the age of retirement of NIA agent,int_agnt_rtrmnt_age
+1515,when will an agent retire,int_agnt_rtrmnt_age
+1516,is there a retirement age for an agent,int_agnt_rtrmnt_age
+1517,i want to know about the retirement age for an agent,int_agnt_rtrmnt_age
+1518,what is 2/4 year exclusion,int_hlth_2_and_4_year_exclusion
+1519,what does 2/4 years exclusion mean,int_hlth_2_and_4_year_exclusion
+1520,what are 2/4 year exclusions,int_hlth_2_and_4_year_exclusion
+1521,I want to know about 2/4 year exclusion,int_hlth_2_and_4_year_exclusion
+1522,what is the meaning of 2/4 years exclusions,int_hlth_2_and_4_year_exclusion
+1523,what are various club membership available for agents,int_agnt_cat_club_mmbrshp
+1524,which are the various club memberships for agents,int_agnt_cat_club_mmbrshp
+1525,what are different club membership available for agents,int_agnt_cat_club_mmbrshp
+1526,i want to know about club memberships for agents,int_agnt_cat_club_mmbrshp
+1527,what kind of club memberships are available for agent,int_agnt_cat_club_mmbrshp
+1528,what does NSEIT mean,int_agnt_what_nseit
+1529,what does NSEIT stand for,int_agnt_what_nseit
+1530,what is  NSEIT,int_agnt_what_nseit
+1531,i want to know about NSEIT,int_agnt_what_nseit
+1532,what is the educational qualification to be an agent,int_agnt_qulfictn
+1533,what should be the qualification for agent of NIA,int_agnt_qulfictn
+1534,i want to know about the qualification to become an NIA agent,int_agnt_qulfictn
+1535,what are the qualifications required for  becoming an agent of NIA,int_agnt_qulfictn
+1536,i want to know about total loss,int_motr_what_total_loss
+1537,what is meant by total loss,int_motr_what_total_loss
+1538,what is the meaning of total loss,int_motr_what_total_loss
+1539,what do you mean by total loss,int_motr_what_total_loss
+1540,what do i do if my motor policy is expiring today,int_motr_expiry
+1541,what should i do if a policy is expired,int_motr_expiry
+1542,my motor policy expired,int_motr_expiry
+1543,what can i do if motor policy is expired,int_motr_expiry
+1544,what can i do after the expiry of my motor insurance policy,int_motr_expiry
+1545,New India Assurance commencement date,int_gnrc_strt_date
+1546,NIA commencement date,int_gnrc_strt_date
+1547,When was NIA started,int_gnrc_strt_date
+1548,when did NIA start,int_gnrc_strt_date
+1549,what date NIA started,int_gnrc_strt_date
+1550,what are the age restrictions for mediclaim policy,int_hlth_age_limit_mediclaim
+1551,what is age criteria to take a policy,int_hlth_age_limit_mediclaim
+1552,what is the age limit for mediclaim policy,int_hlth_age_limit_mediclaim
+1553,what should be my age for taking mediclaim policy,int_hlth_age_limit_mediclaim
+1554,what is meant by addon covers,int_motr_addon_cover
+1555,what are add on covers,int_motr_addon_cover
+1556,what are the add-on covers in motor policy,int_motr_addon_cover
+1557,what is included in addon coverages,int_motr_addon_cover
+1558,what is add on cover,int_motr_addon_cover
+1559,what is covered under add-ons,int_motr_addon_cover
+1560,what does continuity benefits mean,int_hlth_what_continuity_benefits
+1561,what are continuity benefits,int_hlth_what_continuity_benefits
+1562,what is meant by continuity benefits,int_hlth_what_continuity_benefits
+1563,what do you mean by continuity benefits,int_hlth_what_continuity_benefits
+1564,what documents do i need to claim motor insurance,int_motr_documents_required
+1565,what are documents required at the time of claim,int_motr_documents_required
+1566,which are the documents necessary for motor insurance claim,int_motr_documents_required
+1567,what documents i should have while claiming for motor insurance,int_motr_documents_required
+1568,what is excluded in package policy,int_motr_exclusions_package_policy
+1569,what are the exclusions under package policy,int_motr_exclusions_package_policy
+1570,which are exclusions under motor package policy,int_motr_exclusions_package_policy
+1571,what are excluded in package policy,int_motr_exclusions_package_policy
+1572,what is the meaning of network hospital,int_hlth_what_ntwrk_hosptl
+1573,what are network hospitals,int_hlth_what_ntwrk_hosptl
+1574,what does network hospital mean,int_hlth_what_ntwrk_hosptl
+1575,what do you mean by network hospitals,int_hlth_what_ntwrk_hosptl
+1576,where can i give the NSEIT exam,int_agnt_exam_centres
+1577,where are the exam centers for NSEIT,int_agnt_exam_centres
+1578,where should i opt for exam center of NSEIT exam,int_agnt_exam_centres
+1579,which are exam centers for NSEIT exam,int_agnt_exam_centres
+1580,which are the documents that are needed during claim,int_pacc_claim_documents
+1581,what documents are needed for claiming,int_pacc_claim_documents
+1582,what are the claim documents needed for claim,int_pacc_claim_documents
+1583,what are the conditions under which portability of policy is allowed,int_hlth_conditions_port_policy
+1584,which are the conditions in which a policy can be ported,int_hlth_conditions_port_policy
+1585,when can i port my health policy,int_hlth_conditions_port_policy
+1586,when can policy porting occur,int_hlth_conditions_port_policy
+1587,what will i get in liability only policy,int_motr_covr_liability_only
+1588,what is the coverage under liability only policy,int_motr_covr_liability_only
+1589,what is liability only policy,int_motr_covr_liability_only
+1590,what does liability only policy cover,int_motr_covr_liability_only
+1591,what will be covered in liability only policy,int_motr_covr_liability_only
+1592,what coverages are given by liability only policy,int_motr_covr_liability_only
+1593,what  are the coverages given by liability only policy,int_motr_covr_liability_only
+1594,what covers does mediclaim policy give,int_hlth_what_mediclaim_policy_cover
+1595,what does NIA cover under mediclaim policy,int_hlth_what_mediclaim_policy_cover
+1596,what are the coverages of mediclaim policy,int_hlth_what_mediclaim_policy_cover
+1597,what do you cover in mediclaim policy,int_hlth_what_mediclaim_policy_cover
+1598,what does mediclaim policy cover,int_hlth_what_mediclaim_policy_cover
+1599,what are the inclusions under motor package policy,int_motr_package_policy_cover
+1600,what is covered under motor package policy,int_motr_package_policy_cover
+1601,what is covered under motor package insurance policy,int_motr_package_policy_cover
+1602,what is covered in motor package policy,int_motr_package_policy_cover
+1603,what is package policy,int_motr_package_policy_cover
+1604,what is motor package policy,int_motr_package_policy_cover
+1605,what does package policy cover,int_motr_package_policy_cover
+1606,what are the inclusions in travel policy,int_trvl_what_coverage
+1607,what coverages does nia provide with travel policy,int_trvl_what_coverage
+1608,what will be covered in travel policy,int_trvl_what_coverage
+1609,what cover will i get from travel policy,int_trvl_what_coverage
+1610,what do nia travel policy cover,int_trvl_what_coverage
+1611,what does  travel policy cover,int_trvl_what_coverage
+1612,what are the  different coverages available in travel policy,int_trvl_what_coverage
+1613,which are policy documents that should be kept in motor,int_motr_documents_carry_car
+1614,what insurance policy documents should be always kept with me,int_motr_documents_carry_car
+1615,what are the documents i should have,int_motr_documents_carry_car
+1616,what documents should i always keep in my motor,int_motr_documents_carry_car
+1617,which documents are required for cashless claim,int_hlth_docsneeded_claimsubmssn
+1618,which documents should i give for cashless claim,int_hlth_docsneeded_claimsubmssn
+1619,which are the documents required for cashless claim,int_hlth_docsneeded_claimsubmssn
+1620,what are the documents needed to get a cashless claim,int_hlth_docsneeded_claimsubmssn
+1621,what documents should i submit to apply fresh policy,int_hlth_docs_list
+1622,which are the documents required for fresh policy,int_hlth_docs_list
+1623,which documents should i give for a policy application,int_hlth_docs_list
+1624,what documents are required for applying for a fresh policy,int_hlth_docs_list
+1625,which documents should i give for a policy renewal,int_hlth_docsreq_policyrenewal
+1626,what are the documents requied for a policy renewal,int_hlth_docsreq_policyrenewal
+1627,which are the documents required for my policy renewal,int_hlth_docsreq_policyrenewal
+1628,what documents are required for policy renewal,int_hlth_docsreq_policyrenewal
+1629,which products do you have in motor insurance,int_motr_what_products
+1630,which are motor insurance products,int_motr_what_products
+1631,what are the motor insurance products,int_motr_what_products
+1632,what are the products in motor insurance,int_motr_what_products
+1633,which are the products in motor insurance,int_motr_what_products
+1634,which perils come under the fire policy,int_fire_perils
+1635,What are the perils covered by a basic fire policy,int_fire_perils
+1636,which hazards are included under policy coverage,int_fire_perils
+1637,which are the damages for which fire insurance offers coverage,int_fire_perils
+1638,what should i consider during cashless hospitilization,int_hlth_imp_points_cashless
+1639,what should i consider while getting hospitilized in a cashless scheme,int_hlth_imp_points_cashless
+1640,what are the points to consider while getting hospitalized under cashless scheme,int_hlth_imp_points_cashless
+1641,which are points to be considered for hospitilization under cashless scheme,int_hlth_imp_points_cashless
+1642,what do i do if cashless facility is rejected,int_hlth_cshlesdenied_othrservcs
+1643,what will i do for the rejection of cashless facility,int_hlth_cshlesdenied_othrservcs
+1644,what should I do if a casless facility is rejected,int_hlth_cshlesdenied_othrservcs
+1645,what can i do if i am denied of cashless facility,int_hlth_cshlesdenied_othrservcs
+1646,what should i do if i didnt receive my claim,int_hlth_claim_not_received
+1647,what will i do when claim is not received,int_hlth_claim_not_received
+1648,what do i do in case of not receiveing claim,int_hlth_claim_not_received
+1649,what do i do if i have more than single policy,int_motr_two_policy
+1650,what should i do if i have 2 policies for motor,int_motr_two_policy
+1651,what if i have got two policies for my motor insurance,int_motr_two_policy
+1652,what can i do if i got more than 1 insurance policy,int_motr_two_policy
+1653,what should i do when i am injured on the job,int_motr_injur_onjob
+1654,what do i do if i got an injury while i am at work place,int_motr_injur_onjob
+1655,what can i do if  i suffer from on the job injury,int_motr_injur_onjob
+1656,what should i do if i am injured on  job location,int_motr_injur_onjob
+1657,what can i do if my travel policy has expired before i could return from my travel,int_trvl_exp_before_return
+1658,what will i do if the travel policy expired while i am abroad,int_trvl_exp_before_return
+1659,what happens when i am abroad and my travel policy is expired,int_trvl_exp_before_return
+1660,what can i do when tpa is not reachable for filing a claim,int_trvl_unable_contact_tpa
+1661,what process should i follow when i am not able to contact tpa,int_trvl_unable_contact_tpa
+1662,what should i do when i can't contact tpa,int_trvl_unable_contact_tpa
+1663,what do i do if i am not able to contact the tpa,int_trvl_unable_contact_tpa
+1664,what if i am unable to contact the tpa for filing a claim,int_trvl_unable_contact_tpa
+1665,what is fire and perils policy,int_fire_what
+1666,What is Fire and Special Perils Policy,int_fire_what
+1667,What is Standard Fire & Special Perils Insurance,int_fire_what
+1668,What do you mean by Fire Insurance,int_fire_what
+1669,what comes under the scope of Fire Insurance Policy,int_fire_what
+1670,what does agent portal mean,int_agnt_portal
+1671,what is agent portal,int_agnt_portal
+1672,what is the meaning of agent portal,int_agnt_portal
+1673,what do you mean by agent portal,int_agnt_portal
+1674,what does agent stand for,int_agnt_who
+1675,what do you mean by an agent,int_agnt_who
+1676,who is an insurance agent,int_agnt_who
+1677,what is the meaning of agent,int_agnt_who
+1678,what is meant by ayush,int_hlth_ayush
+1679,what is ayush treatment,int_hlth_ayush
+1680,what is ayush,int_hlth_ayush
+1681,what is the meaning of ayush,int_hlth_ayush
+1682,what does continuous treatment mean,int_hlth_continuous_treatment
+1683,what do you mean by continuous treatment,int_hlth_continuous_treatment
+1684,what is the meaning of continuous treatment,int_hlth_continuous_treatment
+1685,what is meant by continuous treatment,int_hlth_continuous_treatment
+1686,what is co-payment in health insurance,int_hlth_what_co_pymnt
+1687,what do you mean by co payment in health insurance,int_hlth_what_co_pymnt
+1688,what is the meaning of copayment,int_hlth_what_co_pymnt
+1689,what is meant by copayment in health insurance,int_hlth_what_co_pymnt
+1690,what is meant by donor expenses,int_hlth_donor_expenses
+1691,what is meaning of donor expenses,int_hlth_donor_expenses
+1692,what do you mean by donor expenses,int_hlth_donor_expenses
+1693,what does donor expense mean,int_hlth_donor_expenses
+1694,what is meant by ec,int_motr_ec
+1695,what is the meaning of ec,int_motr_ec
+1696,what does ec stand for,int_motr_ec
+1697,what do you mean by ec,int_motr_ec
+1698,what does ec mean,int_motr_ec
+1699,what is meant by family floater plan,int_hlth_family_floater_plan
+1700,what does family floater plan mean,int_hlth_family_floater_plan
+1701,what is the meaning of family floater plan,int_hlth_family_floater_plan
+1702,what do you mean by family floater plan,int_hlth_family_floater_plan
+1703,what do you mean by free look period,int_hlth_freelook_period
+1704,what is meant by free look period,int_hlth_freelook_period
+1705,what does free look period mean,int_hlth_freelook_period
+1706,what is a free look period,int_hlth_freelook_period
+1707,what do you mean by health card,int_hlth_health_card
+1708,what is the meaning of health card,int_hlth_health_card
+1709,what does health card mean,int_hlth_health_card
+1710,what is meant by health card,int_hlth_health_card
+1711,what does hospital mean,int_hlth_hospital_means
+1712,what does hospital under mediclaim insurance mean,int_hlth_hospital_means
+1713,what is the meaning of hospital,int_hlth_hospital_means
+1714,what is meant by hospital,int_hlth_hospital_means
+1715,what is idv,int_motr_wht_idv
+1716,what does idv mean,int_motr_wht_idv
+1717,what do you mean by idv,int_motr_wht_idv
+1718,what is the meaning of idv,int_motr_wht_idv
+1719,what do you mean by mact,int_motr_mact
+1720,what does mact mean,int_motr_mact
+1721,what is mact,int_motr_mact
+1722,what is the meaning of mact,int_motr_mact
+1723,what does medical practitioner mean,int_hlth_who_medical_practitioner
+1724,whom do you consider medical practitioner,int_hlth_who_medical_practitioner
+1725,what do you mean by medical practitioner,int_hlth_who_medical_practitioner
+1726,what does migration mean in mediclaim policy,int_hlth_migration_policymodification
+1727,what do you mean by migration in policy,int_hlth_migration_policymodification
+1728,what is the meaning of migration in a mediclaim policy,int_hlth_migration_policymodification
+1729,what is migration under mediclaim,int_hlth_migration_policymodification
+1730,what is motor own damage insurance,int_motr_own_damage_insurnce
+1731,what is the meaning of motor od policy,int_motr_own_damage_insurnce
+1732,what does motor own damage policy mean,int_motr_own_damage_insurnce
+1733,what is meant by motor od,int_motr_own_damage_insurnce
+1734,what do you mean by motor own damage insurance policy,int_motr_own_damage_insurnce
+1735,what is meant by motor own damage insurance,int_motr_own_damage_insurnce
+1736,what is the meaning of motor own damage policy,int_motr_own_damage_insurnce
+1737,what does ncb certificate mean,int_motr_wht_ncb
+1738,what is ncb certificate,int_motr_wht_ncb
+1739,what is no claim bonus certificate,int_motr_wht_ncb
+1740,what is meant by ncb certificate,int_motr_wht_ncb
+1741,what is the meaning of ncb certificate,int_motr_wht_ncb
+1742,what is ncb,int_motr_what_no_claim_bonus
+1743,what does ncb mean,int_motr_what_no_claim_bonus
+1744,what do you mean by ncb,int_motr_what_no_claim_bonus
+1745,what is no claim bonus,int_motr_what_no_claim_bonus
+1746,what is meant by ncb,int_motr_what_no_claim_bonus
+1747,what does one illness mean,int_hlth_one_illness
+1748,what do you mean by one illness,int_hlth_one_illness
+1749,what is one illness,int_hlth_one_illness
+1750,what is the meaning of one illness,int_hlth_one_illness
+1751,what is portability,int_hlth_what_portability
+1752,what do you mean by portability,int_hlth_what_portability
+1753,what does portability mean,int_hlth_what_portability
+1754,what is the meaning of portability,int_hlth_what_portability
+1755,what is ppd,int_motr_ppd
+1756,what does ppd means for insurance,int_motr_ppd
+1757,what is meant by ppd,int_motr_ppd
+1758,what is the meaning of ppd,int_motr_ppd
+1759,what do you mean by ppd,int_motr_ppd
+1760,what is meant by pre-existing disease,int_hlth_what_pre_disease
+1761,what is a pre-existing disease,int_hlth_what_pre_disease
+1762,what does pre existing disease mean,int_hlth_what_pre_disease
+1763,what is the meaning of pre-existing disease,int_hlth_what_pre_disease
+1764,what do you mean by premier mediclaim policy,int_hlth_hospitalizationpolcy_spclfeatures
+1765,what is the meaning of premier mediclaim policy,int_hlth_hospitalizationpolcy_spclfeatures
+1766,what does premier mediclaim policy stand for,int_hlth_hospitalizationpolcy_spclfeatures
+1767,what does premier mediclaim policy mean,int_hlth_hospitalizationpolcy_spclfeatures
+1768,what is meant by ptd,int_motr_ptd
+1769,what does ptd stand for,int_motr_ptd
+1770,what is the meaning of ptd,int_motr_ptd
+1771,what do you mean by ptd,int_motr_ptd
+1772,what is ptd,int_motr_ptd
+1773,what do you mean by permanent total disablement,int_pacc_ptd
+1774,what does  ptd  mean,int_pacc_ptd
+1775,what is meant by ptd,int_pacc_ptd
+1776,what is the meaning of ptd,int_pacc_ptd
+1777,what do you mean by ptd,int_pacc_ptd
+1778,what is permanent total disablement,int_pacc_ptd
+1779,what do you mean by registered hospital,int_hlth_registered_hospital
+1780,what does registered hospital mean,int_hlth_registered_hospital
+1781,what is the meaning of registered hospital,int_hlth_registered_hospital
+1782,what is meant by registered hospital,int_hlth_registered_hospital
+1783,what does solatium fund scheme stand for,int_motr_what_solatium_fund_scheme
+1784,what is solatium fund scheme,int_motr_what_solatium_fund_scheme
+1785,what is the meaning of  solatium fund scheme,int_motr_what_solatium_fund_scheme
+1786,what do you mean by solatium fund scheme,int_motr_what_solatium_fund_scheme
+1787,what is meant by solatium fund scheme,int_motr_what_solatium_fund_scheme
+1788,what is threshold under NIA top up policy,int_hlth_threshold_topup_polcy
+1789,what do you mean by threshold in top up policy,int_hlth_threshold_topup_polcy
+1790,what does threshold mean in top up policy,int_hlth_threshold_topup_polcy
+1791,what is meany by threshold in top up policy,int_hlth_threshold_topup_polcy
+1792,what is tpa,int_hlth_what_tpa
+1793,what do you mean by tpa,int_hlth_what_tpa
+1794,what is the meaning of tpa,int_hlth_what_tpa
+1795,what does tpa mean,int_hlth_what_tpa
+1796,what is the meaning of ttd,int_motr_ttd
+1797,what does ttd stand for,int_motr_ttd
+1798,what is meant by ttd,int_motr_ttd
+1799,what do you mean by ttd,int_motr_ttd
+1800,what is ttd,int_motr_ttd
+1801,what does ttd mean,int_pacc_ttd
+1802,what is ttd,int_pacc_ttd
+1803,what is temporary total disablement,int_pacc_ttd
+1804,what is meant by ttd,int_pacc_ttd
+1805,what do you mean by ttd,int_pacc_ttd
+1806,what is the meaning of ttd,int_pacc_ttd
+1807,what is wc,int_motr_wc
+1808,what is the meaning of  wc,int_motr_wc
+1809,what does wc mean,int_motr_wc
+1810,what is meant by wc,int_motr_wc
+1811,what does  zero-depreciation cover mean,int_motr_zero_deprctn
+1812,what is  zero-depreciation cover,int_motr_zero_deprctn
+1813,what is  zero depreciation cover,int_motr_zero_deprctn
+1814,what is meant by  zero-depreciation cover,int_motr_zero_deprctn
+1815,what will happen if i am unable to renew policy on time,int_hlth_policy_not_renew
+1816,what do i do if the renewal of policy is not done in time,int_hlth_policy_not_renew
+1817,what happens to my health insurance policy if i do not renew it in time,int_hlth_policy_not_renew
+1818,what will i do if missed renewing policy on time,int_hlth_policy_not_renew
+1819,what is the meaning of cashless facility,int_hlth_what_cash_less
+1820,what is cashless facility,int_hlth_what_cash_less
+1821,what is cashless hospitalization,int_hlth_what_cash_less
+1822,what is meant by cashless facility,int_hlth_what_cash_less
+1823,where is policy number written,int_motr_policy_number
+1824,where can i get policynumber,int_motr_policy_number
+1825,what is the policy number of an insurance policy,int_motr_policy_number
+1826,what is a policy number,int_motr_policy_number
+1827,where do you find the policy number of my motor policy,int_motr_policy_number
+1828,what is nominee,int_pacc_who_nominee
+1829,who is a nominee,int_pacc_who_nominee
+1830,what is meant by nominee,int_pacc_who_nominee
+1831,who is called a nominee in pa policy,int_pacc_who_nominee
+1832,when should i renew policy,int_hlth_renew_when
+1833,when do i renew my policy,int_hlth_renew_when
+1834,what is  mediclaim policy renewal time,int_hlth_renew_when
+1835,when can i renew my mediclaim policy,int_hlth_renew_when
+1836,what is the age criteria for policy,int_hlth_min_max_age
+1837,what is the minimum age of entry in health policy,int_hlth_min_max_age
+1838,what is the age limit for taking policy,int_hlth_min_max_age
+1839,what is the minimum and maximum entry age in health insurance,int_hlth_min_max_age
+1840,what is the name of the authority who conducts exam for NIA agents,int_agnt_exm_authrty
+1841,which authority conducts the exam for an agent,int_agnt_exm_authrty
+1842,who conducts exam for an agent,int_agnt_exm_authrty
+1843,which agency conducts exam for agents,int_agnt_exm_authrty
+1844,where do i buy motor insurance,int_motr_where_buy_insurce
+1845,where will  i buy motor insurance,int_motr_where_buy_insurce
+1846,where  can i get a new insurance,int_motr_where_buy_insurce
+1847,where do i buy motor insurance policy,int_motr_where_buy_insurce
+1848,where is a motor insurance policy sold,int_motr_where_buy_insurce
+1849,where can i buy insurance,int_motr_where_buy_insurce
+1850,where can an insurance be bought,int_motr_where_buy_insurce
+1851,where do you sell motor insurance policy,int_motr_where_buy_insurce
+1852,where do i make motor insurance claim,int_motr_claim_contact
+1853,whom should i contact for motor  insurance claim,int_motr_claim_contact
+1854,who to contact to claim my policy,int_motr_claim_contact
+1855,where do i contact for claiming the motor insurance,int_motr_claim_contact
+1856,who should i contact if i get an accident,int_motr_who_contct_accident
+1857,who is the point of contact in the case of accident,int_motr_who_contct_accident
+1858,where do i contact in the case of motor hit with another motor,int_motr_who_contct_accident
+1859,where should i contact incase of motor hit with motor,int_motr_who_contct_accident
+1860,whom to contact in case of accident,int_motr_who_contct_accident
+1861,who can take group mediclaim policy,int_hlth_who_avail_mediclaim
+1862,who is eligible for  group mediclaim,int_hlth_who_avail_mediclaim
+1863,whom does NIA allow to take group mediclaim,int_hlth_who_avail_mediclaim
+1864,whom do you provide group mediclaim policy,int_hlth_who_avail_mediclaim
+1865,why would I take a policy for home,int_fire_why_take_policy
+1866,why would I take this policy for residence,int_fire_why_take_policy
+1867,why would I take a fire insurance for my house,int_fire_why_take_policy
+1868,Why should I take a fire policy for my residence,int_fire_why_take_policy
